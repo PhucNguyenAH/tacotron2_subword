@@ -1,0 +1,10 @@
+Outdir/training/*
+__pycache__/*
+DATA/*
+data/*
+Outdir/*
+*.csv
+checkpoints_KL_5400/*
+g2p/*
+g2p*/*
+.ipynb_checkpoints/*

@@ -1,0 +1,16 @@
+Traceback (most recent call last):
+  File "test_t2s_kaldiformat.py", line 11, in <module>
+    t2s = Text2Seq(phonetisaurus_model_path, g2p_config=g2p_config, phone_id_list_file=phone_id_list_file,  delimiter=None, ignore_white_space=True)
+  File "../g2p/text_to_sequence.py", line 22, in __init__
+    g2p_model = G2P_Phonetisaurus(g2p_model_path, g2p_config)
+  File "../g2p/g2p.py", line 114, in __init__
+    super(G2P_Phonetisaurus, self).__init__(config)
+  File "../g2p/g2p.py", line 30, in __init__
+    self.lexicon = build_lexicon(vi_lex_file, en_lex_file, foreign_lex_file)
+  File "../g2p/lexicon.py", line 95, in build_lexicon
+    enLex = load_lexicon(en_lexicon_file, value_processor = lambda x: " ".join(x))
+  File "../g2p/lexicon.py", line 71, in load_lexicon
+    line = norm_vnmese_accent(line)
+  File "../g2p/lexicon.py", line 24, in norm_vnmese_accent
+    words[i] = words[i].replace("oã", "õa")
+KeyboardInterrupt

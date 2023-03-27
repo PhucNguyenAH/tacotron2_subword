@@ -1,0 +1,9475 @@
+VinGroup	vin_g_rúp
+VinSchool	vin_x_cun
+VinEco	vin_e_co
+PVF	pê_vê_ép
+Adayroi	a đây rồi
+Vinmec	vin_mếch
+VinCommerce	vin_com_mớt_x
+Vinmart	vin_mát
+VinMart+	vin_mát cộng
+VinPro	vin_pờ_rô
+VinUNI	vin_iu_ni
+VinPearl	vin_pơn
+Vincom Retail	vin_com rì_têu
+VinFa	vin_pha
+VinID	vin_ai_đi
+VinCom	vin_com
+VinHomes	vin_hôm
+VinCity	vin_xi_ti
+VinFast	vin_phát
+VinVenture	vin_ven_trờ
+VinFast Service	vin_phát xơ_vít
+VinSmart	vin_xờ_mát
+VinConnect	vin_con_nếch
+VinTnet	vin_ti_nét
+VinBrain	vin_bờ_rên
+VinTech	vin_tếch
+HSM	hát_ét_mờ
+VinCSS	vin_xi_ét_ét
+VanTix	van_tích
+VinSoftware	vin_xóp_oe
+VinMedTek	vin_mét_tếch
+BigData	bích_đa_ta
+VinAI	vin_ây_ai
+Vin Hi-tech	vin hai_tếch
+Vintech City	vin_tếch xi_ti
+Trung tâm R&D	trung tâm rờ en đê
+IMEEH	ai_mi
+VinOptima	vin_óp_ti_ma
+VinPearl luxury resort and hotel	vin_pơn lắc_sơ_ri rì_sọt en hô_ten
+VinPearl Safari	vin_pơn xa_pha_ri
+VinPearl Golf and Luxury resort	vin_pơn gôn en lắc_sơ_ri rì_sọt
+Vingroup Ventures	vin_gờ_rúp ven_trờ_x
+Marketing	ma_két_tinh
+VinDigiX	vin_đi_gích
+Grand Prix	gờ_ran pờ_rích
+Sales & Marketing	xêu en ma_két_tinh
+Logistics Vincom	lô_gích_tích vin_côm
+Xavinco	xa_vin_cô
+Fintech	phin_tếch
+Vinoasis	vin_oa_xích
+Vinpearl City Hotel	vin_pơn xi_ti hô_ten
+Vinpearl Discovery	vin_pơn đít_x_ca_vơ_ri
+Vinpearl Condotel	vin_pơn con_đo_ten
+Vinpearl Golf	vin_pơn gôn
+Vinpearl VAP	vin_pơn váp
+Vinpearl Safari	vin_pơn xa_pha_ri
+Vinpearl Luxury	vin_pơn lắc_sơ_ri
+VinTaTa	vin_ta_ta
+E-commerce	i_com_mớt_x
+Vinpearl Travel	vin_pơn tre_vồ
+Wow Holiday	oào hô_li_đây
+Head Office	hét óp_phít
+Vintour	vin_tua
+PR Marketing	pi a ma_két_tinh
+Camera	ca_me_ra
+SmartHome	xờ_mát hôm
+VinSmart Myanmar	vin_xờ_mát mi_an_ma
+VinSmart Ukraine	vin_xờ_mát u_cờ_rai_na
+Fivimart	phi_vi_mát
+Kinh doanh Online	kinh doanh on_lai
+Vin Medtek	vin mét_tếch
+Ebus	e_bớt_x
+Digital Transformation	đi_gi_tờn tren_x_pho_mây_xừn
+Plasma	pờ_lát_ma
+Housekeeping	hau_x_kíp_pinh
+B2B - Online	bê_hai_bê on_lai
+IT Helpdesk	i_tê hép_đết
+Vsmart Joy 1+	vi_xờ_mát gioi oăn pờ_lớt_x
+Vsmart Joy 1	vi_xờ_mát gioi oăn
+Vsmart Active 1+	vi_xờ_mát ách_típ oăn pờ_lớt_x
+Vsmart Active 1	vi_xờ_mát ách_típ oăn
+VinFast Klara	vin_phát_x cờ_la_ra
+VinFast Lux 2.0	vin_phát lắc tu_poi_âu
+VinFast Lux SA 2.0	vin_phát lắc ét_ây tu_poi_âu
+VinFast Fadil	vin_phát pha_đin
+Institute of Big Data	in_x_ti_tút óp bích đa_ta
+Vin Big Data Institute	vin bích đa_ta in_xờ_ti_tút
+Viettel	việt_theo
+Vinamilk	vi_na_miu
+VNPT	vi_en_pi_ti
+Sabeco	sa_bê_cô
+Petrovietnam	pê_trô_việt_nam
+Mobifone	mô_bi_phôn
+Vinaphone	vi_na_phôn
+Vietnam Airlines	việt_nam e_lai
+Thaco Trường Hải	tha_cô trường hải
+BIDV	bi_ai_đi_vi
+FPT	ép_pê_tê
+VietinBank	việt_tin_banh
+Masan Consumer	ma_xan con_xiu_mơ
+thegioididong.com	thế_giới_di_động_chấm_com
+Vietcombank	việt_com_banh
+Habeco	ha_bê_cô
+Vietjet Air	việt_dét e
+VPBank	vi_pi_banh
+PNJ	pi_en_di
+MBBank	em_bi_banh
+Techcombank	tếch_com_banh
+Sacombank	sa_com_banh
+Vinacafe	vi_na_cà_phê
+Coteccons	cô_tếch_con_x
+Novaland	nô_va_len
+SHB	ét_hát_bê
+Vinatex	vi_na_tếch
+VIB	vi_ai_bi
+CII	xi_ai_ai
+Vinasun	vi_na_săn
+Vicostone	vi_cô_x_tôn
+Tập đoàn FLC	tập đoàn ép_lờ_xê
+ACV	a_xê_vê
+Viglacera	vi_gờ_la_xe_ra
+Eximbank	e_xim_banh
+ABA	a_bê_a
+ABC	a_bê_xê
+ACB	a_xê_bê
+Acer	ây_xơ
+adidas	a_di_đát
+Aeon Mall	a_e_on môn
+Agribank	a_gờ_ri_banh
+AIA	a_i_a
+Air Mekong	e mê_công
+AirAsia	e a_xi_a
+Aji Ngon	a_gi ngon
+Alene	a_le_ne
+Alibaba	a_li_ba_ba
+Always	ôn_uây
+Amazon	a_ma_dôn
+Anlene	en_lin
+Anmum	en_măm
+AP Thailand	a pê thái_lan
+Apple	áp_pồ
+Aquafina	a_qua_phi_na
+Ariel	a_ri_en
+Armani	ác_ma_ni
+Ashima	a_si_ma
+Asus	a_xút
+Audi	o_đì
+Avis	a_vi_xờ
+Avon	a_von
+Axe	ác_xờ
+Baileys	bai_lây_x
+Beeline	bi_lin
+Benetton	be_nét_tôn
+Bentley	ben_lây
+BestMua	bét_xờ_mua
+BHD Cineplex	bê_hát_đê xi_nê_pờ_lếch
+Bia 333	bia ba_ba_ba
+Bibica	bi_bi_ca
+Bidrico	bít_ri_cô
+Big C	bích_xi
+Biore	bi_ô_rê
+Birdy	bớt_đi
+Biti's	bi_tít_x
+BlackBerry	bờ_lách_be_ri
+BMW	bê_mờ_vê
+BreadTalk	bờ_rét_thoóc_cơ
+British Airways	bờ_ri_tít e_uây
+British Council	bờ_ri_tít cau_xin
+Budweiser	bất_guây_dơ
+Burberry	bớc_be_ri
+Burger King	bơ_gơ kinh
+C2	xê hai
+Calvin Klein	can_vin cờ_lin
+Camry	cam_ri
+Carlsberg	các_bớc
+Castrol	cát_xờ_trôn
+CC-Lemon	xi_xi le_mừn
+Centrum	xen_trum
+CGV	xê_gờ_vê
+Chevrolet	che_vô_lét
+Chinsu	chin_xu
+Chipotle	chi_pô_tồ
+Circle K	xớc_cờ ca
+Citimart	xi_ti_mác
+Clean & Clear	cờ_lin en cờ_lia
+Clear	cờ_lia
+ClearMen	cờ_lia_men
+Closeup	cờ_lâu_giấp
+Co-op Mart	cóp mác
+Coca-Cola	cô_ca cô_la
+Colgate	côn_gát
+Comfort	com_pho
+Converse	con_vơ_xờ
+CoolAir	cun_e
+Coop Mart	cóp mác
+Cornetto	con_nét_tô
+Corona	cô_rôn_na
+Cozy	cô_gi
+CSR	xê_ét_e_rờ
+Daewoo	đai_u
+Dairy Queen	đai_ri quyn
+Dasani	đa_xa_ni
+Dell	đeo
+Diana	đi_a_na
+Dielac	đi_e_lắc
+Diet Coke	đi_ét cốc
+Doublemint	đáp_bồ_min
+Dove	đô
+Downy	đao_ni
+Dr Thanh	đốc_tơ thanh
+Ducati	đu_ca_ti
+Dulux	đu_lắc
+Dunkin’ Donuts	đăn_kin đô_nớt_x
+Dunlopillo	đăn_lóp_pi_lô
+Duracell	đu_ra_xeo
+Durex	đu_rếch
+Dutch Lady	đớt lây_đi
+E100	e_một_trăm
+EasyTaxi	i_gì_tắc_xi
+eBay	y_bây
+Electrolux	ê_lếch_trô_lắc
+Elmich Việt Nam	en_mích việt nam
+Enfa	en_pha
+Enjoy	en_gioi
+ENSURE	en_xua
+Evian	e_vi_an
+Fami	pha_mi
+FamilyMart	pha_mi_li mác
+Fanta	phan_ta
+FedEx	phe_đếch_x
+Ferrari	phơ_ra_ri
+Ferroli	phe_rô_li
+Ford	pho
+Ford Escape	pho ếch_x_kếp
+Ford Everest	pho e_vơ_rét
+Ford Fiesta	pho phi_ét_x_ta
+Ford Ranger	pho ren_gờ
+FPT shop	ép_pê_tê sốp
+Friso	phờ_ri_sô
+Fuji Xerox	phu_gi xê_rốc
+G7	gờ_bảy
+Galaxy Cinema	ga_la_xi xi_nê_ma
+Givral	ghi_vờ_ran
+Go-Viet	gâu_việt
+GoGi House	gô_ghi hao_x
+Goldsoy	gôn_xoi
+Gong Cha	gông cha
+Google	gúc_gờ
+Grab	gờ_ráp
+Gucci	gu_chi
+H&M	ết_chèn_em
+Häfele	ha_phe_le
+Haier	hai_ơ
+Harvey Nichols	ha_vây ni_côn_x
+Head & Shoulders	hét en _sao_đờ
+Heineken	hê_ni_ken
+Heinz	hen_giờ
+Hello Kitty	hê_lô kít_ti
+Hermes	héc_mét
+Highlands Coffee	hai_len cà_phê
+Hitachi	hi_ta_chi
+Honda	hon_đa
+HP	ết_pi
+HSBC	ết_ét_x_bi_xi
+Huawei	hoa_guây
+Huda	hu_đa
+Huda Huế	hu_đa Huế
+Huggies	ha_gít_x
+Hyundai	hun_đai
+IBM	ai_bi_em
+Ice+	ai_xi_cộng
+IKEA	ai_ki_a
+Infiniti	in_phi_ni_ti
+Isuzu	i_xu_giu
+Izzi	i_gi
+Jetstar Pacific Airlines	giét_xờ_ta pa_xi_phíc e_lai
+Jockey	gioóc_ki
+Johnnie Walker	giôn_ni oác_cơ
+Johnsons' Baby	giôn_xơn bây_bi
+Jollibee	giôn_li_bi
+Jotun	gio_tun
+Juicie	giu_xi
+Kabin	ca_bin
+Kangaroo	can_ga_ru
+KFC	ca_ép_xê
+Khải Silk	khải_siu
+KIA	ki_a
+KitKat	kít_cát
+Knorr	cờ_no
+Kodak	cô_đắc
+Kotex	cô_tếch
+Kronenbourg 1664	cờ_ro_nen_bót một_sáu_sáu_tư
+Kymdan	kim_đan
+L'Occitane	lo_xi_tan
+L'Oréal	lo_ri_e
+La Vie	la_vi
+Lacoste	la_cốt
+LAMBORGHINI	lam_bô_ghi_ni
+Lancôme	lan_côm
+Laser	la_gie
+Laser Beer	la_gie bia
+Lazada	la_da_đa
+Legendee	le_giừn_đi
+Lego	lê_gô
+Lenovo	lê-nô-vô
+Levi's	le_vít
+Lexus	lếch_xợt_x
+LG	lờ_gi
+Lifebuoy	lai_boi
+Lipton	líp_tông
+Listerine	lít_xờ_tơ_rin
+Lix	lít_x
+Lotte	lót_te
+Lotte Cinema	lót_te xi_nê_ma
+Lotte mart	lót_te mát
+Lotteria	lót_te_ri_a
+Louis Vuitton	lu_i vui_ton
+Love'in Farm	la_vờ_in pham
+Lovite	lo_vi_te
+Lux	lắc
+M&M's	em_èn_em
+MacCoffee	mắc_cóp_phi
+Maggi	ma_gi
+MailChimp	meo_chim_pờ
+Mamamy	ma_ma_mi
+Manchester United	man_chét_x_tơ iu_nai_tựt
+Manulife	men_nu_lai
+Marlboro	ma_bô_rô
+Marvela	ma_ve_la
+Maximark	mắc_xi_mắc
+MAZDA	mát_da
+McDonald's	mắc_đô_nan
+Mead Johnson	mít giôn_xơn
+Megastar	me_ga_x_ta
+Mentos	men_tốt_x
+Mercedes	méc_xê_đéc
+Merino	me_ri_nô
+Metro	mê_trô
+Mikochi	mi_cô_chi
+Miliket	mi_li_két
+Milo	mi_lô
+Mirinda	mi_rin_đa
+Mitsubishi	mít_xu_bi_si
+Mobiistar	mô_bi_x_ta
+NAN Kid	nan kít
+Neptune	nép_tuyn
+Nescafe	nét_x_cà_phê
+Nestea	nét_x_ti
+Netflix	nét_phờ_lích_x
+Nike	nai_ki
+Nikon	ni_côn
+Nippon	níp_pông
+NISSAN	nít_xan
+Nissin	nít_xin
+Nivea	ni_vi_a
+Number 1	năm_bờ_oan
+Number One	năm_bờ_oan
+Nutifood	nu_ti_phút
+Nutriboost	nu_tri_bút
+Ohui	ô_uầy
+Olay	ô_lay
+Omachi	ô_ma_chi
+Omo	ô_mô
+Oppo	óp_pồ
+Oral-B	ô_ran_bi
+Oreo	ô_re_ô
+Oriflame	o_ri_phờ_lêm
+P/S	pê_et
+Pampers	pam_pơ_x
+Panadol	pa_na_đôn
+Panasonic	pa_na_xô_ních
+Pantene	pen_tin
+Pepsi	pép_si
+Petrolimex	pê_trô_li_mếch
+Peugeot	pơ_giô
+Philips	phi_líp_x
+PhinDeli	phin_đê_li
+Piaggio	pi_a_giô
+Pinaco	pi_na_cô
+Pizza Hut	pi_da_hút
+Poca	pô_ca
+Pond's	pôn
+Pond's Men	pôn men
+Porsche	po_sờ
+Prôvence	pờ_rô_ven_x
+Pringles	pờ_rinh_gờ_x
+Prudential	pờ_ru_đen_xồ
+Puma	pu_ma
+Pushmax	pút_sờ_mắc
+Ramus	ra_mút
+Red Bull	rét_bun
+Rei	rây
+Rejoice	rì_gioi
+Remy Martin	re_mi mác_tin
+Revive	ri_vai
+Rexona	re_xo_na
+Ridielac	ri_đi_e_lắc
+Riot	rai_ớt
+Rolls & Royce	rôn_en_roi
+Romano	rô_ma_nô
+Royale	roi_àu
+S-fone	ét_phôn
+Samsonite	xam_xo_ni_te
+Samsung	sam_sung
+Samurai	xa_mu_rai
+Sapporo	xáp_pô_rro
+Sapuwa	xáp_pu_oa
+Sharp	sáp
+Shell	seo
+Shiseido	si_xi_đo
+Similac	xi_mi_lắc
+Singapore Airlines	xinh_ga_po e_lai
+Smirnoff	x_mi_nóp
+Sony	xô_ni
+Spotify	x_po_ti_phai
+Sprite	xập_rai
+Standard Chartered	x_ten_đớt chai_tờ_rớt
+Starbucks	sờ_ta_bấc_x
+State Street Global Advisors	x_tết x_tờ_rít gờ_lô_ban ất_vai_giờ
+Stayfree	x_tây phờ_ri
+Sting	xờ_tinh
+Subway	xắp_uây
+Sun House	xan_hau_x
+Sunlight	xan_lai
+Sunsilk	xan_xiu
+Surf	xớt_rờ
+Suzuki	xu_giu_ki
+TAC Victoria	tác víc_to_ri_a
+Tea Plus	ti_pờ_pớt
+Tesla	tét_x_la
+TH True Milk	tê_hát tru _miu
+The Body Shop	giờ bo_đi sóp
+The Clean Shop	giơ cờ_lin sóp
+The Coffee Bean & Tea Leaf	giơ cóp_phi bin en ti líp
+The Terminal Coffee	giờ téc_mi_nồ cóp_phi
+Thorakao	tho_ra_cao
+Tide	thai_đờ
+Tiger	thai_gơ
+Tiki	tít_ki
+Toppo	tóp_pô
+Toshiba	tô_si_ba
+Total	tô_tan
+Tous les Jours	tíu_xờ lét gioi_x
+Toyota	tô_y_ô_ta
+Traphaco	tra_pha_cô
+TRESemmé	tre_xem_mi
+Tribeco	tri_be_cô
+Twister	tờ_uýt_tơ
+Twitter	tờ_uýt_tơ
+Uber	u_bơ
+Uniqlo	y_iu_ni_cờ_lâu
+Vascara	va_x_ca_ra
+Vaseline	va_giơ_lin
+Vedan	vê_đan
+Vertu	vơ_tu
+Vfresh	vê_phờ_rét
+Viber	vai_bơ
+Vichy	vi_chi
+Vietnamworks	việt_nam_uốc
+Vietravel	việt_tre_vồ
+Vifon	vi_phông
+Vim	vim
+Vinamit	vi_na_mít
+Vinasoy	vi_na_xoi
+Viso	vi_xô
+Vivo	vi_vô
+Vodafone	vô-đa-phôn
+Volkswagen	vốt_x_oa_đừn
+Volvo	von_vô
+VP Bank	vi_pi_banh
+Wall’s	oan_x
+Walmart	oan_mát
+Walt Disney	oan đíc_x_nây
+Wonderfarm	uôn_đơ_pham
+X-Men	ích_men
+Xiaomi	xi_ao_mi
+Yahoo	i_a_hu
+Yamaha	i_a_ma_ha
+Yomost	i_ô_mốt
+YouTube	iu_túp
+Zalo	gia_lô
+Zara	da_ra
+Zing	ginh
+Site	xai_tờ
+Microsoft	mai_cờ_rô_sóp
+Facebook	phây_búc
+Disney	đít_xờ_ni
+AT&T	ây_ti_en_ti
+Intel	in_theo
+Cisco	xít_x_câu
+GE	gi_i
+Mercedes-Benz	méc_xê_đéc ben
+Oracle	o_rơ_cồ
+Verizon	vơ_rai_dừn
+SAP	ét_a_pê
+Visa	vi_da
+American Express	ơ_me_ri_cừn ếch_x_pờ_rét_x
+Home Depot	hôm đi_pót
+Hermès	hơ_mít_x
+Accenture	ếch_xen_trờ
+Gillette	gi_lét
+Frito-Lay	phờ_ri_tô lây
+Wells Fargo	oeo pha_gâu
+Mastercard	mát_x_tơ_các
+Siemens	xi_mừn_x
+CVS	xi_vi_ét_x
+ESPN	y_ét_x_pi_en
+Nestle	nét_tờ_lê
+UPS	u_pê_ét
+J.P. Morgan	giây_pi_mo_gừn
+Deloitte	đờ_loi
+Fox	phoóc_x
+Chase	chây_x
+Bank of America	banh óp a_me_ri_ca
+Citi	xi_ti
+Cartier	ca_đi_ờ
+Adobe	ơ_đốp
+PwC	pi_đắp_bơ_y_iu_xi
+T-Mobile	tê_mô_bai
+Lowe's	lâu_x
+Santander	xen_ten_đờ
+Danone	đa_nô
+PayPal	pây_peo
+Rolex	rô_lếch_x
+Chanel	trờ_neo
+Goldman Sachs	gôn_mần xéc_x
+Costco	cót_x_câu
+Caterpillar	ca_tơ_pi_lơ
+RBC	a_bi_xi
+Allianz	a_li_ừn
+Hewlett-Packard Enterprise	hiu_lết phe_cớt en_tơ
+John Deere	gion đia_ơ
+BASF	bi_ây_ét_x_ép
+Kellogg's	keo_lo_gờ
+Amazon.com	a_ma_dôn_chấm_com
+NVIDIA	en_vi_đi_a
+Salesforce.com	xêu_phót_chấm_com
+ServiceNow	xơ_vít_x_nao
+Square	xờ_que
+Analog Devices	a_na_lốc đì_vai_x
+Palo Alto Networks	pa_lô an_tô nét_uốc_x
+Splunk	xờ_pờ_lăng
+Adobe Systems	a_đô_bi xít_x_tầm
+Broadcom	bờ_roát_com
+Leidos	lê_đốt_x
+ON Semiconductor Corp.	on xe_mi_con_đắc_tơ co_rờ
+Match Group	mát gờ_rúp
+Tech Mahindra	tếch ma_hin_đờ_ra
+Workday	uốc_đây
+Charter Communications	chát_tơ com_miu_ni_cây_sừn_x
+Tencent Holdings	ten_xen hâu_đinh_x
+Micron Technology	mi_cờ_ron tếch_nô_lô_gi
+SK Hynix	ét_x_ca hi_ních_x
+Arista Networks	a_rít_x_ta nét_uốc_x
+Baidu	bai_đu
+Catcher Technology	cát_chơ tếch_nô_lô_gi
+Constellation Software	con_xờ_teo_lây_sừn xóp_oe
+Hikvision	hích_vi_dừn
+Tokyo Electron	tô_ki_ô ê_lếch_tron
+ASML Holding	a_ét_mờ_lờ hôn_đinh
+Dassault Systemes	đa_xô xít_x_tem
+Focus Media Information Technology	phâu_cớt_x mê_đi_a in_phom_mây_sừn tếch_nô_lô_gi
+Infineon Technologies	in_phi_nê_on tếch_nô_lô_gi_x
+Keyence	ke_en_x
+Naver	na_vơ
+Unisplendour	u_nít_xờ_pờ_len_đơ
+VMware	vê_mờ_oe
+Worldpay	uôn_pây
+CDW	xê_đê_vê_kép
+Dell Technologies	đeo tếch_nô_lô_gi
+Nokia	nô_ki_a
+Sunny Optical Technology Group	"xăn_ni óp_ti_cồ tếch_nô_lô_gi
+ gờ_rúp"
+Infosys	in_phô_xít_x
+Intuit	in_tút
+JD.com	gi_đê_chấm_com
+NEXON	nếch_xon
+Red Hat	rét_hát
+Samsung SDS	xam_xung ét_x_đê_ét_x
+AAC Technologies Holdings	a_a_xê tếch_nô_lô_gi_x hâu_đinh_x
+Alphabet	an_pha_bét
+Discovery Communications	đít_x_co_vơ_ri com_miu_ni_cây_sừn_x
+IPG Photonics	i_pê_gờ phô_tô_ních_x
+Lam Research	lam ri_xớt
+Vipshop Holdings	víp_sóp hâu_đinh_x
+Comcast	com_cát_x
+Fortive	pho_típ
+Jabil Circuit	gia_bin xơ_cớt
+Sanan Optoelectronics	xa_nan óp_tô_ê_lếch_trô_ních_x
+Taiwan Semiconductor	tai_oan xê_mi_con_đắc_tờ
+TDK	tê_đê_ca
+VeriSign	ve_ri xai
+Adyen	át_y_en
+Amphenol	am_phê_nôn
+BOE Technology Group	bê_o_e tếch_nô_lô_gi gờ_rúp
+HCL Technologies	hát_xê_lờ tếch_nô_lô_gi_x
+Pinduoduo	pin_đu_ô_đu_ô
+Spotify Technology	xờ_pót_ti_phai tếch_nô_lô_gi
+Zalando	da_lan_đô
+Applied Materials	ấp_pờ_lai mơ_tê_ri_ồ_x
+Microchip Technology	mai_cờ_rô_chíp tếch_nô_lô_gi
+Nanya Technology	nan_y_a tếch_nô_lô_gi
+Sky	xờ_cai
+TCL Corp	tê_xê_lờ cóp
+ATOS	a_tót_x
+Murata Manufacturing	mu_ra_ta men_niu_phách_trờ_rinh
+Naspers	nát_x_pơ_x
+NXP Semiconductors	nờ_ích_x_pê xê_mi_con_đắc_tờ_x
+STMicroelectronics	ét_x_tê_mi_cờ_rô_ê_lếch_trô_ních_x
+Advanced Micro Devices	ất_van_x mi_cờ_rô đi_vai_x
+Cognizant	coóc_ni_dừn
+DISH Network	đít_s nét_uốc
+Inventec	in_ven_tếc
+MediaTek	mê_đi_a_tếch
+NetApp	nét_áp
+NetEase	nét_i_x
+Qualcomm	quan_com
+Samsung Electronics	xam_xung ê_lếch_trô_ních_x
+Seagate Technology	xi_ghết tếch_nô_lô_gi
+Skyworks Solutions	xờ_cai_uốc_x xô_lu_sừn_x
+Check Point Software	chếch poi xóp_oe
+Cisco Systems	xít_x_cô xít_x_tầm
+Hewlett Packard Enterprise	hiu_lét pách_cát en_tơ_pờ_rai_x
+LARGAN Precision	la_gan pờ_re_xi_sừn
+Berkshire Hathaway	bớc_sai ha_tha_uây
+Industrial and Commercial Bank of China	in_đớt_x_tri_ồ en com_mơ_sồ banh ợp chai_nờ
+China Construction Bank	chai_nờ con_xờ_trắc_sừn banh
+Wikipedia	uy_ki_pê_đi_a
+Agricultural Bank of China	a_gờ_ri_căn_trờ banh ợp _chai_nờ
+The Home Depot	dơ hôm đi_pót
+Marriott International	me_ri_ớt in_tơ_na_sừn_nồ
+McDonalds	mấc_đô_nan
+ExxonMobil	ếch_xon_mô_bin
+SyncForce Client	xin_phót_x cờ_lai_ừn
+Bank of China	banh ợp chai_nờ
+Hilton Hotels & Resorts	hin_tơn hô_theo en rì_xọt
+Adidas Group	a_di_đát gờ_rúp
+Lays	lây
+Citibank	xi_ti_banh
+Boeing	bô_ing
+United Health Group	iu_nai_tựt heo gờ_rúp
+ADP	a_đê_pê
+CVS Health	xê_vê_ét_x heo
+Hersheys	hơ_sây_x
+Hershey's	hơ_sây_x
+Canon	ca_nông
+General Electric	gie_nơ_rồ ê_lếch_trích
+Alibaba Group	a_li_ba_ba gờ_rúp
+Nestlé	nét_tờ_lê
+Emirates	e_mi_rết_x
+Lowes	lâu_x
+3M	ba_mờ
+Salesforce	xêu_x_phót_x
+Johnson and Johnson	giôn_xơn en giôn_xơn
+ING	inh
+Target	ta_ghét
+Booking.com	búc_kinh_chấm_com
+U.S. Bank	u_ét_x banh
+Eli Lilly	e_li li_li
+Tencent	ten_xen
+Nescafé	nét_x_cà_phê
+JPMorgan Chase & Co.	gi_pê_mo_gan chây_x và cô
+USPS	u_ét_x_pê_ét_x
+Procter & Gamble	pờ_róc_tơ và gam_bồ
+BP	bê_pê
+Instagram	in_xờ_ta_gờ_ram
+Xfinity	ích_x_phi_ni_ti
+SyncForce Customer	xin_phót_x cớt_x_từm_mơ
+Hotels.com	hô_theo_x_chấm_com
+Volvo Cars	vôn_vô ca_x
+GoDaddy.com	gâu_đát_đi_chấm_com
+Hewlett-Packard	hiu_lét pách_cát 
+McDonald’s	mấc_đô_nan
+7-Eleven	xe_vừn_i_le_vừn
+Playstation	pờ_lây_xờ_tây_sừn
+Cadbury	cát_bu_ri
+Epson	ép_xơn
+Uni-president	iu_ni_pừ_re_di_đừn
+DHL	đê_hát_lờ
+Meiji	mê_gi
+Darlie	đa_li
+Michelin	mi_che_lin
+Nintendo	nin_ten_đô
+Häagen-Dazs	ha_ghen_đát_x
+Bridgestone	bờ_rít_xờ_tôn
+L’Oréal	lo_rê_an
+Air Asia	e a_xi_a
+Watsons	oát_xơn_x
+Christian Dior	cờ_rít_ti_an đi_ô
+Pocari Sweat	pô_ca_ri xờ_oét
+Kao	cao
+Ferrero Rocher	phe_re_rô rô_chơ
+Singapore	sing_ga_po
+MasterKong	mát_x_tơ công
+Gatorade	ga_to_rết
+Kellogg’s	keo_lo_gờ
+Daikin	đai_kin
+SK-II	ét_x_ca_hai
+Wrigley’s Arrow	gờ_rích_li_x a_râu
+Sanyo	xan_ni_ô
+Amul	a_mun
+Lancomé	lan_côm
+Seiko	xê_cô  
+Casio	ca_xi_ô
+Xbox	ích_x_bóc_x
+Tesco	tét_x_cô
+NTUC FairPrice	nờ_tê_u_xê phe_pờ_rai_x
+Whirlpool	uyn_pun
+HTC	hát_tê_xê
+Hilton	hin_tơn 
+Cathay Pacific	ca_thay pa_xi_phích
+Sony Ericsson	xô_ni e_ríc_xon
+100 Plus	một_trăm pờ_lớt_x
+Morinaga	mo_ri_na_ga
+Breeze	bờ_ri_dờ
+Caltex	can_tếch_x
+Esso	ét_xô
+Johnson & Johnson	giôn_xơn en giôn_xơn
+Kingfisher	kinh_phít_sơ
+Fujitsu	phu_gít_xư
+Guardian	ga_đi_ừn
+Baskin Robbins	bát_xờ_kin róp_bin_x
+Omega	ô_mê_ga
+Louis Vuitton (LV)	lu_i_x vút_tông (lờ_vê)
+Coles	câu_x
+Lee Kum Kee	li cum ki
+Reebok	ri_búc
+Lay’s	lây_x
+Marigold	ma_ri_gốt
+Harley Davidson	ha_li đa_vít_xơn
+Goodyear	gút_ia
+Quaker	quếch_cơ
+Jetstar	giét_xờ_ta
+Thai Airways	thái e_uây
+JVC	gi_vê_xê
+Prudential (UK)	pờ_ru_đen_xồ (u_ca)
+Maxims	mắc_xim
+Lion	lai_ừn
+Olympus	ô_lim_pút_x
+Extra	ếch_x_tra
+Suntory	xăn_to_ri
+Garnier	gác_ni_ê
+Virgin	vi_gin
+Palmolive	pan_mô_líp
+Mamy Poko	ma_mi pô_cô
+Dettol	đét_tôn
+Estée Lauder	ét_x_te lau_đờ
+Clinique	cờ_lin_ni_kê
+Mengniu	meng_niu
+Lindt	lin
+Hershey’s	hơ_sây_x
+Malaysia Airlines	ma_lai_xi_a e_lai
+Tropicana	tróp_pi_ca_na
+Pond’s	pon
+BATA	ba_ta
+Carrefour	ca_rê_pho
+Tsingtao	tờ_xinh_tao
+Maybank	mây_banh
+Kirin	ki_rin
+Kookmin Bank (KB)	cúc_min banh (cây_bi)
+Dunlop	đăn_lốp
+Tiger Airways	tai_gơ e_uây
+Swensen’s	xờ_oen_xen
+Pedigree	pe_đi_gờ_ri
+Wei Chuan	uây chuân
+China Mobile	chi_na mô_bai
+Big Bazaar	bích ba_da
+Dove (Chocolate)	đô (sô_cô_la)
+Mama	ma_ma
+CPC (Taiwan)	xê_pê_xê(tai_oan)
+Bing	binh
+ANA	a_nờ_a
+Tiffany & Co.	típ_phan_ni en cô
+Minute Maid	mi_nít mết
+Tiger Beer	tai_gơ bia
+Singtel	xinh_teo
+Korean Air	cô_rê_an e
+NTT	nờ_tê_tê
+Qantas	can_tát_x
+Nongshim	nong_sim
+Ralph Lauren	ráp_phờ lau_ren
+Siam Commercial Bank	xi_am com_mơ_xơ banh
+Asiana	a_xi_a_na
+Park n shop	pác en sóp 
+Seoul Milk	xơ_un miu
+G2000	gờ_hai_nghìn
+SK Telecom	ét_ca tê_lê_com
+Dunhill	đăn_hiu
+Shinhan bank	sin_han banh
+Kuroneko Yamato	cu_ro_nê_cô y_a_ma_tô
+DBS	đê_bê_ét_x
+Pioneer	pi_ô_nia
+ICICI Bank	i_xi_xi banh
+State Bank of India (SBI)	xờ_tết banh ợp in_đi_a (ét_bê_i)
+Telstra	ten_xờ_tra
+Citizen	xi_ti_den
+Dumex	đu_mếch_x
+Airtel	e_ten
+Sinopec	xi_nô_pếch
+Asahi	a_xa_hi
+PTT	pê_tê_tê
+Coffee Bean	cóp_phi bin
+Mos Burger	mốt_x bơ_gơ
+China Airlines	chi_na e_lai
+NEC	nờ_e_xê
+Sunkist	xăn_kít
+KTF	ca_tê_ép
+Japan Airlines (JAL)	gia_pan e_lai (gi_a_lờ)
+China Trust	chi_na trớt_x
+Woolworths	un_uốt_x
+Shangri-La	sang_ri_la
+Yili	i_li
+F&N	ép_và_nờ
+Chunghwa Telecom (CHT)	chung_hoa tê_lê_com (xê_hát_tê)
+ICBC Asia	i_xê_bê_xê a_xi_a
+Tag Heuer	tác hoi_ơ
+China Merchants Bank	chi_na mơ_chừn_x banh
+Giant	giai_ừn
+Old Town	âu tao
+Hankook	han_cúc
+Taiwan Beer	tai_oan bia
+Bulgari	bun_ga_ri
+Kumkang	cum_cang
+LIC	lờ_i_xê
+Kasikorn Bank	ca_xi_con banh
+Fisher & Paykel	phít_sơ và pây_ken
+Sensodyne	xen_xô_đai
+Yokohama	y_ô_cô_ha_ma
+Brother	bờ_ra_dờ
+British Petroleum (BP)	bờ_ri_tít pê_trô_lê_um(bê_pê)
+Hyatt	hi_át
+Supau	xu_pau
+CPC (China)	xê_pê_xê (chi_na)
+Moccona	móc_cô_na
+Powerade	pao_ờ_rết
+Cafe Coffee Day	cà_phê cóp_phi đây
+Advance Info Service	ất_van in_pho xơ_vít
+MSN	mờ_ét_x_nờ
+Singha	xing_ha
+Titan	ti_tan
+Chow Tai Fook	châu tai phúc
+Lawson	lo_xơn
+SK	ét_x_ka
+DTAC	đê_tê_a_xê
+Ethnicans	ét_ni_can_x
+Godiva	gô_đi_va
+Pacific Coffee	pa_xi_phích cóp_phi
+Amway	am_uây
+Café De Coral	cà_phê đê cô_ran
+GS 25	gờ_ét_x hai_lăm
+Mild Seven	min xe_vừn
+Maxis	mắc_xít_x
+Kawasaki	ka_oa_xa_ki
+Bru	bờ_ru
+Fab	pháp
+Lakme	lác_mê
+Optus	óp_tút_x
+HDFC Bank	hát_đê_ép_xê banh 
+Westinghouse	oét_x_tinh_hao_x
+Haitai	hai_tai
+Oishi	oi_si
+Bangkok Bank	băng_cốc banh
+Nok Air	noóc e
+Attack	a_tách
+Samyang	xam_y_ang
+Clarks	cờ_lác_x
+Vita	vi_ta
+Pokka	póc_ca
+Cheers	chia_x
+Petronas	pê_trô_nát_x
+Apollo	a_pô_lô
+Jusco	giút_x_cô
+Namyang	nam_y_ang
+Kopitiam	cô_pi_ti_am
+Daum	đa_um
+Ping An Insurance	pinh an in_xu_rừn_x
+Kuang-Chuan	quang_chuân
+Tatung	ta_tung
+Midea	mi_đi_a
+Magnolia	mác_nô_li_a
+Swatch	xờ_oắt 
+Maeil	ma_e
+Revlon	rép_lon
+Nongfu Shan Quan	nông_phu san quan
+Great Eastern	gờ_rết ít_x_từn
+Hang Seng Bank	hang xeng banh
+Wai Wai	oai oai
+Maybelline	mây_ben_lai
+StarHub	xờ_ta hắp
+Outback	ao_bách
+Madras Rubber Factory	ma_đờ_rát_x rắp_bơ phách_to_ri
+Glico	gờ_li_cô
+Mr. Brown	mít_x_tơ bờ_rao
+Dairy Farm	đai_ri pham
+Fuji	phu_gi
+Vidal Sassoon	vi_đan xát_x_xun
+Hugo Boss	hu_gô bót_x
+Chivas	chi_vát_x
+Bisleri	bít_x_lê_ri
+AXA	a_xa
+Taj	tai
+United Overseas Bank	iu_nai_tựt âu_vờ_xi_x banh
+Hite	hai
+Dynamo	đi_na_mô
+Biotherm	bi_ô_them
+Malee	ma_li
+China Unicom	chi_na u_ni_com
+Cosmed	cót_x_mét
+M&M’s	mờ_và_mờ
+Manning’s	man_ninh_x
+Prada	pờ_ra_đa
+Sheraton	sê_ra_tông
+CIMB Bank	xê_i_mờ_bê banh
+China Southern Airlines	chi_na xao_thừn e_lai_x
+UCC	u_xê_xê
+Airwaves	e_uếp_x
+Kumho	cum_hô
+Sponsor	xờ_pon_xờ
+GS Caltex	gờ_ét_x can_tếch_x
+Eva Air	ê_va e
+Kissan	kít_xan
+Bose	bâu_x
+Kelvinator	ken_vin_na_tờ
+OCBC	o_xê_bê_xê
+Teco	tê_cô
+Air China	e chi_na
+Fubon	phu_bon
+Softbank	xóp_banh
+Hey Song	hây xoong
+Del Monte	đen mon_te
+Maxwell House	mắc_eo hao_x
+Cheil Jedang (CJ)	chây giê_đang (xê_gi)
+Barista Lavazza (India)	ba_rít_x_ta la_va_da (in_đi_a)
+Sagawa	xa_ga_oa
+Tao Ti	tao ti
+Shokubutsu	sô_cư_bút_xư
+Pepsodent	pép_xô_đen
+Cold Storage	câu xờ_to_rết
+Mr. Juicy	mít_x_tơ giui_xi
+Aquarius	a_qua_ri_ớt_x
+Nippon Oil Corporation	níp_pon oi co_pô_rây_sừn
+Orion	o_ri_on
+Tipco	típ_cô
+Reliance (RIL)	ri_lai_ừn (a_ai_eo)
+Bioré	bi_ô_rê
+Orkut	o_cút
+Aekyung 2080	e_ki_y_ăng hai_không_tám_không
+Aeon	a_e_on
+Bally	ban_li
+Gloria Jeans	gờ_lo_ri_a gin_x
+Gree	gờ_ri
+Kwality	ca_oa_li_ti
+Celcom	xen_com
+Mother Dairy	ma_dờ đai_ri
+China Eastern Airlines	chi_na ít_x_từn e_lai_x
+Cass	cát_x
+SF Express	ét_x_ép ếch_pờ_rét_x
+Kanebo	ca_nê_bô
+Chow Sang Sang	châu sang sang
+Foremost	pho_mốt_x
+Spritzer	xờ_pờ_rít_dơ
+Doutor	đâu_tơ
+Formosa Petrochemical	phoóc_mô_xa pê_tro_kem_mi_cồ
+Hush Puppies	hớt_s pắp_pi_x
+Boss	bót_x
+VIPS	vê_i_pê_ét
+Bajaj	ba_giai
+Schweppes	sơ_oép_pơ
+M1	mờ_một
+Carrier	ca_ri_ơ
+Halls	hôn_x
+Boh	bô
+MUFG	mờ_u_ép_gờ
+MK suki	mờ_ca xu_ki
+Sugus	xu_gút_x
+Ghana	ga_na
+AU	au
+Macleans	ma_cờ_lin
+Crest	cờ_rét_x
+Close up	cờ_lâu_x ắp
+Whiskas	uýt_x_cát_x
+Maruti	ma_ru_ti
+POSB	pê_o_ét_x_bê
+ANZ	a_nờ_dét
+Abbott	áp_bót
+Van Houten	van hô_ten
+T-cat	ti_cát
+Motorola	mô_tô_rô_la
+Indian Oil Corporation	in_đi_ừn oi co_pô_rây_sừn
+Crocodile	cờ_roóc_cô_đai
+Real	rê_an
+Xiaonei/Renren	xi_ao_ni/ren_ren
+Dentyne	đen_tin
+Four Seasons	pho xi_dừn_x
+Peters	pi_tơ_x
+TNT	tê_nờ_tê
+Berri	be_ri
+Ben & Jerry’s	ben và gie_ri_x
+Commonwealth	com_mon_eo
+Tata	ta_ta
+Doll	đôn
+Mobil	mô_bin
+Taiwan Mobile	tai_oan mô_bai
+Amore Pacific	a_mo pa_xi_phích
+Jet Airways	giét e_uây_x
+SYM	xim
+Kikkoman	kích_cô_man
+Kowloon Dairy	câu_lun đai_ri
+Zipel	díp_pen
+Oral B	o_ran bi
+Compaq	com_pắc
+Dreyer’s	đờ_re_ơ_x
+Firefly	phai_ờ_phờ_lai
+Kymco	kim_cô
+Guess	gét_x
+Golden Mountain	gâu_đừn mao_từn
+IGA	i_gờ_a
+Cathay Life	ca_thay lai_phờ
+MAC	mác
+Perrier	pe_ri_e
+Korea Express	cô_re_a ếch_x_pờ_rét_x
+Calbee	can_bi
+Cyworld	xai_uốt
+Wyeth	uy_ét
+Clinic	cờ_lin_ních
+Hanjin	han_gin
+Jeju Air	giê_giu e
+Air India	e in_đi_a
+Korea Post	cô_re_a pốt_x
+HL	hát_lờ
+Hui Yuan	hui y_u_an
+Digi	di_gi
+Shinramyun	sin_ra_mi_un
+85°C	tám mươi lăm độ xê
+Lin Fong Ying (LFY)	lin phong inh (eo_ep_oai)
+Salvatore Ferragamo	xa_va_to phê_ra_ga_mô
+Donna Karan (DKNY)	đon_na ca_ran (đê_ca_nờ_i)
+Godrej	go_đờ_rây
+Pauls	pau_x
+Hero Honda	hê_rô hon_đa
+Myojo	mi_ô_giô
+Westpac	oét_pác
+Nissay	nít_xây
+Top Ramen	tốp ra_men
+Hungry Jack’s	hăng_ri giách
+Neutrogena	nêu_trô_gie_na
+Fairwood	phe_út
+Chupa Chups	chúp_pa chúp
+Peninsula	pe_nin_xu_la
+Matsumoto Kiyoshi	mát_xu_mô_tô ki_y_ô_si
+Li Ning	li ninh
+Twisties	tuýt_ti_x
+Bear Brand	be bờ_ren
+My space	mai xờ_pây_x
+Snow Brand	xờ_nâu bờ_ren
+Kagome	ca_gô_mê
+Tissot	tít_xót
+JCB	gi_xê_bê
+Kimlan	kim_lan
+Iriver	i_ri_vơ
+Bull-Dog	bun_đoóc
+Longines	loong_gi_nét_x
+Amoy	a_moi
+Krung Thai	cờ_rung thái
+Mixi	mi_xi
+Zhonghua (Cigarette)	dông_hua (xi_ga_rét)
+Meiji (Milk Powder)	mê_gi (miu pao_đờ)
+Volvic	vôn_vích
+China Life	chi_na lai_phờ
+TRUE	tru
+Videocon	vi_deo_con
+Gusto	gút_x_tô
+Xu Fu Ji	xiu phu di
+CSL	xê_ét_lờ
+IndoMie	in_đô_mi
+Safeguard	xếp_phờ_gát
+Holden	hâu_đừn   
+Chilsung Cider	chiu_xung xi_đờ
+Shilla	si_la
+Regal	re_gan
+Allen’s	a_len_x
+FETnet	phét_nét
+S26	ét_x_hai_mươi_sáu
+Fruit Tree	phờ_rút tri
+Paos	pao_x
+York	i_oóc
+China Pacific Insurance	chi_na pa_xi_phích in_xu_ran_x
+Hai Tian	hai ti_en
+DHC	đê_hát_xê
+Crystal Jade	cờ_rít_x_tồ dết
+Blue Dart	bờ_lu đát
+Nan Shan	nan san
+Drypers	đờ_rai_pờ_x
+ASO	a_ét_x_ô
+White Rabbit	oai ra_bít
+Sumitomo Misui (SMBC)	xu_mi_to_mo mi_xui (ét_mờ_bê_xê)
+Marriott	ma_ri_ốt
+SpiceJet Airlines	xờ_pai_x_giét e_lai_x
+Pentax	pen_tắc
+Pon Pon	pon pon
+Public Bank	pắp_lích banh
+ICICI Prudential	i_xi_xi pờ_ru_den_xồ
+Yves Saint Laurent (YSL)	i_vờ xanh lô_răng (i_ét_lờ)
+Masterfood	mát_x_tơ phút
+PosLaju	pót_x_la_giu
+Habib Jewels	ha_bíp gie_eo_x
+PCCW	pê_xê_xê_đáp_liu
+Yum Yum	y_um y_um
+7-Up	bảy_ắp
+Spencer	xờ_pen_xơ
+China-SSS	chi_na_ét_ét_ét
+Poh Kong	pô công
+Dragonair	đờ_ra_gừn_e
+Little Swan	lít_tồ xờ_oan
+Dairy Farmers	đai_ri pham_mơ_x
+Maidong	mai_đông
+Thai Post	thái pốt_x
+Cerelac	xe_re_lác
+Top	tóp
+H-TWO-O	ết_tu_âu
+Patek Philippe	pa_tếch phi_líp_pê
+Rolls Royce	rôn roi_x
+NAB	nờ_a_bê
+Thai Life Insurance	Thái lai in_xu_ran_x
+Chiclet	chích_cờ_lét
+Kaixin001	cai_xin_không_không_một
+Perioe	pe_ri_âu
+Alfred Dunhill	an_phờ_rét đun_hiu
+TGI Friday’s	ti_gi_ai phờ_rai_đây_x
+Wahaha	oa_ha_ha
+Ceat	xi_i_ây_ti
+Tanishq	ta_nít_s_cờ
+Hennessy	hen_nét_xi
+Homeplus	hôm_pờ_lớt_x
+Bright Dairy	bờ_rai đai_ri
+China Telecom	chi_na tê_lê_com
+Angelinus	an_giê_li_nớt_x
+Creative	cờ_ri_ây_típ
+Holiday Inn	ho_li_đây in
+AAMI	a_a_mờ_i
+Post	pốt_x
+La New	la niu
+Yeo Hiap Seng (YEO)	i_eo hi_áp xeng (oai_i_âu)
+Bangchak	bang_chắc
+Esquire	ét_x_quai_ờ
+Moutai	mâu_tai
+IndiGo	in_đi_gô
+Bank of Ayudhya	banh ợp a_iu_đia_a
+Kit Kat	kít cát
+Bank of Taiwan	banh ợp tai_oan
+S-oil	ét_x_oi
+BPCL	bê_pê_xê_lờ
+Cintan	xin_tan
+Streets	xờ_trét
+Aura	au_ra
+Ito-en	i_tô_en
+Blue Girl	bờ_lu gơn
+Kose	cô_xê
+Y.E.S Mineral Water	y_ét min_nê_rồ oa_tờ
+Ritz-Carlton	rít_ca_tơn
+Haldiram	han_đi_ram
+General Electric (GE)	gie_nơ_rồ ê_lếch_trích (gờ_e)
+Beat	bít
+Tops	tóp_x
+Woori Bank	u_ri banh
+Big Babool	bích ba_bôn
+Timberland	tim_bơ_len
+Nespray	nét_xờ_pờ_rây
+Sulwhasoo	xun_oa_xu
+Wangsteak	oang_xờ_tếch
+Koka	cô_ca
+Mamee	ma_mi
+Matsusei	mát_xu_xê
+Idemitsu	i_đê_mít_xu
+Woodland	út_len
+San Miguel	xan mi_gu_en
+Elizabeth Arden	ê_li_da_bét a_đen
+Clarins	cờ_la_rin_x
+Black Canyon	bờ_lách can_y_on
+Sunstar	xăn_xờ_ta
+EMS	e_mờ_ét_x
+Fair and Lovely	phe en lớp_li
+E-Mart	e_mát
+UBC Coffee	u_bê_xê cóp_phi
+Oksusu Tea	ốc_xu_xu ti
+Mizuno	mi_du_nô
+Lucozade	lu_cô_da_đê
+Wuliangye	u_li_ang_gi
+Golden Circle	gâu_đừn xơ_cồ
+Levi’s	lê_vi
+AXE (Detergent)	ách_x (đi_tớ_giừn)
+Hacks	hách
+Davidoff	đa_vít_ọp
+Krong Thip	cờ_rông thíp
+XIAO-MEI	xi_ao_mây
+Merries	me_ri_x
+Cha Li Won	cha_li_oan
+E.SUN	e_xăn
+QQ	qui_qui
+Bonaqua	bo_na_qua
+Clairol Herbal Essences	cờ_le_rôn hơ_bồ ét_xen_xít_x
+Domino’s	đô_mi_nô
+Toblerone	to_bồ_rôn
+Wills	uyn
+Bosch	bót_s
+Takaful	ta_ca_phun
+SPC	ét_pê_xê
+Jack’n Jill	dách_ken giu
+Onida	ô_ni_đa
+Salem	xa_lem
+Dairy Milk	đai_ri miu
+Timex	ti_mếch_x
+Aoyama	a_ô_y_a_ma
+Ba Wang	ba oang
+Dutchmilk	đắt_chờ_miu
+Anna Sui	an_na xui
+Mizuho	mi_du_hô
+Max Factor	mắc phách_tờ
+NPC	nờ_pê_xê
+Continental	con_ti_nen_tồ
+Fila	phi_la
+Pura	pu_ra
+Japan Post (JP)	gia_pan pốt_x (gi_pê)
+Swarovski	xờ_oa_rốp_xờ_ki
+Shen Tong	sen_tong
+Axis Bank	a_xít_x banh
+Khao Shong	khao_sông
+Absolut	áp_xô_lút
+Topman/Topshop	tóp_men/tóp_sóp
+Pears	pia_x
+Wantwant	oăn_oăn
+Dongsuh	đông_xù
+Zhonghua	dông_hua
+Lexmark	lếch_mắc
+Peel Fresh	piu phờ_rét_s
+Arrow	a_râu
+Luk Fook	lúc phúc
+Boomer	bom_mơ
+Ballantine’s	ba_lan_tin
+TCL	tê_xê_lờ
+Muang Thai Insurance	mu_ang_thái in_xu_rừn_x
+Bonia	bô_ni_a
+Life	lai_phờ
+Ice Mountain	ai_x mao_từn
+Zanussi	da_nút_xi
+Belle	beo_le
+Fernleaf	phơn_líp
+Wei Lih	uây li
+DTDC	đê_tê_đê_xê
+17 Tea	mười_bảy ti
+Grand Hyatt	gờ_ran hi_át
+Miwon	mi_uân
+Elastine	ê_lát_x_tin
+Chang Beer	chang bia
+Leo	lê_ô
+Giordano	gio_đan_nô
+Kent	ken
+Kenwood	ken_út
+Mango (MNG)	mang_gô (mờ_nờ_giê)
+Yanjing	y_en_dinh
+Dolce & Gabbana	đôn_chề en gáp_ba_na
+Royal Host	roi_ồ hốt_x
+Superbubble	xúp_pơ_bắp_bồ
+Liby	li_bi
+Maruchan	ma_ru_chan
+Nestum	nét_tum
+Oriental	o_ri_en_tồ
+Martell	ma_teo
+Elcanto	eo_can_tô
+Pxmart	pê_ích_mát
+Kinley	kin_li
+Cow Soap	cao xôp
+Protex	pờ_rô_tếch_x
+Ryoe	ri_âu
+Taishin International Bank	tai_sin in_tơ_na_sừn_nồ banh
+Lee Hwa	li_hoa
+RT Mart	rờ_tê mát
+Bulla	bu_la
+Renault Samsung Motors	rê_nau xam_xung mô_tơ
+Parle	pa_le
+Morewater	mo_oa_tờ
+Minere	min_e
+Inter-Continental	in_tơ_con_ti_nen_tồ
+Shanghaojia	sang_hao_gi_a
+Chungjungwon	chung_dung_uân
+Boots	bút_x
+Versace	vơ_xạc
+Yuan Tong Express	y_u_an tông ếch_x_pờ_rét_x
+Dusit	đu_xít
+Camel	ca_meo
+Taywin	tay_uyn
+Danggimeori	đang_gi_meo_ri
+TVS	tê_vê_ét_x
+Hubba Bubba	húp_ba búp_ba
+Super Coffee Mix	xúp_pơ cóp_phi mích_x
+77	bảy_bảy
+I-MEI	i_mây
+Rado	ra_đo
+Bubble Yum	bắp_bồ y_ăm
+Pirelli	pi_re_li
+King’s Creameries	king_x cờ_rim_mơ_ri_x
+Asics	a_xích
+Hyundai Logiem	huyn_đai lô_gi_em
+Indian Airlines	in_đi_an e_lai_x
+Guinness	ghi_nét_x
+Sanitarium	xa_ni_ta_ri_um
+Tung Lok	tung_lốc
+Rin	rin
+Priceline	pờ_rai_x_lai
+Unity Pharmacy	u_ni_ti phạc_ma_xi
+Café Bene	cà_phê be_ne
+Norton	no_tơn
+Victor	vích_to
+SE 555	ét_x_e năm_năm_năm
+Ochaen	ô_cha_en
+Friendster	phờ_ren_x_tơ
+Sizzler	xít_dờ_lơ
+Megumilk	mê_gu_miu
+Salz	xan
+Diners Club	đin_nơ_x cờ_lắp
+Wanjashan	oan_gia_san
+ITC	i_tê_xê
+Pasteur	pát_x_tơ
+Fountain	phao_từn
+RAC	rác
+Linux	li_núc_x
+Friskies	phờ_rít_x_ki_x
+Cosmo Oil	cót_x_mô oi
+Cold Stone	câu xờ_tôn
+Fujiya	phu_gi_y_a
+Trident	tri_đen
+BC Card	bê_xê cát
+Sumitomo Life	xu_mi_tô_mô lai
+Benson & Hedges	ben_xơn và hét_ghét_x
+Smith’s	xờ_mít_x
+Oberoi	ô_bê_roi
+Hi5	hai_năm
+KLIM	ca_lim
+Amcal	am_can
+Konka	con_ca
+Soda	xô_đa
+IFB	i_ép_bê
+Poh Heng	pô_heng
+Barista (Taiwan)	ba_rít_x_ta (tai_oan)
+General	gie_nơ_rồ
+Kimball	kim_bôn 
+Mandarin Oriental	man_đa_rin o_ri_en_tồ
+Aflac	a_phờ_lác
+Simpson	xim_xơn
+Winfield	uyn_phiu
+Pierre Cardin	pi_ê ca_đin
+Taj Mahal (Tea)	tát ma_han (ti)
+Trappist	tráp_pít_x
+Gold Flake	gôn phờ_lếch
+ito Yokado	i_tô y_ô_ca_đô
+Novotel	nô_vô_teo
+China Mobile (HK)	chi_na mô_bai (hát_ca)
+KoKo Krunch (Nestlé)	cô_cô cờ_răn (nét_tờ_lê)
+NRMA	nờ_rờ_mờ_a
+Fantastic	phan_ta_x_tích
+Hainan Airlines	hai_nan e_lai
+Healthy Boy	heo_thi boi
+Aavin	a_a_vê_i_nờ
+Coffee Club	cóp_phi cờ_lắp
+Aoki	a_ô_ki
+Jimmy Choo	gim_mi chu
+Long Life	loong lai
+Natural Confectionery Co.	nây_trờ con_phếch_sừn_ne_ri câu
+S&P	ét_x_và_pê
+Haywards	hây_uốt_x
+Voltas	vôn_ta
+Sheng Shiong	seng si_ông
+Trigem	tri_ghem
+Blue Moon	bờ_lu mun
+Aldi	an_đi
+Cathay United Bank	ca_thay u_nai_tựt banh
+Arnott’s	a_nót_x
+Prouds	pờ_rao
+Uncle Toby	ăng_cồ tô_bi
+Capico	ca_pi_cô
+Imperial Hotel	im_pê_ri_ồ hô_teo
+Scholl	xờ_chôn
+Pro Sweat	pờ_rô xờ_oét
+Mitsuya Cider	mít_xu_y_a xai_đơ
+Zhenkungfu	den_cung_phu
+Raymonds	rây_mon
+Mr Muscle	mít_x_tơ mớt_xồ
+BenQ	ben_qui
+Denon	đê_non
+Mister Potato	mít_x_tơ pô_tây_tô
+Saravana Bhavan	xa_ra_va_na ba-van
+New Balance	niu ba_lừn_x
+Ali Café	a_li cà_phê
+Jin Air	gin e
+Aekyung	a_e_ki_y_ăng
+Esprit	e_xờ_pờ_rít
+Choice	choi_x
+Chemist Warehouse	kem_mít_x oe_hao_x
+KTC	ca_tê_xê
+Charles & Keith	cha_li_x và kít
+Jukyum	giu_ki_um
+Crown	cờ_rao
+Nine West	nai oét_x
+Happy Bath	hép_pi bát
+Sisley	xít_x_li
+Sanyuan	xa_niu_oan
+Grand Formosa Regent	gờ_ran phoọc_mô_xa re_giừn
+Hyosung	hi_y_ô_xung
+Rivers	ri_vờ
+Kolon	cô_lôn
+Clorets	cờ_lo_rét_x
+Twinings	tờ_uyn_ninh_x
+OB	o_bê
+GUM	găm
+Nate	nết
+Sina	xi_na
+Daiichi Life	đai_chi lai
+566	năm_sáu_sáu
+Aigo	ai_gô
+UHA Mikakuto	u_hát_a mi_ca_cu_tô
+Ajinomoto	a_gi_nô_mô_tô
+Tully’s	tu_li
+Chi Mei	chi_mê
+Tooheys	tu_hây_x
+Daelim	đê_lim
+Imperial	im_pê_ri_ồ
+Hera	hê_ra
+Toll	tôn
+Himalaya	hi_ma_lay_a
+Fancl	phan_xê_lờ
+Proton	pờ_rô_tông
+Safi	xa_phi
+Wei-Wei	uây_uây
+Jack Daniel	dách đan_ni_en
+Terry White	te_ri oai
+Gerber	gơ_bơ
+Swipe	xờ_oai
+Bingrae	bing_rê
+Mie Sedap	mi xê_đáp
+Victoria Bitter (VB)	vích_to_ri_a bít_tờ (vi_bi)
+Koikeya	coi_kê_y_a
+Wakodo	oa_cô_đô
+Michael Hill	mi_cha_en hin
+Florsheim	phờ_lo_sê_im
+Mövenpick	mô_ven_pích
+Da Da	đa đa
+Fresh Delight	phờ_rét_s đi_lai
+Dentiste	đen_tít_x_te
+Duroyal	đu_roi_y_ồ
+Center Fresh	xen_tờ phờ_rét_s
+M-Sport	mờ_x_pót
+Dabur	đa_bu
+SPD Bank	ét_x_pê_đê banh
+City Super	xi_ti xu_pơ
+PAL	pan
+Morning Fresh	mo_ninh phờ_rét_s
+Soo Kee (SKJ)	xu_ki (ét_cây_gi)
+Suncorp	xăn_cóp
+Ottogi	ốt_tô_gi
+Carlton	can_tơn
+Fuji (Restaurant chain)	phu_gi (rét_tau_ran chên)
+Revive isotonic	ri_vai i_xô_tô_ních
+Frooti	phờ_ru_ti
+Heaven & Earth	he_vừn en_ớt
+CBA	xê_bê_a
+Fair And Handsome	phe en hen_xăm
+Saizeriya	xai_dê_ri_y_a
+Guangdong Development	goang_đông đe_ve_lóp_mừn
+Ricoh	ri_co
+Miele	mi_le
+Heart Beat	hót_bít
+Mei Ri C	mây ri xê
+Cesar	xi_dờ
+Royal	roi_y_ồ
+Asience	a_xi_en_x
+Otafuku	ô_ta_phu_cu
+Wu Yang	u y_ang
+Tommy Hilfiger	tôm_mi hiu_phi_gờ
+Café Amazon	cà_phê a_ma_dôn
+Kerasys	kê_ra_xít_x
+Pigeon	pi_gie_on
+Thums Up	thăm_x_ắp
+Hogs Breath	hoóc_x bờ_rét
+Kinmen Kao Liang	kin_men cao_li_ang
+Bank of Communications	banh ợp com_miu_ni_cây_sừn
+Ginvera	gin_vê_ra
+Shin Kong Life Insurance	sin công lai in_xu_rừn_x
+Nippon Express	níp_pông ếch_pờ_rét_x
+Centara	xen_ta_ra
+IT	ai_ti
+Australia post	ốt_x_trây_li_a pốt_x
+Gogo no Kocha	gô_gô no cô_cha
+Mister Donut	mít_x_tơ đô_nớt
+99 Speedmart	chín_chín xờ_pít_mát
+Fosters	phót_x_tơ_x
+The Professional Couriers	dờ pờ_rô_phét_sừn_nồ ca_ri_ờ_x
+XXXX	ích_ích_ích_ích
+Hana	ha_na
+Park Avenue	pác a_ve_nu
+Sansui	xan_xui
+Magnum	mác_num
+Taster’s Choice	tát_x_tờ_x choi_x
+Fossil	phót_xin
+Arun	a_run
+Aviva	a_vi_va
+Double Happiness	đắp_bồ háp_pi_nít_x
+Bacardi	ba_ca_đi
+Leconte	lê_con_tê
+Devondale	đe_von_đêu
+More	mo
+Harvey Fresh	ha_vi phờ_rét_s
+Gatsby	gát_x_bi
+Afghanistan	áp_ga_nít_tăng
+Albania	an_ba_ni
+Algeria	an_giê_ri
+Andorra	an_đô_ra
+Angola	ăng_gô_la
+Antigua and Barbuda	ăng_ti_gua và bác_bu_đa
+Argentina	ác_hen_ti_na
+Armenia	ác_mê_ni_a
+Australia	ốt_x_trây_li_a
+Austria	ốt_x_tri_a
+Azerbaijan	a_déc_bai_dan
+Bahamas	ba_ha_mát
+Bahrain	ba_ranh
+Bangladesh	băng_la_đét
+Barbados	bác_ba_đốt
+Belarus	bê_la_rút
+Belgium	ben_gi_um
+Belize	bờ_li_dờ
+Benin	bê_nanh
+Bhutan	bu_tan
+Bolivia	bô_li_vi_a
+Bosnia and Herzegovina	bô_x_ni_a và héc_xê_gô_vin_na
+Botswana	bốt_xoa_na
+Brazil	bờ_ra_xin
+Brunei	bờ_ru_nây
+Bulgaria	bun_ga_ri
+Burkina Faso	buốc_ki_na pha_xô
+Burundi	bu_run_đi
+Côte d'Ivoire	cốt đi_voa
+Cabo Verde	ca_bô ve
+Cambodia	căm_bô_đia_a
+Cameroon	ca_mơ_run
+Canada	ca_na_đa
+Central African Republic	xen_trồ a_phờ_ri_can ri_pắp_lích
+Chad	Sát
+Chile	chi_lê
+China	chi_na
+Colombia	cô_lôm_bi_a
+Comoros	cô_mô_rốt_x
+Congo (Congo-Brazzaville)	công_gô (công_gô bờ_ra_da_vin)
+Costa Rica	cốt_x_ta ri_ca
+Croatia	cờ_rô_a_ti_a
+Cuba	cu_ba
+Cyprus	síp
+Czechia	séc
+Democratic Republic of the Congo	đê_mô_cờ_ra_tích ri_pắp_lích ợp dờ công_gô
+Denmark	đan_mạch
+Djibouti	gi_bu_ti
+Dominica	đô_mi_ni_ca
+Dominican Republic	đô_mi_ni_cần ri_pắp_lích
+Ecuador	ê_cu_a_đo
+Egypt	ê_gíp
+El Salvador	en xan_va_đo
+Equatorial Guinea	ê_cua_tô_ri_an ghi_nê
+Eritrea	ê_ri_tơ_rê_a
+Estonia	e_x_tô_ni_a
+Ethiopia	ê_ti_ô_pi_a
+Fiji	phi_gi
+Finland	phin_lần
+France	phờ_răng_xe
+Gabon	ga_bông
+Gambia	giăm_bi_a
+Georgia	gioóc_gi_a
+Germany	giơ_ma_ni
+Greece	gờ_ri_x
+Grenada	gờ_rê_na_đa
+Guatemala	gua_tê_ma_la
+Guinea	ghi_nê
+Guinea-Bissau	ghi_nê bít_xao
+Guyana	gui_a_na
+Haiti	ha_i_ti
+Holy See	hô_li xi
+Honduras	hôn_đu_rát
+Hungary	hung_ga_ri
+Iceland	ai_xơ_len
+India	in_đi_a
+Indonesia	in_đô_nê_xi_a
+Iran	i_ran
+Iraq	i_rắc
+Ireland	ai_len
+Israel	i_x_ra_en
+Italy	i_ta_li
+Jamaica	gia_mai_ca
+Japan	gia_pan
+Jordan	gioóc_đan
+Kazakhstan	ca_dắc_x_tan
+Kenya	kê_ni_a
+Kiribati	ki_ri_ba_ti
+Kuwait	cô_oét
+Kyrgyzstan	Cư_rơ_gư_dơ_x_tan
+Laos	lào
+Latvia	lát_vi_a
+Lebanon	lê_băng_non
+Lesotho	lê_xô_thô
+Liberia	li_bê_ri_a
+Libya	li_bi
+Liechtenstein	lích_ten_x_tên
+Lithuania	li_thu_a_ni_a
+Luxembourg	lúc_xăm_bua
+Madagascar	ma_đa_gát_x_ca
+Malawi	ma_la_uy
+Malaysia	ma_lai_xi_a
+Maldives	man_đi_vơ
+Mali	ma_li
+Malta	man_ta
+Marshall Islands	mác_xan ai_lần
+Mauritania	mô_ri_ta_ni_a
+Mauritius	mô_ri_xớt
+Mexico	mê_hi_cô
+Micronesia	mi_cờ_rô_nê_xi_a
+Moldova	môn_đô_va
+Monaco	mô_na_cô
+Mongolia	mông_gô_li_a
+Montenegro	mông_tê_nê_gờ_rô
+Morocco	ma_rốc
+Mozambique	mô_dăm_bích
+Myanmar (formerly Burma)	mi_an_ma (phom_mơ_li bu_ma)
+Namibia	nam_mi_bi_a
+Nauru	na_u_ru
+Nepal	nê_pan
+Netherlands	ne_thơ_len_x
+New Zealand	niu di_lân
+Nicaragua	ni_ca_ra_gua
+Niger	ni_giê
+Nigeria	ni_giê_ri_a
+North Korea	nót cô_rê_a
+North Macedonia	nót ma_xê_đô_ni_a
+Norway	no_uây
+Oman	ô_man
+Pakistan	pa_kít_x_tan
+Palau	pa_lau
+Palestine State	pa_le_x_tin x_tết_tờ
+Panama	pa_na_ma
+Papua New Guinea	pa_pua niu ghi_nê
+Paraguay	pa_ra_goay
+Peru	pê_ru
+Philippines	phi_líp_pin
+Poland	pâu_lừn
+Portugal	poóc_tu_gan
+Qatar	ca_ta
+Romania	ru_ma_ni
+Russia	rút_xi_a
+Rwanda	ru_an_đa
+Saint Kitts and Nevis	xanh kít và ne_vít
+Saint Lucia	xanh lu_xi_a
+Saint Vincent and the Grenadines	xanh vin_xen en dờ gờ_re_na_đin
+Samoa	xa_moa
+San Marino	xan ma_ri_nô
+Sao Tome and Principe	xao tô_mê và pờ_rin_xi_pê
+Saudi Arabia	xau_đi a_ra_bi_a
+Senegal	xê_nê_gan
+Serbia	xéc_bi-a
+Seychelles	xây_xen
+Sierra Leone	xi_ê_ra lê_ôn
+Slovakia	xờ_lô_va_ki_a
+Slovenia	xờ_lô_ve_ni_a
+Solomon Islands	xô_lô_môn ai_lần
+Somalia	xô_ma_li
+South Africa	xao a_phờ_ri_ca
+South Korea	xao cô_rê_a
+South Sudan	xao xu_đăng
+Spain	xờ_pên
+Sri Lanka	xơ_ri lan_ca
+Sudan	xu_đăng
+Suriname	xu_ri_nam
+Swaziland	xoa_di_len
+Sweden	xờ_oe_đen
+Switzerland	xờ_uýt_dơ_len
+Syria	xi_ri
+Tajikistan	tát_gi_ki_x_tan
+Tanzania	tan_da_ni_a
+Thailand	thái_lan
+Timor-Leste	ti_mo lét_x_tê
+Togo	tô_gô
+Tonga	tôn_ga
+Trinidad and Tobago	tri_ni_đát và tô_ba_gô
+Tunisia	tuy_ni_di
+Turkey	tơ_ki
+Turkmenistan	tuốc_mê_ni_x_tan
+Tuvalu	tu_va_lu
+Uganda	u_gan_đa
+Ukraine	u_cờ_rai_na
+United Arab Emirates	iu_nai_tựt a_rập e_mơ_rết
+United Kingdom	iu_nai_tựt kinh_đom
+United States of America	iu_nai_tựt xờ_tết_x ợp ơ_me_ri_ca
+Uruguay	u_ru_goay
+Uzbekistan	u_dơ_bê_ki_x_tan
+Vanuatu	va_nu_a_tu
+Venezuela	vê_nê_duê_la
+Vietnam	việt_nam
+Yemen	y_ê_men
+Zambia	dăm_bi_a
+Zimbabwe	dim_ba_bu_ê
+Vatican	va_ti_căng
+Alma Ata	an_ma a_ta
+Amman	am_man
+Amsterdam	am_x_téc_đam
+Ankara	an_ca_ra
+Athena	a_thê_na
+Athens	a_ten
+Atlanta	át_lan_ta
+Auckland	oóc_lan
+Baltimore	ban_ti_mo
+Bangalore	băng_ga_lo
+Bangkok	băng cốc
+Barcelona	bác_xê_lô_na
+Beirut	bê_rút
+Belo Horizonte	bê_lô hô_ri_dôn_te
+Bengaluru	beng_ga_lu_ru
+Berlin	béc_lin
+Birmingham	bớc_minh_ham
+Boston	bót_x_tơn
+Brisbane	bờ_rít_x_bên
+Brussels	bờ_rúc_xen_x
+Bucharest	bu_ca_rét
+Budapest	bu_đa_pét
+Buenos Aires	bu_ê_nốt ai_rét
+Cairo	cai_rô
+Calgary	can_ga_ri
+Cape Town	kếp tao
+Caracas	ca_ra_cát_x
+Casablanca	ca_xa_bờ_lan_ca
+Chennai	chen_nai
+Chicago	si_ca_gô
+Cleveland	cờ_le_ve_lần
+Colombo	cô_lôm_bô
+Copenhagen	cô_pen_ha_ghen
+Dallas	đa_lát_x
+Dallas/Fort Worth	đa_lát/phót uốt
+Delhi	đê_li
+Denver	đen_vơ
+Detroit	đi_troi
+Dhaka	đắc_ca
+Doha	đô_ha
+Dubai	đu_bai
+Dublin	đu_bờ_lin
+Düsseldorf	đu_xen_đóp
+Frankfurt	phờ_ranh_phuốc
+Fukuoka	phu_cu_ô_ca
+Geneva	giơ_ne_vơ
+Guadalajara	gua_da_la_da_ra
+Hamburg	hăm_buốc
+Helsinki	hen_xinh_ki
+Hongkong	hồng_công
+Houston	hiu_x_tơn
+Islamabad	i_x_la_ma_bát
+Istanbul	ít_x_tan_bun
+Jakarta	gia_các_ta
+Jeddah	giét_đa
+Johannesburg	giô_han_nét_x_bớc
+Karachi	ca_ra_chi
+Kiev	ki_ép
+Kolkata	côn_ca_ta
+Kuala Lumpur	cua_la lăm_pua
+Lagos	la_gốt_x
+Leeds	lít_x
+Lima	li_ma
+Lisbon	lít_x_bon
+London	luân_đôn
+Los Angeles	lót_x en_giơ_lét_x
+Lyon	li_ông
+Madrid	ma_đờ_rít
+Manama	ma_na_ma
+Manchester	man_chét_x_tơ
+Manila	ma_ni_la
+Melbourne	men_bơn
+México	mê_xi_cô
+Mexico City	mê_xi_cô xi_ti
+Miami	mai_a_mi
+Milan	mi_lan
+Minneapolis	min_ne_a_pô_lít_x
+Monterrey	mông_tê_rê
+Montevideo	môn_tê_vi_đi_ô
+Montreal	mông_trê_an
+Montréal	mon_tre_an
+Moskva	mốt_x_cơ_va
+Mumbai	mum_bai
+Munich	mu_ních
+Nairobi	nai_rô_bi
+Napoli	na_pô_li
+New Delhi	niu đê_li
+New York	niu y_oóc
+New York City	niu_y_oóc_cờ xi_ti
+Nicosia	ni_cô_xi_a
+Osaka	ô_xa_ca
+Oslo	ốt_x_lô
+Paris	pa_ri
+Perth	pớt
+Philadelphia	phi_la_đen_phi_a
+Phoenix	phô_ních
+Pittsburgh	pít_buốc
+Port Louis	pốt lu_i
+Portland	pốt_lần
+Porto	poóc_tô
+Porto Alegre	poóc_tô a_lếch_gờ_re
+Praha	pờ_ra_ha
+Pusan	pu_xan
+Quito	qui_tô
+Recife	rê_xi_phê
+Riga	ri_ga
+Rio de Janeiro	ri_ô đờ gia_nây_rô
+Riyadh	ri_y_át
+Roma	rô_ma
+Rotterdam	rốt_téc_đam
+San Diego	xan đi_ê_gô
+San Francisco	xan phờ_ran_xít_cô
+San Jose	xan giô_xê
+Sankt-Peterburg	xanh_pê_téc_bua
+Santiago	xan_ti_a_gô
+São Paulo	xao pau_lô
+Seattle	xi_át_tồ
+Seoul	xê_un
+Sofia	xô_phi_a
+St Louis	xanh lu_ít
+St Petersburg	xanh_pê_téc_bua
+Stockholm	x_tốc_khôm
+Stuttgart	x_tút_gát
+Sydney	xít_ni
+Tehran	tê_hê_ran
+Tel Aviv	ten a_víp
+Warsaw	va_xô
+Washington	oa_sinh_tơn
+Washington DC	oa_sinh_tơn đê_xê
+Wellington	eo_linh_tơn
+Zurich	du_rích
+Zürich	du_rích
+Hong Kong	hồng công
+Macau	ma_cao
+Shenzhen	sen_den
+Phuket	phu_kẹt
+Rome	rôm
+Tokyo	tô_ki_ô
+Taipei	tai_pây
+Guangzhou	goang_du
+Prague	pờ_ra_ha
+Mecca	méc_ca
+Pattaya	pát_tay_a
+Shanghai	sang_hai
+Las Vegas	lát_x vê_gát_x
+Antalya	an_ta_li_a
+Vienna	viên
+Cancun	can_cun
+Agra	a_gờ_ra
+Ho Chi Minh City	hồ chí minh xi_ti
+Venice	vơ_ni_x
+Orlando	oóc_lan_đô
+Johor Bahru	giô_ho ba_ru
+Florence	phờ_lo_ren_xơ
+Mosco	mót_x_câu
+Jaipur	giai_pua
+Beijing	bây_dinh
+Denpasar	đen_pa_xa
+Toronto	tô_rôn_tô
+Ha Noi	hà nội
+San Franciso	xan phờ_ran_xít_cô
+Ha Long	hạ long
+Punta Cana	pun_ta ca_na
+Damman City	đam_man xi_ti
+Zhuhai	du_hai
+Penang Island	pê_nang ai_lừn
+Heraklion	hê_rắc_li_ông
+Jerusalem	giê_ru_xa_lem
+Edirne	ê_đin
+Phnom Penh	phờ_nôm pênh
+Jeju	giê_du
+Kyoto	ki_ô_tô
+Chiang Mai	chiềng_mai
+Krakow	khác_cốp
+Honolulu	hô_nô_lu_lu
+Marrakech	me_ra_két
+Vancouver	van_cu_vơ
+Artvin	át_vin
+Guilin	gui_lin
+Chiba	chi_ba
+Siem Reap	xiêm riệp
+Nice	nai
+Taichung	tai_chung
+Rhodes	rốt_x
+Abu Dhabi	a_bu đa_bi
+Marilyn Monroe	ma_ri_lin môn_rô
+Abraham Lincoln	a_bờ_ra_ham lin_côn
+Mother Teresa	ma_thơ tê_rê_xa
+John F. Kennedy	giôn ép ken_nơ_đi
+Martin Luther King	mác_tin lu_thơ kinh
+Nelson Mandela	nen_xơn man_đê_la
+Queen Elizabeth II	quyn ê_li_da_bét hai
+Winston Churchill	uyn_x_tơn xớc_xin
+Donald Trump	đô_nan trăm
+Bill Gates	bin_ghết
+Muhammad Ali	mu_ha_mét a_li
+Mahatma Gandhi	ma_hát_ma gan_đi
+Margaret Thatcher	ma_ga_rét thát_chơ
+Christopher Columbus	cờ_rít_tô_phơ cô_lôm_bớt
+Charles Darwin	sác_lơ đác_uyn
+Elvis Presley	ê_vít pờ_rét_x_lây
+Albert Einstein	an_be anh_x_tanh
+Paul McCartney	pôn mắc_cát_ni
+Queen Victoria	quyn vích_to_ri_a
+Pope Francis	pốp phờ_ran_xít
+Jawaharlal Nehru	gia_oa_ha_la ne_ru
+Leonardo da Vinci	li_ô_nác_đô đờ vanh_xi
+Vincent Van Gogh	vin_xăng van gốp
+Franklin D. Roosevelt	phờ_ranh_cờ_lin đê ru_dơ_ven
+Pope John Paul II	pốp giôn pôn hai
+Thomas Edison	thô_mát ê_đi_xơn
+Rosa Parks	rô_xa pác
+Aung San Suu Kyi	ong xan xu ki
+Lyndon Johnson	lin_đôn giôn_xơn
+Ludwig Beethoven	lút_vích bét_thô_ven
+Oprah Winfrey	ô_pờ_ra uyn_phờ_ri
+Indira Gandhi	in_đi_ra gan_đi
+Eva Peron	ê_va pe_rôn
+Benazir Bhutto	bê_na_dia bút_tô
+George Orwell	gioóc ô_oen
+Desmond Tutu	đét_x_mon tu_tu
+Dalai Lama	đa_lai la_ma
+Neil Armstrong	niu am_x_troong
+Peter Sellers	pi_tơ xeo_lơ_x
+Barack Obama	ba_rách ô_ba_ma
+Malcolm X	man_côm ích
+J.K.Rowling	gi_ca_râu_linh
+Richard Branson	ri_chát bờ_ran_xơn
+Pele	pê_lê
+Angelina Jolie	an_giê_li_na giô_li
+Jesse Owens	giét_xi ô_oen_x
+Ernest Hemingway	e_nét hê_minh_uây
+John Lennon	giôn len_non
+Henry Ford	hen_ri phót
+Haile Selassie	hai_le xe_lát_xi
+Joseph Stalin	giô_xép xờ_ta_lin
+Lord Baden Powell	lót ba_đen pao_eo
+Michael Jordon	mai_cơn gioóc_đon
+George Bush Jnr	gioóc_giơ bút giu_ni_ơ
+Vladimir Lenin	vờ_la_đi_mia lê_nin
+Ingrid Bergman	in_gờ_rít béc_man
+Fidel Castro	phi_đen cát_x_tơ_rô
+Leo Tolstoy	lê_ô tôn_xờ_tôi
+Pablo Picasso	páp_bờ_lô pi_cát_xô
+Oscar Wilde	ốt_x_ca uyn_đe
+Coco Chanel	cô_cô cha_neo
+Charles de Gaulle	chác đề gôn
+Amelia Earhart	a_mê_li_a ia_hát
+John M Keynes	giôn mờ kên
+Louis Pasteur	lu_i_x pát_x_tơ
+Mikhail Gorbachev	mi_kha_in goóc_ba_chốp
+Plato	pờ_la_tô
+Adolf Hitler	a_đốp hít_le
+Mary Magdalene	ma_ri mác_đa_lên
+Alfred Hitchcock	an_phờ_rét hích_cốc
+Michael Jackson	mai_cơn giắc_xơn
+Madonna	ma_đôn_na
+Mata Hari	ma_ta ha_ri
+Cleopatra	cờ_lê_ô pát_tra
+Grace Kelly	gờ_rây_x ken_li
+Steve Jobs	xờ_típ gióp
+Ronald Reagan	rô_nan re_gan
+Lionel Messi	lai_ơ_nô méc_si
+Babe Ruth	bếp rút
+Bob Geldof	bóp ghen_đốp
+Leon Trotsky	lê_ông trốt_x_ki
+Roger Federer	rô_giơ phe_đơ_rơ
+Sigmund Freud	xích_mun phờ_rớt
+Woodrow Wilson	út_râu iu_xơn
+Mao Zedong	mao de_đông
+Katherine Hepburn	ca_the_rin hép_bơn
+Audrey Hepburn	hép_bơn au_đờ_rây
+David Beckham	đa_vít béc_kham
+Tiger Woods	tai_gơ uốt_xx
+Usain Bolt	u_xanh bôn
+Carl Lewis	các lê_vít
+Prince Charles	pờ_rinh_xx sác_lơ
+Jacqueline Kennedy Onassis	giắc_cơ_lin ken_nơ_đi ô_na_xít
+C.S. Lewis	xê_ét lê_vít
+Billie Holiday	bin_li hô_li_đây
+J.R.R. Tolkien	i_rờ_rờ ton_kin
+Billie Jean King	bin_li giê_an kinh
+Anne Frank	an phờ_ranh
+Simon Bolivar	xi_mông bô_li_va
+Marie Antoinette	ma_ri ăng_thoa_nét
+Cristiano Ronaldo	cờ_rít_x_ti_a_nô rô_nan_đô
+Emmeline Pankhurst	em_mơ_lin pan_khớt
+Emile Zatopek	ê_min da_tô_pếch
+Lech Walesa	lếch oa_lét_xa
+Julie Andrews	giu_li_e an_đờ_riu
+Florence Nightingale	phờ_lo_ren nai_tinh_gheo
+Marie Curie	ma_ri qui_ri
+Stephen Hawking	xít_tê_phen hau_kinh
+Tim Berners Lee	tim bớc_nơ li
+Lance Armstrong	lan am_xơ_troong
+Shakira	sa_ki_ra
+Jon Stewart	gion x_tê_oát
+Wright Brothers Orville	vờ_rai bờ_ra_thơ ô_vin
+Roman Abramovich	rô_man a_bờ_ra_mô_vích
+Tom Cruise	tôm cờ_rui
+Rupert Murdoch	ru_pớt mu_đoóc
+Al Gore	an go
+Sacha Baron Cohen	sác_cha ba_rôn cô_hen
+George Clooney	gioóc_giơ cờ_lu_ni
+Paul Krugman	pôn cờ_rúc_man
+Jimmy Wales	gim_mi uên
+Brad Pitt	bờ_rát pít
+Kylie Minogue	ki_li mi_no_guê
+Malala Yousafzai	ma_la_la iu_xáp_zai
+Stephen King	xờ_te_phừn kinh
+Jesus Christ	giê_xu cờ_rít
+Thomas Jefferson	thô_mát giê_phơ_xơn
+Lord Buddha	lót bút_đa
+William Shakespeare	uy_li_am sếch_pia
+Muhammad	mu_ha_mát
+Martin Luther King christ	mác_tin lu_thơ kinh cờ_rít
+St Paul	ét_tê pau
+Augustus Caesar	au_gút_tút xê_da
+George Washington	gioóc_giơ oa_sinh_tơn
+Sri Krishna	xờ_ri cờ_rít_s_na
+Emperor Constantine	em_pê_ro công_x_tăng_tin
+Martin Luther	mac_tin lu_thơ
+Socrates	xo_cờ_rơ_đi_x
+Karl Marx	các mác_x
+Napoleon Bonaparte	na_pô_lê_ông bôn_na_pát
+Sir Isaac Newton	xơ i_xác niu_tơn
+Confucius	con_phu_xi_út
+Akbar	ác_ba 
+Konrad Adenauer	con_rát a_đê_nau_ơ
+Ramses II	ram_xét hai
+Alexander the Great	a_lếch_xan_đơ dờ gờ_rết
+Moses	mô_xét
+Marcus Aurelius	ma_cớt au_re_li_út
+Galileo Galilei	ga_li_lê_ô ga_li_lê
+Joan of Arc	gioan ợp ác
+Charlemagne	chác_lê_măng
+Aristotle	a_rít_tô_tồ
+Saladin	xa_la_đanh
+Babur	ba_bu
+Sir Walter Raleigh	xơ oan_tơ ra_lếp
+Voltaire	vôn_tai_re
+Catherine the Great	ca_the_rin dờ gờ_rết
+Mozart	mô_da
+Guru Nanak	gu_ru na_nác
+Ataturk	a_ta_túc
+Muhammed Ali	mu_ham_mét a_li
+Boris Yeltsin	bô_rít y_en_xanh
+William Tyndale	uy_li_am tin_đêu
+J.S. Bach	gi_ét bách
+14th Dalai Lama	mười_bốn đa_lai la_ma
+Giuseppe Garibaldi	giu_xép ga_ri_ban_đi
+Johann Gutenberg	giô_han gu_ten_béc
+Oliver Cromwell	ô_li_vơ cờ_rôm_eo
+Genghis Kahn	gien_ghít can
+Michael Faraday	mai_cơn pha_ra_đây
+Dwight Eisenhower	đờ_oai ai_xen_hao_ơ
+Eleanor Roosevelt	e_lên_no ru_da_ven
+Dr B.R. Ambedkar	đốc_tơ bê_e_rờ am_bét_ca
+William Wilberforce	uy_li_am uy_bơ_phót
+Nikola Tesla	ni_cô_la téc_la
+Alexander Fleming	a_lếch_xan_đơ phờ_le_minh
+Lao Tzu	lao tu
+Princess Diana	pờ_rinh_xét đi_a_na
+Beethoven	bét_thô_ven
+Benjamin Franklin	ben_gia_min phờ_ranh_cờ_lin
+Isaac Newton	i_xắc niu_tơn
+Buddha	bút_đa
+St. Paul	ét_xờ_tê pôn
+Ts’ai Lun	tai lun
+Euclid	ơ_cờ_lít
+Shih Huang Ti	xi hoang ti
+Nicolaus Copernicus	ni_cô_lau cô_pếch_ni_cớt
+Antoine Laurent Lavoisier	ăng_toan lô_răng la_voi_xi_ê
+Constantine the Great	công_xít_tăng_tin dơ gờ_rết
+James Watt	giêm oát
+James Clerk Maxwell	giêm cờ_lếch mắc_xoen
+Orville and Wilbur Wright Orville	ô_vin en vin_bua vờ_rai ô_vin
+Adam Smith	a_đam xờ_mít
+John Dalton	giôn đan_tơn
+Antony van Leeuwenhoek	an_tô_ni van lêu_ven_hốc
+William T.G. Morton	uy_li_am tê_gờ mo_tơn
+Guglielmo Marconi	gu_li_en_mo mác_cô_ni
+Alexander Graham Bell	a_lếch_xan_đơ gờ_ra_ham ben
+John Locke	giôn lốc
+Ludwig van Beethoven	lút_vích van bét_thô_ven
+Werner Heisenberg	véc_nơ hây_xen_béc
+Louis Daguerre	lu_ít đa_gu_ê
+Rene Descartes	rê_nê đề_các
+Michelangelo	mi_ken_lăng_dê_lô
+Pope Urban II	pốp u_ban hai
+Umar ibn al-Khattab	u_ma i_bờ_nờ an-kha_táp
+Asoka	a_xô_ca
+St. Augustine	ét_x_tê au_gút_x_tanh
+William Harvey	uy_li_am ha_vây
+Ernest Rutherford	ê_nét ru_thơ_phót
+John Calvin	giôn can_vin
+Gregor Mendel	gờ_re_gô men_đen
+Max Planck	mắc pờ_lăng
+Joseph Lister	giô_xép lít_x_tơ
+Nikolaus August Otto	ni_cô_lau au_gút ốt_tô
+Francisco Pizarro	phờ_răng_xít_x_cô pi_da_rô
+Hernando Cortes	héc_nan_đô coóc_te
+Queen Isabella I	quyn i_sa_ben_la oan
+Julius Caesar	du_li_út ca_e_da
+William the Conqueror	uy_li_am dờ con_que_rô
+Edward Jenner	ét_uốt gien_nơ
+Wilhelm Conrad Roentgen	vin_hem con_rát rơn_ghen
+Johann Sebastian Bach	giô_han xê_bát_chiên bách
+Johannes Kepler	giô_han_nét kép_lơ
+Enrico Fermi	en_ri_cô phéc_mi
+Leonhard Euler	lê_on_hác oi_lơ
+Jean-Jacques Rousseau	giăng-giắc_cơ rút_xô
+Thomas Malthus	thô_mát man_thút
+Gregory Pincus	gờ_re_go_ri pin_cút
+Mani	ma_ni
+Lenin	lê_nin
+Sui Wen Ti	xui oen ti
+Vasco da Gama	vát_x_cô đa ga_ma
+Cyrus the Great	xi_rút dờ gờ_rết
+Peter the Great	pi_tơ gờ_rết
+Francis Bacon	phờ_răng_xít ba_con
+Mencius	men_xi_út
+Zoroaster	dô_rô_át_x_tơ
+Queen Elizabeth I	quin ê_li_da_bét một
+Justinian I	giớt_x_tin_ni_an một
+Mahavira	ma_ha_vi_ra
+Xi Jinping	xi_gin_pinh
+Vladimir Putin	vờ_la_đi_mia pu_tin
+Angela Merkel	ăng_giê_la mớc_ken
+Jeff Bezos	giép bê_dâu_x
+Mohammed bin Salman Al Saud	mô_ham_mét bin xan_ma an xao_đờ
+Narendra Modi	na_ren_đờ_ra mô_đi_
+Larry Page	la_ri pết
+Jerome H. Powell	gi_rôm ết pao_ồ
+Emmanuel Macron	ừm_me_niu_ồ mác_cờ_ron
+Mark Zuckerberg	mác du_cơ_bấc
+Theresa May	thơ_ri_sa mây
+Li Keqiang	li ke_cheeng
+Warren Buffett	oa_rừn bấp_phẹt
+Ali Hoseini-Khamenei	a_li hô_đây_ni kha_mè_nây
+Mario Draghi	ma_ri_ô đờ_ra_ghi
+Jamie Dimon	giây_mi đai_mừn
+Carlos Slim Helu	ca_lót_x xờ_lim hê_lu
+Jack Ma	dách ma
+Christine Lagarde	cờ_rít_x_tin la_ga_đi
+Doug McMillon	đớc mậc_miu_lừn
+Tim Cook	tim  cúc_cờ
+Elon Musk	y_lừn mớc_x
+Benjamin Netanyahu	ben_gia_min ne_tan_y_a_hu
+Ma Huateng	ma hoa_tờng
+Larry Fink	la_ri phinh_cờ
+Akio Toyoda	a_ki_ô tô_y_ô_đa
+John L. Flannery	gion eo phờ_len_nơ_ri
+Antonio Guterres	an_tô_ni_ô gút_tơ_rét
+Mukesh Ambani	mu_két am_ba_ni
+Jean-Claude Juncker	gin cờ_lau_đờ giăng_cơ
+Darren Woods	đa_ren uốt_xx
+Sergey Brin	xéc_gây bờ_rin
+Kim Jong-un	kim dong_un
+Charles Koch	sác_lơ cốc
+Shinzo Abe	sin_dô a_bê
+Satya Nadella	xa_ti_a na_đê_la
+Jim Yong Kim	gim dông kim
+Stephen Schwarzman	xít_tê_phen soát_dơ_mân
+Khalifa bin Zayed Al-Nahyan	kha_li_pha bin day_ét an-na_hi_an
+Haruhiko Kuroda	ha_ru_hi_cô cu_rô-đa
+Abdel Fattah el-Sisi	áp_đen pha_ta en-xi_xi
+Li Ka-shing	li ca_xinh
+Lloyd Blankfein	loi bờ_lanh_phên
+Recep Tayyip Erdogan	ri_xép tay-íp ê_đo_gan
+Bob Iger	bốp i_gơ
+Michel Temer	mi_xen te_mơ
+Michael Bloomberg	mai_cơn bờ_lum_bớc
+Wang Jianlin	oang chi_en_lin
+Mary Barra	me_ri ba_ra
+Moon Jae-in	mun dê_in
+Masayoshi Son	ma_say_ô_si son
+Bernard Arnault	bơ_nát ác_nôn
+Justin Trudeau	dớt_x_tin tru_đô
+Robin Li	rô_bin li
+Michael Dell	mai_cơn đeo
+Hui Ka Yan	hui ca dan
+Lee Hsien Loong	li xiên long
+Bashar al-Assad	ba_sa an-a_xát
+John Roberts	giôn bô_bớt
+Enrique Pena Nieto	en_rích_kê pê_na ni_e_tô
+Ken Griffin	ken gờ_ríp_phin
+Aliko Dangote	a_li_cô đan_gô_tê
+Mike Pence	mai_cờ pen_xờ
+Qamar Javed Bajwa	ca_ma da_vê ba_oa
+Rodrigo Duterte	rô_đi_gô đu_tê_tê
+Abigail Johnson	a_bi_gai giôn_xơn
+Reed Hastings	rít ha_x_tinh
+Robert Mueller	rô_be mu_lơ
+Abu Bakr al-Baghdadi	a_bu ba_cơ an-ba_gờ_ha_đi
+Joko Widodo	giô_cô uy_đô_đô
+Gianni Infantino	gian_ni in_phan_ti_nô
+Floyd Mayweather	phờ_loi_đờ may_oe_dờ
+Kylie Jenner	cai_li gien_nơ
+Judy Sheindlin	giu_đi sên_đờ_lin
+Dwayne Johnson	đờ_uây_ni giôn_xơn
+U2	iu_thiu
+Coldplay	côn_đơ_pờ_lay
+Ed Sheeran	ét si_ơ_ran
+Bruno Mars	bờ_ru_nâu mát_x
+Conor McGregor	con_nơ mắc_gờ_rếch_gơ
+Neymar	nây_ma
+Howard Stern	hau_oát xít_tơn
+Ellen DeGeneres	e_len đờ_gien_nơ_rớt_x
+James Patterson	giêm_x pát_tơ_sừn
+LeBron James	lờ_bờ_ron giêm_x
+Rush Limbaugh	rát_s lim_ba
+Katy Perry	cây_ti pe_ri
+Robert Downey Jr.	rô_bớt đao_ni giu_ni_ờ
+Taylor Swift	tay_lơ sờ_guýp
+Dr. Phil McGraw	đoóc_tơ phiu mấc_gờ_ro
+Stephen Curry	sờ_ti_phừn cơ_ri
+Jay-Z	giây di
+Ryan Seacrest	rai_ừn si_cờ_rét
+Guns N' Roses	găn den râu_x
+Roger Waters	rô_gơ oa_tơ
+Matt Ryan	mát ri_an
+Kim Kardashian West	kim ca_đa_si_an oét
+Chris Hemsworth	cờ_rít hem_x_uốt
+Sean Combs	xin côm
+David Copperfield	đa_vít cóp_pơ_phiu
+Gordon Ramsay	go_đôn ram_xây
+Beyoncé Knowles	bi_y_on_xê cờ_nâu_lét
+Matthew Stafford	mát_thiu xờ_táp_phót
+Kendrick Lamar	ken_đờ_rích la_ma
+Jerry Seinfeld	gie_ri xên_phen
+Kevin Hart	ke_vin hát
+The Weeknd	dờ uých_cừn
+The Eagles	dờ i_gồ
+J.K. Rowling	gi_ca rô_linh
+Kevin Durant	ke_vin đu_ran
+Depeche Mode	đe_pe_che mốt
+Luke Bryan	lúc bờ_rai_an
+Pink	pinh
+Jimmy Buffett	gim_mi búp_phét
+Lewis Hamilton	liu_uýt ha_min_tơn
+Lady Gaga	lây_đi ga_ga
+Calvin Harris	can_vin ha_rít
+Russell Westbrook	ru_xồ oét_bờ_rúc
+Drake	đờ_rếch
+Foo Fighters	phu phai_tơ
+Jennifer Lopez	gien_ni_phơ lô_pét
+James Harden	giêm ha_đen
+Elton John	en_tơn giôn
+Metallica	me_tan_li_ca
+Garth Brooks	gát bờ_rúc
+Jackie Chan	giách_ki chan
+The Chainsmokers	dờ chên_x_mốc_cơ
+Canelo Alvarez	ca_ne_lô an_va_rét
+Steve Harvey	xờ_típ hác_vi
+Simon Cowell	xi_mon cô_oen
+Billy Joel	bin_li giâu
+Drew Brees	đờ_riu bờ_ri
+Sofía Vergara	xô_phi_a vơ_ga_ra
+Sebastian Vettel	xê_bát_ti_an vét_ten
+Derek Carr	đe_rếch ca
+Will Smith	iu x_mít
+Rafael Nadal	ra_pha_en na_đan
+Alex Smith	a_lếch x_mít
+Phil Mickelson	phin mích_ken_xơn
+Jordan Spieth	gioóc_đan x_pít
+Scarlett Johansson	x_ca_lét giô_han_xơn
+Akshay Kumar	ác_sây cu_ma
+Adam Sandler	a_đam xan_lơ
+Damian Lillard	đa_mi_an lin_lát
+Anthony Joshua	an_thô_ni giót_sua
+Rolling Stones	rôn_linh x_tôn
+Salman Khan	xan_man khan
+Rory McIlroy	rô_ri mắc_cơ_roi
+Kris Jenner	cờ_rít gien_nơ
+Rihanna	ri_han_na 
+Bruce Springsteen	bờ_rút x_pờ_rinh_x_tin
+Kenny Chesney	ken_ni chét_ni
+Trumaine Johnson	tru_mên giôn_xơn
+Imagine Dragons	i_ma_gin đờ_ra_gon
+Jimmy Garoppolo	gim_mi ga_rốp_pô_lô
+Kyrie Irving	cai_ri ơ_vinh
+Sean Hannity	sen han_ni_ti
+Giannis Antetokounmpo	gian_nít an_te_tô_cum_pô
+J. Cole	gi_côn
+Blake Griffin	bờ_lếch gờ_ríp_phin
+Ryan Tannehill	ri_an ten_nê_hin
+Von Miller	von min_lơ
+Dave Chappelle	đếp cháp_pen
+Dr. Dre	đốc_tơ đờ_rê
+Nas	nát_x
+Premier League	pờ_ri_mi_ờ lích
+Aston Villa	át_x_tôn vi_la
+Liverpool	li_vơ_pu
+Burnley	bơn_li
+Crystal Palace	cờ_rít_x_tồ pa_lết_x
+Leicester City	lét_x_tơ xi_ti
+Stoke City	xờ_tốc xi_ti
+Queens Park Rangers	quin_x pác ren_giơ_x
+Swansea City	xờ_oan_xi xi_ti
+Chelsea	cheo_xi
+Tottenham Hotspur	tót_ten_hừm hót_xờ_pơ
+Sunderland	xăn_đơ_len
+Newcastle United	niu_cát_xồ y_iu_nai_tựt
+Southampton	xao_them_từn
+West Ham United	oét hem y_iu_nai_tựt
+Hull City	hau xi_ti
+Manchester City	man_chét_x_tơ xi_ti
+Arsenal	a_xê_nồ
+Everton	e_vơ_tơn
+West Bromwich Albion	oét bờ_rôm_uých an_bi_on
+AFC Bournemouth	a_ép_xê bô_ne_mốt
+Middlesbrough	mít_đồ_bờ_ruốc
+Ipswich Town	íp_x_uých thao
+Derby County	đơ_bi cao_ti
+Brentford	bờ_ren_phót
+Watford	oát_phót
+Birmingham City	bớc_minh_ham xi_ti
+Nottingham Forest	nót_tinh_ham pho_rét
+Norwich City	no_uých xi_ti
+Wolverhampton Wanderers	uôn_vơ_ham_tơn oan_đơ_rơ
+Sheffield Wednesday	sép_phiu oen_đây
+Blackburn Rovers	bờ_lách_bơn rô_vơ
+Cardiff City	ca_đíp xi_ti
+Fulham	phun_ham
+Bolton Wanderers	bôn_tơn oan_đơ_rơ
+Charlton Athletic	cha_tơn át_le_tích
+Huddersfield Town	hút_đờ_phiu thao
+Reading	rít_đinh
+Brighton & Hove Albion	bờ_rai_tơn en hốp an_bi_on
+Leeds United	lít u_nai_tựt
+Rotherham United	rô_thơ_ham u_nai_tựt
+Millwall	miu_uân
+Wigan Athletic	uy_gan át_le_tích
+Blackpool	bờ_lách_pun
+Serie A Italia	xê_ri a i_ta_li_a
+Cagliari	các_li_a_ri
+Sassuolo	xát_xu_lô
+Lazio	la_di_ô
+AC Milan	a_xê mi_lan
+Hellas Verona	hê_lát vê_rô_na
+Atalanta	át_ta_lan_ta
+Inter	in_tơ
+Torino	tô_ri_nô
+Juventus	giu_ven_tút
+Chievo Verona	chi_e_vô vê_rô_na
+Parma	pa_ma
+Cesena	xê_xê_na
+Sampdoria	xam_đô_ri_a
+Palermo	pa_lơ_mô
+Fiorentina	phi_ô_ren_ti_na
+Empoli	em_pô_li
+Udinese	u_đin_nét
+SSC Napoli	ét_ét_xê na_pô_li
+Genoa	giê_no_a
+Catania	ca_ta_ni_a
+Pro Vercelli	pờ_rô vơ_xen_li
+Avellino	a_vê_li_nô
+Cittadella	xi_ta_đên_la
+Crotone	cờ_rô_tông
+Latina	la_ti_na
+Entella	en_ten_la
+Bologna	bô_lô_nha
+Vicenza	vi_xen_da
+Trapani	tra_pa_ni
+Frosinone	phờ_ro_xi_nôn
+Spezia	x_pe_di_a
+Livorno	li_vo_nô
+Brescia	bờ_rét_xi_a
+Perugia	pê_ru_ghi_a
+Bari	ba_ri
+Pescara	pê_x_ca_ra
+Ternana	tơ_na_na
+Varese	va_ri
+Carpi	ca_pi
+Modena	mô_đê_na
+Virtus Lanciano	vi_tút lan_xi_a_nô
+La Liga	la li_ga
+Cordoba	coóc_đô_ba
+Real Madrid	rê_an man_rít
+Elche	en_che
+Atletico Madrid	át_le_ti_cô man_rít
+Rayo Vallecano	ra_y_ô va_le_ca_nô
+Real Sociedad	rê_an xô_xi_đát
+Eibar	ê_ba
+Valencia	va_len_xi_a
+Sevilla	xe_vin_la
+Villarreal	vin_la_rin
+Levante	lê_van_tê
+Deportivo La Coruna	đe_po_ti_vô la cô_ru_na
+Granada	gờ_ra_na_đa
+Athletic Bilbao	át_le_tích bin_bao
+Malaga	ma_la_ga
+Espanyol	ét_pa_nhon
+Almeria	an_mê_ri_a
+Getafe	giê_ta_phê
+Celta Vigo	xen_ta vi_gô
+Alaves	a_lây
+Leganes	lê_gan_nét
+Real Betis	rê_an be_tít
+Sabadell	xa_ba_đen
+Zaragoza	da_ra_gô_da
+Recreativo Huelva	rê_cờ_re_a_ti_vô hu_en_va
+Tenerife	te_ne_rai
+Ponferradina	pon_phe_ra_đi_na
+Mallorca	man_lo_ca
+Valladolid	van_la_đô_lít
+Lugo	lu_gô
+Mirandes	mi_ran_đét
+Osasuna	ô_xa_xu_na
+Sporting Gijon	x_pót_tinh gi_gion
+Numancia	nu_man_xi_a
+Alcorcon	an_co_côn
+Albacete	an_ba_xê_tê
+Llagostera	la_gốt_x_te_ra
+Las Palmas	lát pan_mát
+Racing Santander	rây_xinh xan_tan_đơ
+Girona	ghi_rô_na
+Bundesliga	bun_đét_li_ga
+Mainz	mên
+Bayern Munich	bay_ơ mu_ních
+Augsburg	au_xơ_buốc
+Borussia Moenchengladbach	bô_rút_xi_a mông_chen_gờ_lát_bách
+Bayer Leverkusen	bay_ơ le_vơ_cu_xen
+Eintracht Frankfurt	ên_trách phờ_ranh_phút
+Schalke	san_cơ
+Hamburger	ham_bơ_gơ
+VfB Stuttgart	vê_ép_bê x_tút_gát
+Paderborn	pa_đơ_bon
+Werder Bremen	uơ_đơ bờ_re_men
+Borussia Dortmund	bô_rút_xi_a đót_mun
+Wolfsburg	uốp_x_buốc
+Cologne	cô_lô_nhơ
+Hertha Berlin	hơ_tha béc_lin
+Hoffenheim	hóp_phen_hai
+Freiburg	phờ_rây_buốc
+Hannover	han_nô_vơ
+Heidenheim	hai_đen_hai
+Eintracht Braunschweig	ên_trách bờ_rao_chờ_oai
+Fortuna Dusseldorf	phoóc_tu_na đút_xen_đốp
+Union Berlin	u_ni_on béc_lin
+Karlsruhe	ca_x_ru_he
+Nurnberg	nun_bớc
+Greuther Fuerth	gờ_rêu_thơ phuết
+St. Pauli	ét_tê pau_li
+Aalen	a_len
+Bochum	bô_chum
+Erzgebirge Aue	ơ_ghe_biếc au
+Darmstadt	đam_x_tát
+Ingolstadt	in_gôn_x_tát
+Kaiserslautern	cai_xơ_lau_ten
+Sandhausen	xan_hau_xen
+RasenBallsport Leipzig	ra_xen_bôn_x_pót lếp_dích
+Muenchen	mu_en_chen
+World Cup	uôn_cúp
+Euro	ơ_rô
+FIFA	phi_pha
+AFC Cup	a_ép_xê_cúp
+Asian Cup	a_xi_an cúp
+Vleague	vi_lích
+Pelé	pê_lê
+Diego Armando Maradona	đi_ê_gô a_man_đô ma_ra_đô_na
+Alfredo Di Stéfano	an_phờ_rét_đô đi xờ_te_pha_nô
+Johan Cruyff	giô_han cờ_ríp
+Zinédine Zidane	di_ne_đin di_đan
+Franz Beckenbauer	phờ_ran bếch_ken_bau_ơ
+Ferenc Puskás	phe_ren pút_x_cát_x
+Garrincha	ga_rin_cha
+Marco van Basten	ma_cô van bát_x_ten
+Ronaldo	rô_nan_đô
+Eusébio	êu_xê_bi_ô
+Michel Platini	mi_chen pờ_la_ti_ni
+Zico	di_cô
+Romário	rô_ma_ri_ô
+Lothar Matthäus	lo_tha ma_thi_ốt_x
+Roberto Baggio	rô_bét_tô bát_giô
+Raymond Kopa	rây_mông cô_pa
+Ronaldinho Gaúcho	rô_nan_đi_nhô gáu_chô
+Luis Suárez	lu_y_x xoa_rét
+Xavi Hernández	xa_vi héc_nan_đét
+José Manuel Moreno	giô_xê man_nu_en mô_rê_nô
+Günter Netzer	gun_tơ nét_dơ
+Enzo Francescoli	en_dô phờ_ran_xét_cô_li
+Francisco Gento	phờ_ran_xít_x_cô ghen_tô
+Ricardo Zamora	ri_các_đô da_mô_ra
+Paolo Maldini	pao_lô man_đi_ni
+Michael Laudrup	mai_cơn lau_đờ_rúp
+Roberto Carlos	rô_béc_tô các_lốt
+Andrés Iniesta	an_đờ_rê in_ni_ét_x_ta
+Gianni Rivera	gian_ni ri_vê_ra
+Nilton Santos	niu_tơn xan_tốt
+George Best	gioóc_giơ bét
+Roberto Rivellino	rô_béc_tô ri_vê_li_nô
+Lev Yashin	lép y_a_sin
+Amancio	a_man_xi_ô
+Sergio Ramos	xéc_giô ram_mốt
+Juan Alberto Schiaffino	hoan an_béc_tô xờ_chi_áp_phi_nô
+Uwe Seeler	u_uy xiu_lơ
+Franco Baresi	phờ_ran_cô ba_rê_xi
+Matthias Sindelar	ma_thi_át_x xin_đê_la
+Fritz Walter	phờ_rít oa_tơ
+Bobby Charlton	bốp_bi chan_tơn
+Oleg Blochin	ô_lếch bờ_lô_chin
+Djalma Santos	gian_ma xan_tốt
+Jairzinho	gie_di_nhô
+Bobby Moore	bốp_bi mo
+Samuel Eto'o	xa_mu_en ê_tô
+Adolfo Pedernera	a_đôn_phô pe_đơ_nê_ra
+Rinat Dasaev	ri_nát đa_xa_ép
+Frank Rijkaard	phờ_ranh ri_cát
+Gerd Müller	gớt mu_lơ
+Luka Modric	lu_ca mô_đờ_rích
+Xabi Alonso	xa_bi a_lôn_xô
+Cafú	ca_phu
+Luis Figo	lu_i phi_gô
+Kenny Dalglish	ken_ni đan_gờ_lích_s
+Karl-Heinz Rummenigge	can_hên rum_men_ních_ghe
+Emilio Butragueño	ê_mi_li_ô bút_tra_guê_nô
+Didier Drogba	đi_đia đờ_roóc_ba
+Bernd Schuster	bơn xờ_chút_x_tơ
+Paul Breitner	pau bờ_rết_nơ
+Zlatan Ibrahimovic	dờ_la_tan i_bờ_ra_him_mu_vích
+Dennis Bergkamp	đen_nít béc_cam
+Thierry Henry	thi_ơ_ri hen_ri
+Hugo Sanchez	hu_gô xan_chét
+Ladislao Kubala	la_đít_x_lao cu_ba_la
+Johan Neeskens	giô_han nét_x_ken_x
+Omar Sivori	ô_ma xi_vô_ri
+George Weah	gioóc oe_a
+Dino Zoff	đi_nô dóp
+Oliver Kahn	ô_li_vơ can
+Mario Kempes	ma_ri_ô kem_pét_x
+Fernando Redondo	phéc_nan_đô rê_đôn_đô
+Gianluigi Buffon	gi_an_lu_i_gi búp_phông
+Clarence Seedorf	cờ_le_rừn_x xi_đóp
+Eden Hazard	ê_đen ha_dát
+Paul Van Himst	pau van him
+Andrea Pirlo	an_đờ_rê_a piếc_lô
+Ronald Koeman	rô_nan cô_e_man
+Daniel Passarella	đan_ni_en pát_xa_ren_la
+Carles Puyol	các_lơ pu_y_on
+Gheorghe Hagi	ghe_o_ghê ha_ghi
+Sandor Kocsis	xan_đo cóc_xít
+Gabriel Batistuta	ga_bờ_ri_en ba_ti_x_tu_ta
+Philipp Lahm	phi_líp lam
+Nandor Hidegkuti	nan_đo hi_đéc_cu_ti
+Yaya Touré	y_a_y_a tô_rê
+Zbigniew Boniek	dơ_bích_niu bo_niếc
+Rivaldo	ri_van_đô
+József Bozsik	giô_xép bô_xích
+Carlos Alberto Torres	các_lốt an_béc_tô tô_rét
+Leônidas da Silva	lê_ô_ni_đát đa xin_va
+Paolo Rossi	pao_lô rốt_xi
+Zoltan Czibor	dôn_tan xi_bo
+Grzegorz Lato	gờ_re_go la_tô
+Jürgen Kohler	giu_ghen cô_lơ
+Andreas Brehme	an_đờ_rê_át bờ_rê_mơ
+Sepp Maier	xép mai_ơ
+Jürgen Klinsmann	giu_ghen cờ_lin_x_man
+Giuseppe Meazza	giu_xép_pê mê_da
+Michel Preud'Homme	mi_sen pờ_rớt_đờm
+Claudio Caniggia	cờ_lau_đi_ô ca_ních_ghia
+Mehmet Scholl	me_mét xờ_chôn
+Wayne Rooney	uây_ni ru_ni
+Juan Román Riquelme	gioan rô_man ri_quen_mê
+Stanley Matthews	xờ_ten_li mát_thiu
+Toni Kroos	tô_ni cờ_rút
+Eric Cantona	e_rích can_to_na
+Tostao	tốt_x_tao
+Paulo Roberto Falcão	pau_lô rô_béc_tô phan_cao
+Matthias Sammer	mát_thi_át xam_mơ
+Jean-Marie Pfaff	gin_ma_ri pờ_pháp
+Luigi Riva	lu_i_gi ri_va
+Just Fontaine	giút phong_ten
+Hristo Stoichkov	hờ_rít_tô xờ_tôi_cốp
+Josef Masopust	hô_xép ma_xô_pút
+Peter Shilton	pi_tơ sin_tôn
+Gordon Banks	go_đôn banh
+Fernando Hierro	phéc_nan_đô hia_rô
+Allan Simonsen	a_lan xi_mông_xen
+Marcelo Vieira	mác_xê_lô vi_ê_ra
+Edwin van der Sar	ét_uyn van đờ xa
+Youri Djorkaeff	y_o_ri giô_ca_ép
+Ryan Giggs	rai_an ghích
+Abedi 'Pele' Ayew	a_be_đi pê_lê a_iu
+Davor Suker	đa_vo xúc_cơ
+Giacinto Facchetti	gia_xin_tô phác_chét_ti
+Raúl González	rau gôn_da_lét
+Peter Schmeichel	pi_tơ x_mây_chen
+Jupp Heynckes	giúp hây_nấc_két_x
+Iker Casillas	i_cơ ca_xi_lát
+Pedja Mijatovic	pét_gia mi_gia_tô_vích
+Alessandro Nesta	a_lê_xan_đờ_rô nét_x_ta
+Zvonimir Boban	dơ_vô_ni_mia bô_ban
+Manuel Neuer	ma_nu_en noi_ơ
+Didier Deschamps	đi_đi_ê đét_x_cham
+Vincenzo Scifo	vin_xen_dô xi_phô
+Ruud Gullit	rút gu_lít
+Steven Gerrard	xờ_ti_vừn gie_rát
+Laurent Blanc	lô_răng bờ_lăng
+Graeme Souness	gờ_rê_me xâu_nét
+Luis Suarez	lu_ít xua_rét
+Dejan Savicevic	đê_gian xa_vi_xê_vích
+Francesco Totti	phờ_răng_xét_x_cô tốt_ti
+Kaká	ca_ca
+Dunga	đung_ga
+Javier Zanetti	ha_vi_ê da_nét_ti
+Gary Lineker	ga_ri li_ne_cơ
+Rui Barros	rui ba_rốt
+Nemanja Vidic	nê_man_gia vi_đích
+Dejan Stankovic	đê_gian xờ_tan_cô_vích
+Obdulio Varela	ốp_đu_li_ô va_re_la
+David Ginola	đa_vít ghi_nô_la
+Paulo Futre	pau_lô phu_tre
+Marcel Desailly	mác_xen đê_xai_li
+Diego Godín	đi_ê_gô gô_đin
+Robert Lewandowski	rô_bớt lê_oan_đô_x_ki
+Juninho Paulista	giu_ni_nhô pau_lít_x_ta
+Jorge González	ho_ghê gôn_da_lét
+Stefan Effenberg	xờ_te_phan ép_phen_bớc
+Patrick Vieira	pa_trích vê_ra
+Eric Gerets	ê_rích ghe_rét
+Dragan Stojkovic	đờ_ra_gan xờ_tôi_cô_vích
+Edgar Davids	ét_ga đa_vít
+Andrei Shevchenko	an_đờ_rê sép_chen_cô
+Ubaldo Matildo Fillol	u_ban_đô ma_tin_đô phin_lon
+Dani Alves	đa_ni an_vét
+Zinho	di_nhô
+Guido Buchwald	gui_đô búc_oát
+Dragoslav Sekularac	đờ_ra_gót_x_láp xe_cu_la_rác
+Chris Waddle	cờ_rít oát_đồ
+Rudi Völler	ru_đi vôn_lơ
+Alen Boksic	a_len bốc_xích
+Kazimierz Deyna	ca_di_mia đê_na
+Juninho Pernambucano	giu_ni_nhô pếch_nam_bu_ca_no
+Lilian Thuram	li_li_an thu_ram
+Fabio Cannavaro	pha_bi_ô can_na_va_rô
+Bebeto	be_be_tô
+Thomas Häßler	thô_mát háp_bờ_lơ
+Roger Milla	ro_gơ min_la
+Hans-Peter Briegel	han pi_tơ bờ_rích_ghen
+Gaetano Scirea	ghê_ta_nô xi_rê_a
+Osvaldo Ardiles	ốt_van_đô a_đi_lê
+Fabien Barthez	pha_bi_en ba_thét
+Claudio Taffarel	cờ_lau_đi_ô táp_pha_ren
+José Luis Chilavert	hô_xê lu_i chi_la_véc
+Claudio Gentile	cờ_lau_đi_ô gien_tai
+Kevin Keegan	ke_vin ki_gan
+Ruud Krol	rút cờ_rôn
+Berti Vogts	béc_ti vốc
+Geoff Hurst	giép hớt
+Rivelino	ri_vê_li_nô
+David Villa	đa_vít vi_la
+Emilio Santamaría	ê_mi_li_ô xan_ta_ma_ri_a
+USD	u_ét_đê
+TS	tê_ét
+KG	ca_gờ
+MC	em_xi
+VTC	vê_tê_xê
+MV	em_vi
+GDP	giê_đê_pê
+TPP	tê_pê_pê
+MM	mờ_mờ
+MTV	mờ_tê_vê
+CM	xê_mờ
+BBC	bê_bê_xê
+PSG	pê_ét_gờ
+CNN	xê_nờ_nờ
+NTM	nờ_tê_mờ
+FC	ép_xê
+HNX	hát_nờ_ích
+PVN	pê_vê_nờ
+FLC	ép_lờ_xê
+HTTP	hát_tê_tê_pê
+PC	pê_xê
+VPF	vê_pê_ép
+HNM	hát_nờ_mờ
+ST	ét_x_tê
+DJ	đi_giây
+PH	pê_hát
+RT	rờ_tê
+BT	bê_tê
+PVC	pê_vê_xê
+MR	mờ_rờ
+M-TP	mờ-tê_pê
+PPP	pê_pê_pê
+PR	pê_rờ
+TKV	tê_ca_vê
+MW	mờ_vê_kép
+MP	mờ_pê
+LCD	lờ_xê_đê
+VNCB	vê_nờ_xê_bê
+CD	xi_đi
+GPS	gờ_pê_ét
+DVD	đê_vê_đê
+CC	xê_xê
+GM	gờ_mờ
+HPG	hát_pê_gờ
+SNSD	ét_nờ_ét_đê
+SDF	ét_đê_ép
+CNC	xê_nờ_xê
+CPTPP	xê_pê_tê_pê_pê
+BRT	bê_rờ_tê
+FBNV	ép_bê_nờ_vê
+SMS	ét_mờ_ét
+CTG	xê_tê_gờ
+BVH	bê_vê_hát
+LTD	lờ_tê_đê
+ML	mờ_lờ
+NBC	nờ_bê_xê
+SM	ét_mờ
+QNG	qui_nờ_gờ
+PVD	pê_vê_đê
+FB	ép_bê
+DC	đê_xê
+CR-V	xê_rờ-vê
+HTTPS	hát_tê_pê_pê_ét
+GR	gờ_rờ
+TVB	tê_vê_bê
+SCMP	ét_xê_mờ_pê
+PVS	pê_vê_ét
+HTV	hát_tê_vê
+TCM	tê_xê_mờ
+BVSC	bê_vê_ét_xê
+LGBT	lờ_gờ_bê_tê
+CNBC	xê_nờ_bê_xê
+CMC	xê_mờ_xê
+JR	gi_e_rờ
+MG	mờ_gờ
+CL	xê_lờ
+JMG	gi_mờ_gờ
+NPK	nờ_pê_ca
+NCT	nờ_xê_tê
+MBB	mờ_bê_bê
+NVCC	en_vi_xi_xi
+CBS	xê_bê_ét
+HSX	hát_ét_ích
+SSD	ét_ét_đê
+BB	bê_bê
+CCTV	xi_xi_ti_vi
+PVX	pê_vê_ích_x
+VNG	vê_nờ_gờ
+NTC	nờ_tê_xê
+KBC	ca_bê_xê
+SHS	ét_hát_ét
+DPM	đê_pê_mờ
+BSR	bê_ét_rờ
+NT	nờ_tê
+VCG	vê_xê_gờ
+QPR	qui_pê_rờ
+RS	rờ_ét_x
+PT	pê_tê
+FSB	ép_ét_x_bê
+MBS	mờ_bê_ét_x
+MWG	mờ_vê_kép_gờ
+SCB	ét_x_xê_bê
+GMT	gờ_mờ_tê
+VR	vê_rờ
+FPTS	ép_pê_tê_ét_x
+HQC	hát_qui_xê
+LPG	lờ_pê_gờ
+HSC	hát_ét_xê
+PSV	pê_ét_x_vê
+PG	pi_gi
+MWC	mờ_vê_kép_xê
+CNRP	xê_nờ_rờ_pê
+WWF	vê_kép_vê_kép_ép
+VNR	vê_nờ_rờ
+XP	ích_pê
+CVT	xê_vê_tê
+MN	mờ_nờ
+MRCC	mờ_rờ_xê_xê
+VDB	vê_đê_bê
+PPC	pê_pê_xê
+KW	ca_vê_kép
+KLS	ca_lờ_ét
+SCR	ét_xê_rờ
+PKK	pê_ca_ca
+NFC	nờ_ép_xê
+HNG	hát_nờ_gờ
+VCSC	vê_xê_ét_x_xê
+CHK	xê_hát_ca
+QCG	qui_xê_gờ
+SBJ	ét_x_bê_gi
+DPR	đê_pê_rờ
+HPV	hát_pê_vê
+VW	vê_vê_kép
+VSD	vê_ét_đê
+CCN	xê_xê_nờ
+CDC	xê_đê_xê
+LX	lờ_ích
+BHD	bê_hát_đê
+VCPMC	vê_xê_pê_mờ_xê
+DM	đê_mờ
+CNG	xê_nờ_gờ
+XM	ích_mờ
+SCTV	ét_xê_tê_vê
+HMS	hát_mờ_ét_x
+HVG	hát_vê_gờ
+DXG	đê_ích_gờ
+MHB	mờ_hát_bê
+VCBS	vê_xê_bê_ét_x
+FT	ép_tê
+HDR	hát_đê_rờ
+TPL	tê_pê_lờ
+TTF	tê_tê_ép
+DPJ	đê_pê_di
+QR	qui_rờ
+HBC	hát_bê_xê
+FM	ép_em
+VGP	vê_gờ_pê
+HTS	hát_tê_ét_x
+SCG	ét_xê_gờ
+GRDP	gờ_rờ_đê_pê
+GMS	gờ_mờ_ét_x
+FV	ép_vê
+SPDR	ét_x_pê_đê_rờ
+SPD	ét_pê_đê
+KGB	ca_gờ_bê
+CJ	xê_gi
+MLS	mờ_lờ_ét_x
+VJC	vê_gi_xê
+BMP	bê_mờ_pê
+QNK	qui_nờ_ca
+PDF	pê_đê_ép
+LNG	lờ_nờ_gờ
+VRG	vê_rờ_gờ
+WSJ	vê_kép_ét_gi
+MBC	mờ_bê_xê
+VFC	vê_ép_xê
+CPC	xê_pê_xê
+PVT	pi_vi_ti
+NLD	nờ_lờ_đê
+VDSC	vê_đê_ét_xê
+DWT	đê_vê_kép_tê
+RM	rờ_mờ
+XR	ích_rờ
+MTP	mờ_tê_pê
+BVS	bê_vê_ét
+NSW	nờ_ét_vê_kép
+KLGD	ca_lờ_gờ_đê
+PVFC	pê_vê_ép_xê
+BMC	bê_mờ_xê
+PLC	pê_lờ_xê
+SC	ét_xê
+VWS	vê_vê_kép_ét
+VMS	vê_mờ_ét
+PLX	pê_lờ_ích
+TNG	tê_nờ_gờ
+GLC	gờ_lờ_xê
+HTD	hát_tê_đê
+DMZ	đê_mờ_dét
+VPB	vê_pê_bê
+MPC	mờ_pê_xê
+SSC	ét_x_ét_xê
+NPT	nờ_pê_tê
+JP	gi_pê
+TMZ	tê_mờ_dét
+CR	xê_rờ
+PK	pê_ca
+NCB	nờ_xê_bê
+BD	bê_đê
+GCC	gờ_xê_xê
+TTC	tê_tê_xê
+KLF	ca_lờ_ép
+NTP	nờ_tê_pê
+JW	gi_vê_kép
+DMC	đê_mờ_xê
+VJ	vê_gi
+RC	rờ_xê
+GTS	gờ_tê_ét
+DRC	đê_rờ_xê
+HMD	hát_mờ_đê
+TDH	tê_đê_hát
+FHS	ép_hát_ét
+MH	mờ_hát
+DSLR	đê_ét_lờ_rờ
+GSM	gờ_ét_mờ
+BBQ	bê_bê_qui
+NB	nờ_bê
+PCX	pê_xê_ích
+PVP	pê_vê_pê
+VBF	vê_bê_ép
+MPV	mờ_pê_vê
+CSM	xê_ét_mờ
+LT	lờ_tê
+MRS	mờ_rờ_ét
+VX	vê_ích
+GMP	gờ_mờ_pê
+HHS	hát_hát_ét
+JSC	gi_ét_xê
+CTD	xê_tê_đê
+LTT	lờ_tê_tê
+NSC	nờ_ét_xê
+BHS	bê_hát_ét
+NDF	nờ_đê_ép
+MBPS	mờ_bê_pê_ét
+SPF	ét_pê_ép
+WC	vê_kép_xê
+SMC	ét_mờ_xê
+DLG	đê_lờ_gờ
+LV	lờ_vê
+BTL	bê_tê_lờ
+JTC	gi_tê_xê
+GMC	giê_mờ_xê
+SJS	ét_gi_ét
+HKD	hát_ca_đê
+LP	lờ_pê
+SNG	ét_nờ_gờ
+GTX	gờ_tê_ích
+DBSK	đê_bê_ét_ca
+TSC	tê_ét_xê
+BRG	bê_rờ_gờ
+NVL	nờ_vê_lờ
+BVN	bê_vê_nờ
+TTP	tê_tê_pê
+CLC	xê_lờ_xê
+SHN	ét_hát_nờ
+NBB	nờ_bê_bê
+VHC	vê_hát_xê
+FX	ép_ích
+HDB	hát_đê_bê
+TMT	tê_mờ_tê
+VFS	vê_ép_ét
+SLS	ét_lờ_ét
+HR-V	hát_rờ-vê
+QHD	qui_hát_đê
+VTB	vê_tê_bê
+HDD	hát_đê_đê
+RX	rờ_ích
+PB	pê_bê
+LLC	lờ_lờ_xê
+FN	ép_nờ
+TDC	tê_đê_xê
+NHS	nờ_hát_ét
+VHG	vê_hát_gờ
+THT	tê_hát_tê
+DP	đê_pê
+XXX	ích_ích_ích
+VSH	vê_ét_hát
+QB	qui_bê
+DQC	đê_qui_xê
+XPS	ích_pê_ét
+NVX	nờ_vê_ích
+VCS	vê_xê_ét
+DNS	đê_nờ_ét_x
+GBP	gờ_bê_pê
+WWDC	vê_kép_vê_kép_đê_xê
+PNC	pê_nờ_xê
+GQ	gờ_qui
+LCS	lờ_xê_ét
+BR	bê_rờ
+GTB	gờ_tê_bê
+CTS	xê_tê_ét
+TCC	tê_xê_xê
+LCG	lờ_xê_gờ
+SQC	ét_qui_xê
+BNP	bê_nờ_pê
+SHTP	ét_hát_tê_pê
+HBB	hát_bê_bê
+SBC	ét_bê_xê
+HTML	hát_tờ_mờ_lờ
+KDH	ca_đê_hát
+GX	gờ_ích
+TVC	tê_vê_xê
+SVC	ét_vê_xê
+VPN	vê_pê_nờ
+SR	ét_rờ
+SNC	ét_nờ_xê
+XT	ích_tê
+VTF	vê_tê_ép
+VSC	vê_ét_xê
+PDR	pê_đê_rờ
+DBC	đê_bê_xê
+XMXT	ích_mờ_ích_tê
+PVB	pê_vê_bê
+GT-R	gờ_tê-rờ
+VHM	vê_hát_mờ
+NTV	en_ti_vi
+MD	mờ_đê
+MSBS	mờ_ét_bê_ét
+VCF	vê_xê_ép
+TMS	tê_mờ_ét
+BG	bê_gờ
+NLG	nờ_lờ_gờ
+KPMG	ca_pê_mờ_giê
+TCB	tê_xê_bê
+BCG	bê_xê_gờ
+PVL	pê_vê_lờ
+TRD	tê_rờ_đê
+TFT	tê_ép_tê
+DW	đê_vê_kép
+VNS	vê_nờ_ét
+LDG	lờ_đê_gờ
+VGC	vê_gờ_xê
+HDTV	hát_đê_ti_vi
+BTN	bê_tê_nờ
+NMD	nờ_mờ_đê
+KBPS	ca_bê_pê_ét_x
+PMC	pê_mờ_xê
+CMS	xê_mờ_ét
+GSP	gờ_ét_pê
+VNTM	vê_nờ_tê_mờ
+RB	rờ_bê
+HKT	hát_ca_tê
+XZ	ích_dét
+FCC	ép_xê_xê
+FHM	ép_hát_mờ
+TDP	tê_đê_pê
+NTL	nờ_tê_lờ
+PHR	pê_hát_rờ
+PCB	pê_xê_bê
+LDL	lờ_đê_lờ
+HRW	hát_rờ_vê_kép
+PD	pê_đê
+CNPC	xê_nờ_pê_xê
+BTH	bê_tê_hát
+THP	tê_háp_pê
+PXS	pê_ích_ét_x
+RSX	rờ_ét_ích
+BND	bê_nờ_đê
+MSX	mờ_ét_ích
+MST	mờ_ét_tê
+DB	đê_bê
+JLL	gi_lờ_lờ
+CRV	xê_rờ_vê
+MBV	mờ_bê_vê
+MCG	mờ_xê_gờ
+KSB	ca_ét_bê
+MDF	mờ_đê_ép
+FPS	ép_pê_ét
+FDP	ép_đê_pê
+JS	gi_ét
+GPRS	gờ_pê_rờ_ét
+FMC	ép_mờ_xê
+MTM	mờ_tê_mờ
+WFP	vê_kép_ép_pê
+NKG	nờ_ca_gờ
+SLBM	ét_lờ_bê_mờ
+GPP	gờ_pê_pê
+KTT	ca_tê_tê
+TVXQ	tê_vê_ích_qui
+VPBS	vê_pê_bê_ét
+DRH	đê_rờ_hát
+FF	ép_ép
+DHT	đê_hát_tê
+JCG	gi_xê_gờ
+TMC	tê_mờ_xê
+CKD	xê_ca_đê
+LB-FT	lờ_bê-ép_tê
+CBC	xê_bê_xê
+JCS	gi_xê_ét
+FSC	ép_ét_xê
+LC	lờ_xê
+HTVC	hát_tê_vê_xê
+GTN	gờ_tê_nờ
+VSTV	vê_ét_tê_vê
+LPR	lờ_pê_rờ
+RPM	rờ_pê_mờ
+TNTX	tạm nhập tái xuất
+TRC	tê_rờ_xê
+BHN	bê_hát_nờ
+MV-BR	mờ_vê-bê_rờ
+NPR	nờ_pê_rờ
+KSS	ca_ét_ét
+GSK	gờ_ét_ca
+DNC	đê_nờ_xê
+NVS	nờ_vê_ét
+XQ	ích_qui
+SPT	ét_pê_tê
+WD	vê_kép_đê
+NPH	nờ_pê_hát
+NCM	nờ_xê_mờ
+SDR	ét_đê_rờ
+HG	hát_gờ
+MRC	mờ_rờ_xê
+MGM	mờ_gờ_mờ
+TSMC	tê_ét_mờ_xê
+LTZ	lờ_tê_dét
+WP	vê_kép_pê
+CF	xê_ép
+MDG	mờ_đê_gờ
+CHF	xê_hát_ép
+VNH	vê_nờ_hát
+CLS	xê_lờ_ét
+SVR	ét_vê_rờ
+MG/L	mi_li_gam trên lít
+NVT	nờ_vê_tê
+GCHQ	gờ_xê_hát_qui
+MSNBC	mờ_ét_nờ_bê_xê
+HFF	hát_ép_ép
+PVCFC	pê_vê_xê_ép_xê
+BRP	bê_rờ_pê
+BJC	bê_gi_xê
+CTC	xê_tê_xê
+PPM	pê_pê_mờ
+CFC	xê_ép_xê
+VDS	vê_đê_ét
+DFB	đê_ép_bê
+KSH	ca_ét_hát
+DCM	đê_xê_mờ
+VCTV	vê_xê_tê_vê
+MHBS	mờ_hát_bê_ét
+FCN	ép_xê_nờ
+SSG	ét_ét_gờ
+QTSC	qui_tê_ét_xê
+HR	hát_rờ
+VST	vê_ét_tê
+PSD	pê_ét_đê
+GLK	gờ_lờ_ca
+BBG	bê_bê_gờ
+A	a
+B	bê
+C	xê
+D	đê
+E	e
+F	ép
+I	i
+J	gi
+K	ca
+L	lờ
+M	mờ
+N	nờ
+O	o
+P	pê
+Q	quy
+R	rờ
+S	ét
+T	tê
+U	u
+V	vê
+W	vê_kép
+Internet	in_tơ_nét
+Iphone	ai_phôn
+New	niu
+League	lích
+World	uôn
+Asean	a_xe_an
+City	xi_ti
+Eu	e_u
+Obama	ô_ba_ma
+Reuters	roi_tơ_x
+Tand	ten
+Campuchia	cam_pu_chia
+Putin	pu_tin
+Camera	ca_me_ra
+News	niu_x
+Fan	phen
+Game	ghêm
+Donald	đô_nan
+Smartphone	xờ_mát_phôn
+Online	on_lai
+Web	oép
+Olympic	ô_lim_píc
+Messi	mét_xi
+Champions	chem_piền_x
+Show	sâu
+Mourinho	mô_ri_nhô
+Barca	bác_xa
+Galaxy	ga_la_xi
+Nato	na_tô
+Myanmar	mi_an_ma
+Games	ghêm_x
+Lee	li
+Moscow	mót_x_câu
+Sea	xi
+Hot	hót
+John	giôn
+Of	ợp
+David	đa_vít
+Website	oép_xai
+Album	an_bum
+Premier	pờ_rim_mi_ờ
+Android	en_đờ_roi
+Virus	vi_rút
+Container	công_te_nơ
+United	y_iu_nai_tựt
+Tour	tua
+Windows	uyn_đâu_x
+Inch	inh
+Bayern	bai_ờn
+Airlines	e_lai_x
+Italia	i_ta_li_a
+Email	i_mêu
+Showbiz	sau_bít
+Ap	áp
+Clinton	cờ_lin_tơn
+Kong	coong
+Times	tham_mờ
+Kon	con
+Saudi	xao_đi
+Michael	mai_cơn
+Barack	ba_rách
+Cand	ken
+Daily	đây_li
+Vladimir	vờ_la_đi_mia
+James	giêm_x
+Tottenham	tót_ten_ham
+Ipad	ai_pát
+Rooney	run_ni
+Model	mo_đồ
+Vietnamnet	việt_nam_nét
+Jong-Un	gioong_un
+Chip	chíp
+Apec	a_pếch
+Miss	mít_x
+Usd/Ounce	u_ét_đê/au_xơ
+Ceo	xi_ô
+Plus	pờ_lút
+Air	e
+Liveshow	lai_sô
+Hiv	hát_i_vê
+Fed	phét
+Palestine	pa_lét_x_tin
+Scandal	xì_căng_đan
+Girl	gơn 
+California	ca_li_phoóc_nhi_a
+Robot	rô_bốt
+Group	gờ_rúp
+Hollywood	hô_li_út
+Liga	li_ga
+Atletico	át_lê_ti_cô
+Paul	pau
+Mail	mêu
+Radar	ra_đa
+West	oét
+Won	uân
+And	en
+Miura	miu_ra
+Karaoke	ca_ra_ô_kê
+Idol	ai_đồ
+Oscar	ốt_ca
+Jose	giô_xê
+Xii	mười hai la mã
+Mini	mi_ni
+Zealand	di_lân
+Golf	gôn
+Alex	a_lếch
+Crimea	cờ_ri_mia
+Wenger	oen_gơ
+Arabia	a_ra_bi_a
+Hose	hâu
+Old	âu
+Sexy	xếch_xi
+Ios	i_ô_ét
+Abe	a_bê
+Atm	a_tê_mờ
+Festival	phét_ti_van
+Axit	a_xít
+Teen	tin
+Note	nốt
+Gaal	gan
+Heroin	hê_rô_in
+Tivi	ti_vi
+Angela	ăng_giê_la
+Trafford	tráp_phốt
+Mark	mác
+Los	lót
+Robert	rô_bớt
+Oxy	ô_xi
+Set	xét
+Grand	gờ_ran
+Maria	ma_ri_a
+Young	y_ăng
+Led	lét
+Oda	ô_đa
+Utd	u_tê_đê
+Bitcoin	bít_coi
+Asiad	a_xi_át
+Martin	mác_tin
+Uss	út
+Sex	xếch
+Kurd	cớt
+Victoria	vích_to_ri_a
+Costa	cốt_ta
+Harry	ha_ri
+Unesco	u_nét_cô
+Laptop	láp_tốp
+Protein	pờ_rô_tê_in
+Assad	a_xát
+Hillary	hi_la_ri
+Aleppo	a_lép_pô
+Hit	hít
+George	gioóc_giơ
+Suarez	xua_rét
+Bale	bêu
+Bikini	bi_ki_ni
+Star	x_ta
+Jong	giông 
+Pro	pờ_rô
+Jennifer	gien_ni_phơ
+Cristiano	cờ_rít_ti_a_nô
+El	eo
+Noel	nô_en
+Super	xúp_pơ
+Ukraina	u_cờ_rai_na
+Guardiola	gua_đi_ô_la
+Dortmund	đót_mun
+Moon	mun
+You	iu
+Damascus	đa_ma_cớt
+Vnmedia	vê_nờ_mê_đi_a
+Getty	ghết_ti
+Nadal	na_đan
+Merkel	méc_ken
+Taylor	tây_lơ
+Voice	voi
+Leicester	lây_chét_tơ
+Black	bờ_lách
+Angeles	ang_giê_lét
+Diego	đi_ê_gô
+Wall	uôn
+Federer	phê_đơ_rơ
+Taliban	ta_li_ban
+Logo	lô_gô
+Fbi	ép_bê_i
+Bill	biu
+Gen	gien
+Rock	rốc
+Pep	pép
+Live	lai
+Diesel	đi_ê_den
+Formosa	phoóc_mô_xa
+Hari	ha_ri
+Pogba	pốc_ba
+Justin	giút_tin
+Luis	lu_ít
+Djokovic	giô_cô_vích
+Gaddafi	ga_đa_phi
+Kerry	ke_ri
+Next	nếch
+Donetsk	đô_nết
+Sputnik	x_pút_ních
+Bloomberg	bờ_lum_bớc
+Canxi	can_xi
+Villa	vi_la
+Wto	vê_kép_tê_ô
+Antt	an
+Saigon	sài_gòn
+Duterte	đu_téc
+Vaccine	vắc_xin
+Who	hu
+Jones	giôn
+Sergei	xê_gây
+Series	xê_ri
+Louis	lu_i
+Resort	rì_xọt
+Uae	u_a_e
+Peter	pi_tơ
+Thomas	thôm_mát
+Kremlin	cờ_rem_lin
+Sanchez	xan_chét
+Serie	xê_ri
+Ferguson	phê_gu_xơn
+Rio	ri_ô
+Jack	giách
+Love	lớp
+Massage	mát_xa
+Land	lan
+Erdogan	ê_đo_gan
+Attp	a_tê_tê_pê
+Steve	x_típ
+Beckham	béc_khăm
+Al-Qaeda	an_cây_đa
+Usb	u_ét_bê
+Brexit	bờ_re_xít
+As	át
+Nick	ních
+Lavrov	láp_rốp
+Vietjet	việt_giét
+Hiv/Aids	hát_i_vê/ết
+Face	phây
+Silva	xin_va
+Gea	ghi
+Pop	pốp
+Daniel	đa_ni_en
+Suv	xúp
+Stress	x_trét
+Giadinhnet	gia_đình_nét
+Asia	a_xi_a
+Mobile	mô_bai
+Global	gờ_lo_bồ
+Street	x_trít
+Blog	bờ_lốc
+Like	lai
+Futsal	phút_xan
+Arab	a_ráp
+Hanoinet	hà_nội_nét
+Ji	gi
+Plo	pờ_lô
+Ibrahimovic	i_bờ_ra_hi_mô_vích
+Wales	êu
+Ebola	ê_bô_la
+Ali	a_li
+Yoga	y_ô_ga
+Vcci	vê_xê_xê_i
+Jackson	giách_xơn
+Jolie	giô_li
+Mike	mai
+Asian	a_xi_an
+Johnson	giôn_xơn
+Bashar	ba_sa
+Chris	cờ_rít
+Scotland	x_cót_lan
+Nude	nút
+William	uy_li_am
+Florida	phờ_lo_ri_đa
+Yonhap	y_ô_nháp
+Plaza	pờ_la_da
+Khmer	khơ_me
+Alexander	a_lếch_xăng_đơ
+Oceanbank	âu_xừn_banh
+Al-Assad	an_a_xát
+Persie	pơ_xi
+Lionel	li_o_nen
+Vnexpress	vê_nờ_ếch_pờ_rét
+Pleiku	pờ_lây_cu
+Del	đen
+Shinzo	sin_dô
+Abu	a_bu
+Hyun	huyn
+Zidane	di_đan
+Hye	hai
+Joe	giâu
+Gala	ga_la
+Noo	nu
+Gaza	ga_da
+Hacker	hách_cơ
+Nasa	na_xa
+Petrotimes	pê_trô_tham
+Camp	cam
+Mekong	mê_công
+Open	âu_pừn
+Richard	rích_chát
+Murray	mu_rây
+Home	hôm
+File	phai
+Texas	tếch_xát
+Bridge	bờ_rít
+Hang-Seo	hang_xeo
+Conte	côn_tê
+Uefa	u_e_pha
+Bolero	bô_lê_rô
+Sergio	xéc_giô
+Caq	các
+Zika	di_ca
+Cabin	ca_bin
+Calisto	ca_lít_tô
+Hazard	ha_dát
+Spa	x_pa
+Poroshenko	pô_rô_sen_cô
+Europa	ơ_rô_pa
+Wi-Fi	oai_phai
+Bush	bút
+Angelina	an_giê_li_na
+Ryan	ri_an
+Kate	kết
+Airbus	e_bút
+Richter	rích_tơ
+Trailer	trêu_lơ
+Nilon	ni_lông
+Torres	tô_rét
+Dmitry	đê_mi_tri
+Nobel	nô_ben
+Ictnews	i_xê_tê_niu
+Cameron	cam_mê_ron
+Jin	gin
+Hnmo	hát_nờ_mô
+Pixel	pích_xen
+Cholesterol	cô_lét_tơ_rôn
+Jung	giung
+Ramos	ram_mốt
+Bus	bút
+Vinashin	vi_na_sin
+Forbes	pho_bét
+Aguero	a_gu_ê_rô
+America	a_me_ri_ca
+Sedan	xê_đăng
+Medvedev	mét_vê_dép
+Shop	sóp
+Style	x_tai
+Newcastle	niu_cát_xồ
+Aston	át_tôn
+Bernabeu	béc_na_bêu
+Max	mắc
+Vietlott	việt_lót
+Swift	x_uýp
+Phone	phôn
+Antonio	an_tô_ni_ô
+Catwalk	cát_oắc
+Music	miu_dích
+Ancelotti	an_xê_lót_ti
+Benzema	ben_dê_ma
+Mix	mích
+Vinalines	vi_na_lai
+Fanpage	phan_pết
+Terry	te_ri
+For	pho
+Vamc	vê_a_mờ_xê
+Xperia	ích_pê_ri_a
+Type	tai
+Opec	ô_pếch
+Juan	hoan
+Cannes	can_nét
+Brad	bờ_rát
+Nou	nô
+Snapdragon	x_náp_đờ_ra_gôn
+Scic	xích
+Calo	ca_lo
+Valentine	va_len_tin
+Lumia	lu_mi_a
+Blues	bờ_lu
+Mario	ma_ri_ô
+Kevin	ke_vin
+Yen	yên
+Williams	uy_li_am
+Lady	lây_đi
+Laden	la_đen
+Infonet	in_phô_nét
+Usd/Oz	u_ét_đê/ao
+Eurozone	ê_rô_dôn
+Pacific	pa_xi_phích
+Derby	đéc_bi
+Yang	y_ang
+Bizlive	bít_lai
+Power	pao_ơ
+Cap	cáp
+Mosul	mô_xun
+Jang	giang
+South	xao
+Fabregas	pha_bờ_rê_gát
+Up	úp
+Awards	a_oát
+Hollande	hô_lăng_đơ
+Business	bi_di_nít
+Flash	phờ_lát
+Jean	gin
+Yingluck	y_inh_lắc
+Wayne	oay_ne
+Wang	oang
+Doji	đô_gi
+Carlos	các_lốt
+Macron	mác_ron
+Carbon	các_bon
+Jeans	gin
+Logistics	lô_gi_tích
+Images	i_mết
+Rodriguez	rốt_ri_goét
+Gates	ghết
+Castro	cát_trô
+Telegraph	tê_lê_gờ_ráp
+Kuala	cua_la
+Capital	cáp_pi_tan
+Balotelli	ba_lô_te_li
+Moyes	moi
+Adam	a_đam
+Boy	boi
+Time	tham
+Henry	hen_ri
+Adb	a_đê_bê
+Las	lát
+Lumpur	lăm_pua
+Stamford	x_tam_phót
+Hee	hi
+Photo	phô_tô
+Mata	ma_ta
+Red	rét
+Team	tim
+Tony	tô_ni
+Charlie	cha_li
+Tablet	táp_bờ_lét
+Hormone	hóc_môn
+Gareth	ga_rét
+Motor	mô_tô
+Palace	pa_lết
+Charles	chác_lơ
+Deir	đê
+Link	linh
+Rafael	ra_pha_en
+Selfie	xeo_phi
+Brown	bờ_rao
+Green	gờ_rin
+Smith	x_mít
+Nguyen	Nguyễn
+Hanoi	Hà Nội
+Concept	con_xép
+Andy	an_đi
+Gold	gôn
+Wifi	oai_phai
+Fashion	phát_sừn
+Stoke	x_tốc
+Chat	chát
+Play	pờ_lây
+Penalty	pê_nan_ti
+Vina	vi_na
+Journal	giuốc_nan
+Store	x_to
+Casino	ca_xi_nô
+Media	mê_đi_a
+Vinaconex	vi_na_cô_nếch
+Blue	bờ_lu
+Czech	xéc
+Secret	xi_cờ_rít
+Morning	mo_ninh
+Cover	co_vờ
+Tower	tao_ơ
+Eric	ê_rích
+Kcna	ca_xê_nờ_a
+Kelly	keo_li
+Solo	xô_lô
+Klopp	cờ_lóp
+White	oai
+Nicolas	ni_cô_lát
+Lukaku	lu_ca_cu
+Center	xen_tờ
+Soo	xô
+Pitt	pít
+Novosti	nô_vô_x_ti
+Petro	pê_tờ_rô
+Harvard	ha_vớt
+Stephen	x_ti_phen
+Kali	ca_li
+Full	phun
+Roberto	rô_béc_tô
+Elizabeth	ê_li_da_bét
+Diva	đi_va
+Mirror	mi_rờ
+Hawaii	ha_oai
+Anna	an_na
+Jun	giun
+Snowden	x_nâu_đen
+Jessica	giét_xi_ca
+Sri	x_ri
+Vest	vét
+Carter	các_tơ
+Ashley	át_li
+Index	in_đếch
+Perez	pơ_rét
+Vii	bảy la mã
+Acid	a_xít
+Francisco	phờ_ran_xít_cô
+Bluetooth	bờ_lu_tút
+Alexis	a_lếch_xít
+Latinh	la_tinh
+Vietgap	việt_gáp
+Ekip	ê_kíp
+View	viu
+Juve	giu_ve
+Swansea	x_oan_xi
+Sar	xa
+Scott	x_cốt
+Steven	x_ti_vừn
+Edge	ết
+Dream	đờ_rim
+Ozil	ô_din
+Crystal	cờ_rít_tồ
+National	na_sừn_nồ
+Got	gót
+Gaga	ga_ga
+Baby	bây_bi
+Netanyahu	nê_tan_y_a_hu
+Kang	cang
+Anthony	an_thô_ni
+Status	x_ta_tút
+Manuel	ma_nu_en
+Tillerson	tiu_lơ_xơn
+Doc	đôc
+American	a_me_ri_can
+Jobs	gióp
+House	hao
+Sports	x_pót
+Tae	tê
+Smart	x_mát
+Woo	vu_u
+Hart	hát
+Jae-In	giê_in
+Arsene	ác_xen
+Michelle	mi_chen
+Macbook	mác_búc
+Nickname	ních_nêm
+Hugo	hu_gô
+Mohamed	mô_ha_mét
+Thaad	thát
+Kyo	ki_ô
+Hotgirl	hót_gơn
+Hamas	ha_mát
+Garden	ga_đừn
+Shin	sin
+Nano	na_nô
+Baghdad	bát_đa
+Us	út
+Bieber	bi_bơ
+Watch	oắt_chờ
+Fukushima	phu_cu_si_ma
+Andrew	an_đờ_rê
+Cole	cô_lơ
+Tevez	tê_vét
+Vegas	vê_gát
+Martial	ma_ti_an
+Startup	x_tát_ắp
+Gomez	gô_mét
+Zuckerberg	du_cơ_bớc
+Mohammed	mô_ha_mét
+Slam	x_lam
+Kane	kên
+Serena	xe_rê_na
+Fernando	phếch_nan_đô
+Santos	xan_tốt
+Fidel	phi_đen
+Bkav	bê_ca_a_vê
+Lopez	lô_pét
+Gym	ghim
+Iniesta	in_ni_ét_ta
+Chrome	chờ_rôm
+Talent	ta_lừn
+Wave	uây
+Giggs	ghích
+Card	các
+Frank	phờ_ranh
+Hag	hác
+Jackpot	giách_pót
+Enrique	en_rích_kê
+Catalan	ca_ta_lăng
+Benitez	bê_ni_tét
+Raqqa	rác_ca
+Thaco	tha_cô
+Kpop	cây_pốp
+Arena	a_rê_na
+Touch	thắt
+Express	ếch_pờ_rét
+Megapixel	mê_ga_pích_xen
+Francois	phờ_răng_xoa
+Brom	bờ_rôm
+Hybrid	hai_bờ_rít
+Salah	xa_la
+Christian	cờ_rít_ti_an
+Gary	ga_ri
+Lanka	lan_ca
+Kids	kít
+Upcom	úp_com
+Core	co
+Made	mết
+Guitar	ghi_ta
+Pedro	pê_đờ_rô
+Poster	pốt_tơ
+Halloween	ha_lô_uyn
+Cook	cúc
+Falcao	phan_cao
+Maradona	ma_ra_đô_na
+Baltic	ban_tích
+Ki-Moon	ki-mun
+Modric	mô_đờ_rích
+Casillas	ca_xi_lát
+Brent	bờ_ren
+Vna	vê_nờ_a
+Studio	x_tu_đi_ô
+Timor	ti_mo
+Silicon	xi_li_côn
+Roger	rô_giơ
+Test	tét
+Maya	ma_y_a
+Virginia	vi_gi_ni_a
+Mah	ma
+Griezmann	gờ_rít_man
+Tel	teo
+Giroud	gi_ru
+Joong	giung
+Edward	ét_uốt
+Ihay	i_hay
+Sarkozy	xa_cô_di
+Gerrard	giơ_rát
+Rapper	ráp_pơ
+Minsk	min
+Rodrigo	rót_ri_gô
+Phnom	phờ_nôm
+Hezbollah	he_dờ_bô_la
+App	áp
+Raul	rau
+Remix	ri_mích
+Aids	ết
+Benjamin	ben_gia_min
+Andrea	an_đờ_rê
+Lampard	lam_pát
+Project	pờ_rô_giếch
+Mancini	man_xi_ni
+Rica	ri_ca
+Hdbank	hát_đê_banh
+Mccain	mấc_kên
+Gameshow	ghêm_sâu
+Selena	xê_lê_na
+Room	rum
+Viktor	vích_to
+Entertainment	en_tơ_tên_mừn
+Drogba	đờ_roóc_ba
+Best	bét
+Rolls-Royce	rôn_roi
+Dailymail	đai_li_mai
+Penh	pênh
+Tab	táp
+Wimbledon	uym_bờ_le_đơn
+Cech	xéc
+Geun-Hye	gun_hi
+Kennedy	ken_nê_đi
+Tass	tát
+Mart	mát
+Rover	rô_vơ
+Etihad	ê_ti_hát
+Ka	ca
+Rocket	rốc_két
+Saint	xanh
+Joseph	giô_xép
+Leonardo	lê_ô_nác_đô
+Golden	gâu_đen
+Johnny	giôn_ni
+Concert	con_xớt
+Pique	pích_kê
+Sterling	x_tơ_linh
+Single	xinh_gồ
+Block	bờ_lốc
+Iaea	i_a_e_a
+Simon	xi_mon
+Standard	x_tan_đát
+Anfield	an_phiu
+Innova	in_nô_va
+Maduro	ma_đu_rô
+Telecom	tê_lê_com
+Xavi	xa_vi
+Robin	rô_bin
+Sharapova	sa_ra_pô_va
+Keangnam	keng_nam
+Yong	y_ông
+Yoo	y_u
+Insider	in_xai_đơ
+Miley	mai_li
+Sarah	xa_ra
+Nexus	nếch_xút
+Central	xen_trồ
+Dow	đâu
+Stylist	x_tai_lít
+Gruzia	gờ_ru_di_a
+Robben	róp_ben
+Nsa	nờ_ét_a
+Higuain	hi_gua_in
+Knock-Out	nốc_ao
+Patrick	pa_trích
+Rex	rếch
+Vali	va_li
+Showroom	sâu_rum
+All	ôn
+Will	uyn
+Zhang	dang
+Office	óp_phít
+Copa	cô_pa
+Exciter	ếch_xai_tơ
+Island	ai_lừn
+Der	đơ
+Wikileaks	uy_ki_lích
+Shinawatra	si_na_oa_tra
+Carl	các_lờ
+Peskov	pê_x_cốp
+Homs	hom
+Hat-Trick	hát_trích
+Alves	an_vét
+Pompeo	pôm_peo
+Kaka	ca_ca
+Coupe	câu_pê
+Mary	ma_ri
+Coc	cóc
+Sapa	xa_pa
+Ko	cô
+Toure	tô_rê
+Lucas	lu_cát
+Marco	mác_cô
+Logic	lô_gích
+Marseille	mác_xây_le
+Composite	com_pô_dít
+Berlusconi	béc_lút_cô_ni
+Pellegrini	pê_lê_gờ_ri_ni
+Hotline	hót_lai
+Carlo	các_lô
+Navibank	na_vi_banh
+Auto	au_tô
+Ferdinand	phéc_đi_năng
+Minzy	min_di
+Avg	a_vê_gờ
+Bali	ba_li
+Jica	gi_ca
+Bob	bóp
+Mattis	mát_tít
+Rashford	rát_phót
+Morata	mô_ra_ta
+Sergey	xéc_gây
+Body	bo_đi
+Rose	râu
+Iso	i_xô
+Luiz	lu_i
+Hitler	hít_le
+Davis	đa_vít
+Carolina	ca_rô_li_na
+Emmanuel	em_ma_nu_en
+Morgan	moóc_gan
+Thaksin	thác_xin
+Chavez	cha_vét
+Phil	phin
+Shutterstock	sút_tơ_x_tốc
+Vespa	vét_pa
+Fellaini	phê_lai_ni
+Alan	a_lan
+Alonso	a_lôn_xô
+Mega	mê_ga
+Id	ai_đi
+Emma	em_ma
+Oled	ô_lét
+Jason	gia_xơn
+Break	bờ_rếch
+Moto	mô_tô
+Tennis	ten_nít
+Universe	u_ni_vơ
+Eden	ê_đen
+Hill	hiu
+Nikkei	ních_cây
+Santa	xan_ta
+Today	tu_đây
+Fans	phan
+Marc	mác
+Kyodo	ki_ô_đô
+Vios	vi_ốt
+Igor	i_go
+Jeff	giép
+Atp	a_tê_pê
+Corp	cóp
+Masan	ma_xan
+Jim	gim
+Yoon	y_un
+Tripoli	tri_pô_li
+Rap	ráp
+Jae	giê
+Blade	bờ_lết
+Cruise	cờ_rui
+Dragon	đờ_ra_gon
+Becamex	bê_ca_mếch
+Elly	ê_li
+Catalonia	ca_ta_lô_ni_a
+Doping	đốp_pinh
+Jamie	giêm_mi
+Modi	mô_đi
+Fast	phát
+Coutinho	câu_ti_nhô
+Bphone	bê_phôn
+With	uýt
+Marcelo	mác_xê_lô
+Unclos	un_cờ_lốt
+Ligue	lích
+Rain	rên
+Cavani	ca_va_ni
+Irina	i_ri_na
+Lte	lờ_tê_e
+Ghouta	gâu_ta
+Midu	mi_đu
+Michel	mi_chen
+Guam	gu_am
+Petersburg	pê_téc_bua
+Bilbao	bin_bao
+Mafia	ma_phi_a
+Pepe	pê_pê
+Vasep	va_xép
+Collagen	cô_la_gien
+Sochi	xô_chi
+Cambridge	cam_bờ_rít
+Girls	gơn
+Fortuner	pho_tun_nơ
+Danny	đan_ni
+Omar	ô_ma
+Incheon	in_chơn
+Viet	việt
+Tayyip	tay_y_íp
+Night	nai
+Houthi	hao_thi
+Lewandowski	lê_van_đốp_x_ki
+Miranda	mi_ran_đa
+Weibo	vây_bồ
+Seung	xê_ung
+Bolton	bôn_tơn
+Ivan	i_van
+Junior	giu_ni_ơ
+Novak	nô_vắc
+Palmyra	pan_mi_ra
+Paulo	pau_lô
+Basel	ba_den
+Abramovich	a_bờ_ra_mô_vích
+Casting	cát_tinh
+Okinawa	ô_ki_na_oa
+Holdings	hâu_đinh
+Isaac	i_xác
+Pizza	pi_da
+Benfica	ben_phi_ca
+Play-Off	pờ_lây_ọp
+Zenfone	den_phôn
+Bruno	bờ_ru_nô
+Kardashian	ca_đa_si_an
+Joo	giu
+Mbappe	em_ba_pê
+Cienco	xi_en_cô
+Nani	na_ni
+Buffon	búp_phông
+Marvel	ma_vồ
+Singh	xinh
+Roy	roi
+Perry	pe_ri
+Al-Nusra	an-nút_ra
+Anderson	an_đơ_xơn
+Marie	ma_ri
+Hama	ha_ma
+Schweinsteiger	x_oen_tai_gơ
+North	nót
+Eun	ưn
+Week	uých
+Blogger	bờ_lốc_gơ
+Thiago	thi_a_gô
+Theresa	thê_rê_xa
+Civic	xi_vích
+Ezzor	ét_dơ
+First	phớt
+Edition	ê_đi_sừn
+Click	cờ_lích
+Ajax	a_giác
+Masters	mát_tơ
+Warren	oa_ren
+Kroos	cờ_ru
+Marathon	ma_ra_tông
+Walcott	oan_cót
+Colorado	cô_lô_ra_đô
+Aquino	a_qui_nô
+Yeon	y_on
+Gabriel	ga_bờ_ri_en
+Francis	phờ_răng_xít
+Hernandez	héc_nan_đét
+Beta	bê_ta
+Jonathan	giô_na_than
+Gene	gien
+Samuel	xam_mu_en
+Jane	giên
+Interpol	in_tơ_pôn
+Taekwondo	tây_côn_đô
+Luke	lúc
+Jesus	giê_xu
+Britney	bờ_rít_ni
+Kabul	ca_bun
+Pca	pê_xê_a
+Beauty	biu_ti
+Ranger	rang_gơ
+Your	y_o
+Town	thao
+Art	át
+Banking	banh_kinh
+Brian	bờ_rai_ừn
+Welbeck	eo_bếch
+Abdullah	áp_đun_la
+Ohio	ô_hai_ô
+Ocean	âu_sừn
+Oh	ô
+Os	ô_ét
+Bid	bít
+Christopher	cờ_rít_tốp_phơ
+Lawrence	lo_ren
+Joon	giun
+Angel	ên_giồ
+Ibra	i_bờ_ra
+Donbass	đôn_bát
+War	ua
+Financial	phi_nan_xi_an
+Leverkusen	le_vơ_cu_xen
+Aviv	a_víp
+Scarborough	x_ca_bô_rô
+Uranium	u_ran_ni_um
+Potter	pót_tơ
+Sunni	xun_ni
+Laurent	lau_ren
+Samson	xam_xơn
+Bella	beo_la
+Java	gia_va
+Press	pờ_rét
+Goetz	goét
+Hull	hun
+Senkaku	xen_ca_cu
+Grammy	gờ_ram_mi
+Diamond	đai_mừn
+Messenger	mét_xen_gơ
+Hecta	héc_ta
+Herrera	he_rê_ra
+Najib	na_gíp
+Shaw	so
+Airways	e_uây
+Philip	phi_líp
+People	pi_pồ
+Eva	ê_va
+Alpha	an_pha
+Icbm	i_xê_bê_mờ
+Wilson	iu_xơn
+Nasdaq	nát_đác
+Garcia	gác_xi_a
+Biden	bi_đen
+Cruz	cờ_rút
+Pvi	pê_vê_i
+Graechen	gờ_rê_chen
+Aec	a_e_xê
+Out	ao
+Martinez	mác_tin
+Albert	an_bớt
+Amg	a_mờ_gờ
+Korea	cô_rê_a
+Latin	la_tinh
+Hassan	hát_xan
+Courtois	cô_toa
+Miller	miu_lơ
+Surface	xơ_phây
+Romney	rôm_ni
+Walker	oắc_cơ
+Jay	giây
+Ah	a
+Ahmed	a_mét
+Katy	ca_ti
+Ronald	rô_nan
+Mueller	mu_lơ
+Neuer	noi_ơ
+Bruyne	bờ_ruyn
+Jong-Il	giông_in
+Roman	rô_măng
+Roland	rô_lan
+Alaska	a_lát_ca
+Ribery	ri_be_ri
+Lockheed	lốc_hít
+Fax	phác
+Shoigu	soi_gu
+Yanukovych	y_a_nu_cô_vích
+Andre	an_đờ_rê
+Siro	xi_rô
+Photoshop	phô_tô_sốp
+Harris	ha_rít
+Wef	oép
+Carrick	ca_rích
+Allen	a_len
+Lugansk	lu_gan
+Nylon	ni_lon
+Ashton	át_tôn
+Livestream	lai_x_trim
+Vinacomin	vi_na_cô_min
+Salman	xan_man
+Muller	mu_lơ
+Pharma	phạc_ma
+Tomahawk	tô_ma_hác
+Javier	gia_vi_ơ
+Limited	li_mít_tựt
+Hussein	hút_xê_in
+Mikhail	mi_kha_in
+Motors	mô_tô
+Make	mếch
+Short	sót
+Data	đa_ta
+Tpbank	tê_pê_banh
+School	x_cun
+Kitco	kít_cô
+Mohammad	mô_ham_mát
+Howard	hâu_oát
+Ballad	ba_lát
+Nicole	ni_câu
+Book	búc
+Yaya	y_a_y_a
+Carina	ca_ri_na
+Ak	a_ca
+Maritime	ma_ri_tham
+Phantom	phan_tôm
+Il	i_lờ
+We	uy
+Lab	láp
+Beach	bích
+Ipod	ai_pót
+Hodgson	hót_xơn
+Musk	múc
+Venus	vê_nút
+Smalling	x_mon_linh
+Nathan	na_than
+Ya	y_a
+Julia	giu_li_a
+Ed	ét
+Turbo	tua_bô
+Massachusetts	ma_xa_chu_xét
+Happy	háp_pi
+Teaser	ti_dơ
+Ok	ô_kê
+Eur	ơ
+Ivanovic	i_va_nô_vích
+Menu	me_niu
+Khashoggi	kha_sô_ghi
+Olympia	ô_lim_pi_a
+Skripal	xờ_cờ_ri_pan
+Evans	ê_van
+Cent	xen
+Cyrus	xi_rút
+Ramsey	ram_di
+Eto	ê_tô
+Morsi	mo_xi
+Zlatan	dờ_la_tan
+Bond	bon
+Mall	mo
+Abbas	áp_bát
+Osama	ô_xa_ma
+Sukhoi	xu_khoi
+Blockchain	bờ_lốc_chên
+Amin	a_min
+Xvi	mười sáu la mã
+Lisa	li_xa
+Wigan	uy_gan
+Simeone	xi_môn_nê
+Channel	chen_nồ
+Fire	phai_ờ
+Everest	e_vơ_rét
+Isco	ít_cô
+Katie	kết_ti
+Alba	an_ba
+Jurgen	giu_gien
+Ninja	nin_gia
+Kop	cốp
+Anne	an_ni
+Yu	y_u
+Jo	giô
+Gazprom	gát_pờ_rom
+Premium	pờ_rem_mi_um
+Michigan	mi_chi_gan
+Mcdonald	mấc_đô_nan
+Pence	pen
+Navas	na_vát
+High	hai
+Audio	au_đi_ô
+Toni	tô_ni
+Ice	ai
+Osce	ô_ét_xê_e
+Earth	ớt
+Unicef	u_ni_xép
+Matt	mát
+Pennsylvania	pen_xin_va_ni_a
+Capello	ca_pen_lô
+Range	rang
+Vidal	vi_đan
+Ronaldinho	rô_nan_đi_nhô
+Arizona	a_ri_dô_na
+Start	x_tát
+Jorge	gioóc
+Independent	in_đi_pen_đừn
+Vision	vi_dừn
+Stone	x_tôn
+Usa	u_ét_a
+Ted	tét
+Vardy	vát_đi
+Suk	xúc
+Nasri	nát_ri
+Susan	xu_dừn
+Aung	ang
+Mubarak	mu_ba_rác
+Firefox	phai_phốc
+Gmail	gờ_mêu
+Harper	háp_pơ
+Iss	ít
+Matthew	mát_thiu
+Qaeda	kê_đa
+Ahmad	a_mát
+Electronics	ê_lếch_trô_ních
+Sanders	xan_đơ
+Sean	son
+Shiite	si_tê
+Sporting	x_pót_tinh
+Oecd	ô_e_xê_đe
+Dioxin	đi_ô_xin
+Shi	si_tê
+Mesut	mê_xút
+Oezil	ô_din
+Mistral	mít_tran
+Baht	bát
+Kiatisak	ki_a_ti_xác
+Toilet	toi_lét
+Evra	ê_vờ_ra
+Hack	hách
+Oxford	óc_phót
+Settings	xét_tinh
+Latakia	la_ta_ki_a
+Bournemouth	bua_ne_mốt
+I-Ran	i_ran
+Gara	ga_ra
+Melania	mê_la_ni_a
+Mahmoud	ma_mút
+Blatter	bờ_lát_tơ
+Matteo	mát_teo
+Estrogen	ơ_x_trô_gien
+Les	lét
+Lincoln	lin_côn
+Exo	ếch_ô
+Sturridge	x_tu_rít
+Fabio	pha_bi_ô
+Ict	i_xê_tê
+Buffett	búp_phét
+Owen	ô_oen
+Mandela	man_đê_la
+Kristen	cờ_rít_từn
+Amy	a_mi
+Comment	com_men
+Hills	hiu
+Matic	ma_tích
+Jersey	giơ_xi
+Adiz	a_đít
+Ree	ri
+Free	phờ_ri
+Lindsay	lin_xây
+Iron	ai_ron
+Siberia	xi_bê_ri_a
+Code	cốt
+Focus	phô_cớt
+Petr	pét_rờ
+Wan	oan
+Abdul	áp_đun
+Scholes	x_chôn
+Campbell	cam_beo
+Larry	la_ri
+Jenner	gien_nơ
+Ethanol	ê_tha_nôn
+Philippe	phi_líp_pê
+Lienvietpostbank	liên_việt_pốt_banh
+Nelson	nen_xơn
+Maps	máp
+Liberty	li_bơ_ti
+Columbia	cô_lum_bi_a
+Boris	bô_rít
+Microsd	mi_cờ_rót
+Master	mát_tơ
+Janeiro	gia_nê_rô
+Vama	va_ma
+Norwich	no_uých
+Patriot	pa_tri_ót
+Insulin	in_xu_lin
+Force	phót
+Gel	gieo
+Skype	x_cai_pi
+Credit	cờ_re_đít
+Sneijder	x_nây_dơ
+Al-Sham	an_sam
+Borussia	bô_rút_xi_a
+Oil	oi
+Avengers	ơ_ven_giơ
+Coca	cô_ca
+Lewis	le_uýt
+Didier	đi_đi_ê
+Stewart	x_tiu_uốt
+Busan	bu_xan
+Hagel	ha_ghen
+Digital	đi_gi_tồ
+Moore	mo
+Travel	tre_vồ
+Manhattan	man_hát_tan
+Cesc	xéc
+Rouhani	rô_ha_ni
+Vogue	vốc
+Jimmy	gim_mi
+Eib	ếp
+Ross	rót
+Furious	phu_ri_ớt
+This	dít
+Deportivo	đê_poóc_ti_vô
+Hwang	hoang
+Inox	i_nốc
+Ranieri	ra_ni_e_ri
+Mkhitaryan	mờ_khi_ta_ri_an
+Network	nét_uốc
+Lane	lên
+Mclaren	mắc_la_ren
+Miguel	mi_ghên
+Savills	xa_viu
+Joachim	gioa_chim
+Cooper	cúp_pơ
+Security	xê_cu_ri_ti
+Lily	li_li
+Ilo	i_lô
+Comey	cô_mi
+Page	pết
+Titanic	ti_ta_ních
+Chicharito	chi_cha_ri_tô
+Feet	phít
+Ruby	ru_bi
+Mode	mốt
+Recep	re_xép
+Vincent	vin_xen
+Neil	nêu
+Yuri	y_u_ri
+Beyonce	bi_y_on_xe
+Billboard	biu_bót
+Marcus	ma_cớt
+Craig	cờ_rếc
+Testosterone	tét_tốt_tê_rôn
+Congo	công_gô
+Kaspersky	cát_pơ_x_ki
+Bugatti	bu_ga_ti
+Depay	đi_pây
+Leon	lê_ông
+Mers	mơ
+Aaron	a_ron
+Whitney	uýt_ni
+Foundation	phao_đây_sừn
+Little	lít_tồ
+Douglas	đớc_gờ_lát
+Wti	vê_kép_tê_i
+Kyi	ki
+Aventador	a_ven_ta_đo
+Expo	ếch_pô
+E-Mail	i_mêu
+Bruce	bờ_rút
+Zoom	dum
+Reagan	re_gan
+Comex	cô_mếch
+Cbre	xê_bê_rờ_e
+Kerr	cơ
+Market	mác_két
+Sociedad	xô_xi_đát
+Soobin	xu_bin
+Marcos	ma_cót
+Cahill	ca_hiu
+Eps	ép
+Gear	ghia
+Vientiane	viên_chăn
+Julian	giu_li_an
+Sofa	xô_pha
+Ces	xét
+Karim	ca_rim
+Bae	bê
+Ian	i_an
+Saigontourist	sài_gòn_tua_rít
+Management	ma_nết_mừn
+Wilshere	uy_sia
+Dior	đi_o
+Socola	xô_cô_la
+Goldman	gâu_man
+Ita	i_ta
+Vissan	vít_xan
+Salon	xa_lông
+Bird	bớt
+Renault	ri_nau
+Number	năm_bơ
+Willian	uy_li_an
+Becks	bếch
+Parker	pắc_cơ
+Wonder	uôn_đơ
+Yangon	y_an_gon
+Gonzalo	gôn_da_lô
+Ivanka	i_van_ca
+Adele	a_đeo
+Sheikh	sếch
+Blackburn	bờ_lách_bơn
+Control	căn_trôn
+Haram	ha_ram
+Car	ca
+Harvey	hác_vi
+Glass	gờ_lát
+Ip	íp
+Rodgers	rót_gơ
+Research	ri_xớt
+Mascherano	mát_chê_ra_nô
+Share	se
+Suu	su
+Catherine	ca_thơ_rin
+Garros	ga_rốt
+Pirlo	piếc_lô
+Road	rốt
+Key	ki
+Dzeko	dê_cô
+Brooklyn	bờ_rúc_lin
+Natri	na_tri
+River	ri_vơ
+Pierre	pi_e
+Assange	át_xan
+Denim	đê_nim
+Spears	x_pia
+Loew	lâu
+Sing	xinh
+Jet	giét
+Bosnia	bốt_ni_a
+Sara	xa_ra
+Gangwon	gang_uôn
+Wu	u
+Graham	gờ_ra_ham
+Fair	phe
+Review	ri_viu
+System	xít_từm
+Wushu	ủ_su
+Guillaume	ghi_ôm
+Boko	bô_cô
+Pak	pác
+Goal	gôn
+Gerard	giê_ra
+Aegis	ây_gít
+Great	gờ_rết
+Server	xơ_vơ
+Grande	gờ_ran_đê
+Wembley	oem_bờ_li
+Elle	eo
+Name	nêm
+Erik	ê_rích
+Technology	tếch_nô_lô_gi
+Playboy	pờ_lây_boi
+Valdes	van_đét
+Ultra	un_tra
+Boxing	bốc_xinh
+Emily	ê_mi_li
+British	bờ_ri_tít
+Riedl	ri_đồ
+Haiyan	hai_y_an
+Horea	hô_rê_a
+Band	ban
+Sinai	xi_nai
+Christine	cờ_rít_tin
+Sachs	xách
+Warner	oan_nơ
+Jaguar	gia_gua
+Asem	a_xem
+Holmes	hôm
+Vidic	vi_đích
+Ibrahim	i_bờ_ra_him
+Mugabe	mu_ghếp
+Blind	bờ_lai
+Toshiya	tô_si_y_a
+Crossover	cờ_rót_âu_vờ
+Good	gút
+Laura	lau_ra
+Seabank	xi_banh
+Viettimes	việt_tham
+Chuck	chắc
+Kompany	com_pa_ni
+Hatchback	hát_bách
+Ciem	xi_em
+Gap	gáp
+Itunes	ai_tun
+Moody	mút_đi
+Dani	đa_ni
+Wei	uây
+Celta	xen_ta
+Vicem	vi_xem
+Alvaro	an_va_rô
+Tango	tăng_gô
+Net	nét
+Watson	oát_xơn
+Amd	a_mờ_đê
+Rossi	rót_xi
+Jan	gian
+Eco	ê_cô
+Hello	hê_lô
+Box	bóc
+Bigc	bích_xi
+U-Crai-Na	u_cờ_rai_na
+Rojo	rô_giô
+Fao	phao
+Hebdo	hép_đô
+Fe	phe
+Trudeau	tru_đô
+Corporation	coóc_pô_rây_sừn
+Sushi	xu_si
+Sierra	xi_ê_ra
+Lead	lít
+Methanol	mê_tha_nôn
+Explorer	ếch_pờ_lo_rơ
+Mic	mích
+Hiddink	hít_đinh
+Cam/Dioxin	cam/đi_ô_xin
+Straits	x_trết
+Hapro	ha_pờ_rô
+Helen	hê_len
+Kendall	ken_đồ
+Wawrinka	oa_uơ_rin_ca
+Luka	lu_ca
+Prime	pờ_rai
+Line	lai
+Oliver	o_li_vơ
+Deschamps	đét_cham
+Download	đao_loát
+Mayweather	mây_oe_thơ
+Down	đao
+Elite	ê_lít
+Bosque	bốt_que
+That	dát
+Antoine	ăng_toan
+Marilyn	ma_ri_lin
+Amoled	a_mô_lét
+Corolla	cô_rôn_la
+Cu-Ba	cu_ba
+Siri	xi_ri
+Heat	hít
+Facebooker	phây_búc_cơ
+Sanna	xan_na
+Hugh	hiu
+Luang	loang
+Nino	ni_nô
+Vigo	vi_gô
+Suzy	xu_di
+Rocker	rốc_cơ
+Item	i_tem
+Busquets	bút_quét
+Gangnam	gang_nam
+Denis	đe_nít
+Athletic	át_le_tích
+Avatar	a_va_ta
+Rico	ri_cô
+Ogc	o_gờ_xê
+Boys	boi
+Alzheimer	an_dây_mơ
+Khedira	khê_đi_ra
+Quinvaxem	quin_va_xem
+Cska	xê_ét_ca_a
+Ye	y_e
+Shopping	sóp_pinh
+Hiroshima	hi_rô_si_ma
+Award	a_uốt
+Sebastian	xê_bát_ti_an
+Flores	phờ_lo_rét
+Mou	mâu
+Kan	can
+Adrian	a_đờ_ri_an
+Kyung	kuynh
+Margin	ma_ghin
+Compact	com_pắc
+Hamilton	ha_min_tơn
+Abhisit	áp_hi_xít
+Vinacapital	vi_na_cáp_pi_tồ
+Copy	cóp_pi
+Flynn	phờ_lin
+Samba	xam_ba
+Future	phiu_trờ
+Gil	ghin
+Demi	đê_mi
+Now	nao
+Puerto	puê_tô
+Berbatov	béc_ba_tốp
+Design	đi_dai
+Olivier	ô_li_vi_ê
+Gout	gút
+Josh	giót
+Vnen	vê_nờ_e_nờ
+Armata	ác_ma_ta
+Panda	pan_đa
+Inc	i_nờ_xê
+Spurs	x_pơ
+Interfax	in_tơ_phách
+Yi	i_i
+Allegri	a_lê_gờ_ri
+Bradley	bờ_rát_li
+Dark	đác
+Seal	xiu
+Sunny	xăn_ni
+Offline	ọp_lai
+Shah	sa
+Galatasaray	ga_la_ta_xa_rây
+Sab	xáp
+Vovinam	vo_vi_nam
+Asen	a_xen
+Grace	gờ_rây
+Marca	ma_xa
+Jeremy	gie_re_mi
+Duma	đu_ma
+Boateng	boa_teng
+Bolt	bôn
+Marine	ma_rin
+State	x_tết
+Rubella	ru_bê_la
+Tag	tác
+Rousseff	rút_xép
+Health	heo
+Pablo	pa_bờ_lô
+Wars	oa
+Tone	tông
+Alice	a_lít
+Display	đít_pờ_lây
+Iker	i_cơ
+Shakhtar	sác_ta
+English	inh_lích
+Hud	hút
+Pradesh	pờ_ra_đéc
+Kenny	ken_ni
+Rating	rết_tinh
+Zinedine	din_nơ_đin
+Razak	ra_dác
+Megan	mê_gan
+Hae	hê
+Mil	miu
+Woman	ua_mừn
+Elon	ê_lon
+Lingard	linh_gát
+Cape	kếp
+Havana	ha_va_na
+Caribe	ca_ri_bê
+Bobby	bốp_bi
+Afrin	a_phờ_rin
+Marawi	ma_ra_uy
+Buffet	búp_phét
+Winner	uyn_nơ
+Mito	mi_tô
+Jon	giôn
+Cherry	che_ri
+Brics	bờ_rích
+Tweet	tờ_uýt
+Wong	oong
+Aires	ai_rét
+Bad	bát
+Rice	rai
+Stanley	x_tan_li
+Dustin	đút_x_tin
+Hotboy	hót_boi
+Cheryl	che_rin
+Rob	róp
+Shayk	say
+Claudio	cờ_lau_đi_ô
+Vpop	vi_pốp
+Timothy	ti_mô_thi
+Kante	can_tê
+Interest	in_te_rét
+Marina	ma_ri_na
+Monroe	mon_rô
+Buenos	buê_nốt
+Vinson	vin_xơn
+Captain	cáp_từn
+Bitexco	bi_tếch_cô
+Milk	miu
+Haley	ha_li
+Riverside	ri_vơ_xai
+Cindy	xin_đi
+Electric	ê_lếch_trích
+Bonsai	bon_xai
+Lake	lếch
+Danang	đà_nẵng
+Chiang	cheng
+Hall	hô
+Trust	trớt
+Lilama	li_la_ma
+Abbank	áp_banh
+Seri	xê_ri
+Depp	đép
+Space	x_pây
+Hawk	hoóc
+Psy	pờ_xai
+Bezos	bê_dốt
+Macedonia	ma_xê_đô_ni_a
+Science	xai_ừn
+Wags	oác
+Barry	ba_ri
+Shoot	sút
+Bayer	ba_y_ơ
+Trend	tren
+Geun	gun
+Caffeine	cà_phê_in
+Hop	hóp
+Clark	cờ_lác
+Cola	cô_la
+Reus	roi
+Blanc	bờ_lăng
+Khaisilk	khai_xiu
+Light	lai
+Andrei	an_đờ_rê
+Unilever	u_ni_le_vơ
+From	phờ_rom
+Yan	y_an
+Ricardo	ri_các_đô
+Sol	xon
+Aaa	a_a_a
+Papua	pa_pua
+Australian	ô_x_trây_li_an
+Carat	ca_rát
+Classic	cờ_lát_xích
+Hadid	ha_đít
+Charlotte	cha_lốt
+Narendra	na_ren_đờ_ra
+Sana	xa_na
+Gordon	go_đôn
+Drive	đờ_rai
+Brahmos	bờ_ra_mót
+Vinachem	vi_na_chem
+Falko	phan_cô
+Casa	ca_xa
+Varane	va_rên
+Talk	thoóc
+Story	x_to_ri
+Maryland	ma_ri_len
+Lohan	lô_han
+Meghan	mê_gan
+Homestay	hôm_x_tây
+Stanford	x_tan_phót
+Stoltenberg	x_tôn_ten_béc
+Party	pác_ti
+Fit	phít
+Jong-Nam	giông_nam
+Kaesong	kê_xông
+Cocaine	cô_ca_in
+Blair	bờ_le
+Off	óp
+Year	y_ia
+Judo	giu_đô
+Rachel	ra_chen
+Fred	phờ_rét
+Kylie	cai_li
+Barie	ba_ri
+Barbara	bác_ba_ra
+Kagawa	ka_ga_oa
+Hague	ha_guê
+Are	a
+Software	xóp_oe
+Fort	phót
+Not	nót
+Janet	gia_nét
+Neville	nê_vin
+Hero	he_rô
+Way	uây
+Kiwi	ki_uy
+Universal	u_ni_vơ_xồ
+Evfta	e_vê_ép_tê_a
+Deutsche	đoi_chờ
+Euphrates	êu_phờ_rết
+Bell	beo
+Illinois	in_li_noi
+Hughes	hiu
+Donga	đông_a
+Bernard	bơ_nát
+Kosovo	cô_xô_vô
+Nafta	náp_ta
+Paolo	pao_lô
+Bordeaux	boóc_đô
+Pet	pét
+Blancos	bờ_lan_cốt
+Fansipan	phan_xi_păng
+Low	lâu
+Report	ri_pót
+Foxconn	phóc_con
+Christina	cờ_rít_ti_na
+Nevada	nê_va_đa
+Oneplus	oăn_pờ_lút
+Yun	y_un
+Muammar	mu_am_ma
+Hip	híp
+Cloud	cờ_lao
+Vanessa	va_nét_xa
+Delta	đen_ta
+Complex	com_pờ_lếch
+Saleh	xa_lê
+Rakitic	ra_ki_tích
+Infinity	in_phi_ni_ti
+Dicaprio	đi_ca_pờ_ri_ô
+Huang	hoang
+Salvador	xan_va_đo
+Rat	rát
+Vicente	vi_xen_tê
+Tahrir	ta_ri
+Football	phút_bôn
+Bremen	bờ_re_men
+Sunrise	xăn_rai
+Ericsson	ê_rích_xơn
+Hydro	hi_đờ_rô
+Milner	min_nơ
+Dennis	đen_nít
+Turin	tu_rin
+Nielsen	niêu_xen
+Safari	xa_pha_ri
+Ace	ây
+Ksor	cờ_xo
+Skull	x_cun
+Word	uốt
+Enzyme	en_dim
+Xinhua	xi_nhua
+Fund	phun
+Let	lét
+Altis	an_tít
+Event	i_ven
+Henderson	hen_đơ_xơn
+Film	phim
+Check-In	chếch_in
+Thompson	thôm_xơn
+Chechnya	chéc_x_ni_a
+Vuitton	vui_tơn
+Heart	hớt
+Player	pờ_lay_ơ
+Hyo	hi_ô
+Puyol	puy_on
+Cardiff	ca_đíp
+Andres	an_đờ_rét
+Legend	le_giừn
+Linda	lin_đa
+Company	com_pa_ni
+Eiffel	ép_phen
+Vietsovpetro	việt_xô_pê_trô
+Karzai	ca_dai
+Yatsenyuk	y_át_xen_y_úc
+Beast	bít
+Nixon	ni_xon
+Turnbull	tơn_bun
+Kyle	cai
+Koh	co
+Celtic	xen_tích
+Stars	x_ta
+Sewol	xe_ôn
+Active	ách_típ
+Russell	ru_xen
+Koscielny	cốt_xiêu_ni
+Photocopy	phô_tô_cóp_pi
+Last	lát
+Pyeongchang	pi_eng_chang
+Cotton	cốt_tông
+Alfred	an_phờ_rét
+Slim	x_lim
+Liban	li_băng
+Ion	i_ông
+Jacob	gia_cốp
+Ghost	gốt
+Dollar	đô_la
+Cazorla	ca_doóc_la
+Knight	nai
+Win	uyn
+Luxury	lúc_xu_ri
+Module	mô_đun
+Lloris	lo_rít
+Pico	pi_cô
+Mikel	mi_ken
+Indian	in_đi_an
+Hummels	hum_men
+Batman	bát_man
+Itar-Tass	i_ta_tát
+Aag	a_a_gờ
+Folic	phô_lích
+What	oắt
+Futures	phiu_trờ
+Habana	ha_ba_na
+Widodo	uy_đô_đô
+Search	xớt
+Clasico	cờ_la_xi_cô
+Lybia	li_bi_a
+Ucraina	u_cờ_rai_na
+Hindu	hin_đu
+Kobe	cô_bê
+Ahmadinejad	a_mát_đin_giát
+Icloud	ai_cờ_lao
+Austin	ót_x_tin
+Kindle	kin_đồ
+Methadone	mê_tha_đôn
+Grant	gờ_ran
+Panetta	pa_nét_ta
+Roberts	rô_bớt
+Mazut	ma_dút
+Alumin	a_lu_min
+Liam	li_am
+Flappy	phờ_láp_pi
+Parkson	pác_xơn
+Florentino	phờ_lo_ren_ti_nô
+Kai	cai
+Family	pham_mi_li
+Blake	bờ_lếch
+Defense	đi_phen
+Wells	oeo
+Service	xơ_vít
+Platini	pờ_la_ti_ni
+Housing	hao_dinh
+Walter	oan_tơ
+Strauss-Kahn	x_trau_can
+Ielts	ai_eo
+Discovery	đít_co_vơ_ri
+Sirius	xi_ri_ớt
+Update	ắp_đết
+Carey	ca_rây
+Valley	va_lây
+Cadillac	ca_đi_lắc
+Sandra	xăng_đờ_ra
+Natalie	na_ta_li
+Vissai	vít_xai
+Podolski	pô_đôn_x_ki
+Gigi	gi_gi
+Maxi	mắc_xi
+Kar	ca
+Yulia	y_u_li_a
+Call	côn
+Raptor	ráp_to
+Lille	lin
+Scan	x_can
+Romeo	rô_meo
+Gonzalez	gôn_da_lét
+Jeep	gíp
+Veyron	vê_ron
+Wanbi	oan_bi
+Arthur	a_thơ
+Nina	ni_na
+Hollyhock	hô_li_hóc
+Hht_Online	hát_hát_tê_on_lai
+Pastel	pát_teo
+Rosario	rô_xa_ri_ô
+Pictures	pích_trờ
+Lahm	lam
+Andreas	an_đờ_rê_át
+Pvep	pê_vê_e_pê
+Desktop	đét_tốp
+Investment	in_vét_mừn
+Amber	am_bơ
+Villas-Boas	vi_la_bô_át
+Vista	vít_ta
+Back	bách
+Aubameyang	au_ba_mê_y_ang
+Mers-Cov	mơ_cốp
+Prix	pờ_rích
+Mendes	men_đét
+Mariah	ma_ri_a
+Energy	e_nơ_gi
+Desire	đi_dai
+Undp	u_nờ_đê_pê
+Firmino	phơ_mi_nô
+Systems	xít_x_tầm
+Sapphire	xa_phia
+Limousine	li_mô_din
+Vnaccs/Vcis	vê_nờ_a_xê_xê_ét/vê_xê_i_ét
+East	ít
+Rupee	ru_pi
+Ferrer	phơ_rơ
+Felipe	phê_líp_pê
+Al-Baghdadi	an_bác_đa_đi
+Runway	răn_uây
+Yaris	y_a_rít
+Challenge	cha_lừn
+Jeffrey	giép_phờ_ri
+Size	xai
+Abdel	áp_đeo
+Queensland	quin_x_len
+Ag	a_gờ
+Sohr	xo
+Caroline	ca_rô_lin
+Kwon	cờ_uôn
+Thor	tho
+Nancy	nan_xi
+Bauxite	bâu_xai
+Hunter	hăn_tơ
+Apache	a_pa_che
+Lotus	lô_tớt
+Mach	mách
+Wook	úc
+Herald	hê_rát
+Tiffany	ti_pha_ni
+Calderon	can_đê_ron
+Tomas	tô_mát
+Nation	na_sừn
+Baking	bếch_kinh
+Evan	ê_van
+Format	pho_mát
+Mascara	mát_ca_ra
+Angkor	ăng_co
+Xvii	mười bảy la mã
+Ramires	ra_mai
+Golan	gô_lan
+Sevastopol	xê_vát_tô_pôn
+Oliu	ô_liu
+Rogers	rô_gơ
+Blue-Chips	bờ_lu_chíp
+Julie	giu_li
+Saddam	xát_đam
+Joshua	giót_sua
+Hiphop	híp_hốp
+Romero	rô_mê_rô
+Smartwatch	x_mát_oắt
+Racing	rây_xinh
+Pato	pa_tô
+Benigno	be_ních_nô
+Vedette	vê_đét
+Mandzukic	man_du_kích
+Dhabi	đa_bi
+Lauren	lau_ren
+Caribbean	ca_ri_bin
+Alberto	an_béc_tô
+Chipset	chíp_xét
+Or	o
+Tommy	tôm_mi
+Sahara	xa_ha_ra
+Jesse	giét
+Merlo	mơ_lô
+Fashionista	phát_sừn_nít_x_ta
+Subeo	xu_beo
+Saa	ét_a_a
+Slogan	x_lô_gừn
+Lock	lốc
+Lagarde	la_gác_đơ
+Kanye	can_y_ê
+Aud	a_u_đê
+Amanda	a_man_đa
+Vtvcab	vê_tê_vê_cáp
+Alexandre	a_lếch_xan_đờ_rê
+Angelababy	ăng_giê_la_bây_bi
+Douma	đâu_ma
+Kuznetsov	cút_nét_xốp
+Viagra	vi_a_gờ_ra
+Rafa	ra_pha
+Only	ôn_li
+Dylan	đi_lan
+Thierry	thia_ri
+Elo	ê_lo
+Mane	mên
+Dual	đua
+Indochina	in_đô_chi_na
+Vol	vôn
+Southern	xao_thờn
+Odessa	ô_đét_xa
+Suthep	xu_thép
+Ecosport	e_cô_x_pót
+Missouri	mít_xâu_ri
+Berdych	béc_đích
+Phunutoday	phụ_nữ_tu_đây
+Chol	chôn
+Vietjetair	việt_giét_e
+Opcw	âu_pi_xi_đáp_bơ_iu
+Januzaj	gian_nu_dai
+Scarlett	x_ca_lét
+Whatsapp	oát_xáp
+Diaz	đi_át
+Fu	phu
+Inf	i_nờ_ép
+Indiana	in_đi_a_na
+Vladivostok	vờ_la_đi_vô_x_tốc
+Adebayor	a_đê_ba_y_o
+Steel	x_tiu
+Jens	gien
+Joel	giâu
+Yellen	y_eo_len
+Franklin	phờ_ranh_lin
+Buk	búc
+Subaru	xu_ba_ru
+Bryan	bờ_rai_ừn
+Fernandez	phéc_nan_đét
+Accord	ác_cót
+Taluy	ta_luy
+Dakota	đa_cô_ta
+Powell	pao_eo
+Ounce	ao
+Alexei	a_lếch_xê
+Handmade	han_mết
+Jonas	giô_nát
+Western	oét_tơn
+Des	đét
+Cruiser	cờ_rui_dơ
+Tech	tếch
+Pos	pốt
+Cash	cát
+Al-Islam	an_i_x_lam
+Palm	pam
+Karatedo	ca_ra_te_đô
+Mahrez	ma_rét
+Anders	an_đơ
+Betis	be_tít
+Var	va
+Vacxin	vắc_xin
+Weekly	uých_li
+Kazan	ca_dan
+Port	pót
+Dembele	đem_bê_lê
+Benghazi	beng_ha_di
+Cream	cờ_rim
+Intercontinental	in_tơ_con_ti_nen_tồ
+Vneconomy	vê_nờ_ê_cô_nô_mi
+Blazer	bờ_lây_dơ
+Dybala	đi_ba_la
+Keane	kên
+Landmark	len_mác
+Romelu	rô_mê_lu
+Chiellini	che_li_ni
+Noda	nô_đa
+Holding	hâu_đinh
+Shimbun	sim_bun
+Bild	biu
+Kushner	cút_s_nơ
+Kun	cun
+Phablet	pha_bờ_lét
+Khalid	kha_lít
+Grai	gờ_rai
+Stones	x_tôn
+Wozniacki	uốt_ni_ác_ki
+Xabi	xa_bi
+Stream	x_trim
+Water	oa_tơ
+Usaid	u_xết
+Zenit	dê_nít
+Chartered	chác_tơ
+Dave	đếp
+Dancesport	đen_x_pót
+Adriano	a_đờ_ri_a_nô
+Olivia	ô_li_vi_a
+Aiib	a_i_i_bê
+Falcon	phan_côn
+Urani	u_ra_ni
+Orange	o_rin
+Bianfishco	bi_an_phít_cô
+Leste	lét_tê
+Bros	bờ_rốt
+Azarenka	a_da_ren_ca
+Kit	kít
+Keith	kết
+Saint-Germain	xanh_giéc_manh
+Phillip	phi_líp
+Netbook	nét_búc
+Championship	chem_pừn_síp
+Bull	bun
+Host	hốt
+Jerome	giê_rôm
+Ann	an
+Nba	en_bi_ây
+Dempsey	đem_di
+Naomi	nao_mi
+Sandy	xan_đi
+Margaret	ma_ga_rét
+Moss	mốt
+Hope	hốp
+Kashmir	cát_s_mia
+Pearl	pơn
+Die	đai
+Leone	lê_ôn_nê
+Bavaria	ba_va_ri_a
+Exynos	ê_xi_nốt
+Pboc	pê_bê_o_xê
+Ifc	i_ép_xê
+Spiegel	x_pi_ghen
+Eduardo	ê_đu_a_đo
+Ariana	a_ri_a_na
+Einstein	anh_x_tanh
+Zone	dôn
+Konashenkov	cô_na_sen_cốp
+Bravo	bờ_ra_vô
+Spark	x_pác
+Academy	a_ca_đê_mi
+Vinastas	vi_na_x_tát
+Cac	xê_a_xê
+Silver	xiu_vơ
+Sandwich	xăng_uých
+Grabbike	gờ_ráp_bai
+Oleg	ô_léc
+Colin	cô_lin
+Lightning	lai_ninh
+Alli	a_li
+Zakharova	da_kha_rô_va
+Navy	na_vi
+Cara	ca_ra
+Murphy	mơ_phi
+Fiat	phi_át
+Ez-Zor	e_do
+Fiesta	phi_ét_x_ta
+Guterres	gu_te_rét
+Hoon	hun
+Robinho	rô_bi_nhô
+Pochettino	pô_chét_ti_nô
+Myung-Bak	muynh_bác
+Bean	bin
+Hormon	hóc_môn
+Webb	oép
+Tal	tan
+Malcolm	man_côm
+Hathaway	ha_tha_uây
+Vinafood	vi_na_phút
+Women	uơ_men
+Rmit	rờ_mít
+Potro	pô_trô
+Arnold	ác_nôn
+Diplomat	đi_pờ_lô_mát
+Start-Up	x_tát_ắp
+Shisha	xi_xa
+Hamid	ha_mít
+Middleton	mít_đồ_tơn
+Router	râu_tơ
+Philippine	phi_líp_pin
+Foster	phót_tơ
+Nicholas	ni_cô_lát
+England	inh_lừn
+Monde	mông_đơ
+Szczesny	xéc_dơ_ni
+Aniston	a_nít_tơn
+Rodong	rô_đông
+Sirte	xia_te
+Kaliningrad	ca_li_nin_gờ_rát
+Johan	giô_han
+Speed	x_pít
+Royce	roi
+Fat	phát
+Caosu	cao_xu
+Jared	gia_rét
+Blue-Chip	bờ_lu_chíp
+Woods	út
+Look	lúc
+Monster	mon_x_tơ
+Saostar	sao_x_ta
+Jerry	gie_ri
+Mit	mít
+Hector	hếch_tơ
+Suit	xút
+Trading	trết_đinh
+Dab	đáp
+Robinson	rô_bin_xơn
+Yoona	y_un_na
+Heidi	hây_đi
+Bluechip	bờ_lu_chíp
+Glucose	gờ_lu_cô_dơ
+Magic	ma_gích
+Sagna	xác_na
+Collins	cô_lin
+Tepco	tép_cô
+Utah	u_ta
+Hyuk	huých
+Memphis	mem_phít
+Canberra	can_bê_ra
+Salbutamol	xan_bu_ta_môn
+Jenny	gien_ni
+Finance	phi_nan
+Sumatra	xu_ma_tra
+Nishikori	ni_si_cô_ri
+Huffington	húp_phinh_tơn
+Bass	bát
+Mig	mích
+Goo	gu
+Samantha	xa_man_tha
+Voucher	vốt_chơ
+Icon	i_con
+Gulen	gu_len
+Iowa	lô_oa
+Brendan	bờ_ren_đan
+Gar	ga
+Wright	gờ_rai
+Anton	an_tơn
+Vietnamplus	việt_nam_pờ_lớt
+Byung	bi_eng
+Mars	ma
+Hokkaido	hốc_cai_đô
+Cohen	co_hen
+Analog	a_na_lốc
+Get	ghét
+Adams	a_đam
+Csis	xê_ét_i_ét
+Age	ết
+Baker	bếch_cơ
+Tulip	tuy_líp
+Fletcher	phờ_lét_chơ
+Ivy	i_vi
+Hilux	hi_lúc
+Dawn	đon
+Armstrong	am_x_troong
+Retina	re_ti_na
+Sepp	xép
+Astana	át_ta_na
+Pvtex	pê_vê_tếch
+Cheonan	cheo_nan
+Martino	mác_ti_nô
+Securities	xê_cu_ri_ti
+Juncker	giun_cơ
+Village	vi_lếch
+Ilbo	iu_bô
+Garage	ga_ra
+Soul	xơ_un
+Mansour	man_xua
+Claire	cờ_le
+Andrey	an_đờ_rây
+Nemanja	nê_man_gia
+Education	ê_đu_cây_sừn
+Glei	gờ_lây
+Clo	cờ_lo
+Carton	các_tôn
+Typhoon	tai_phun
+Tymoshenko	ti_mô_sen_cô
+Find	phai
+Bee	bi
+Head	hét
+Chosun	chô_xun
+Pmi	pê_mờ_i
+Posco	pốt_cô
+Carbohydrate	các_bon_hi_đờ_rát
+Guzman	gút_man
+Peso	pê_xô
+Hawking	ho_kinh
+Factor	phách_to
+Ahn	an
+Sale	xêu
+Philipp	phi_líp
+Union	u_ni_on
+Chrysler	cờ_rít_lơ
+Monica	mo_ni_ca
+Organic	oóc_ga_ních
+Edm	e_đê_mờ
+Trustbank	trút_banh
+Giuseppe	giu_xép_pơ
+Pad	pát
+Kalibr	ca_líp
+Bmi	bê_mờ_i
+Cnet	xê_nét
+Dean	đin
+Ruble	ru_bồ
+Geographic	giê_ô_gờ_ráp_phích
+Villas	vi_la
+Prayuth	pờ_ra_y_út
+Lucy	lu_xi
+Klose	cờ_lâu
+Alain	a_lên
+Dana	đa_na
+Roosevelt	ru_da_ven
+Silvio	xin_vi_ô
+Coco	cô_cô
+Toulouse	tâu_lao
+Tsipras	tờ_xi_pờ_rát
+Magie	ma_gi
+Fortune	pho_tun
+Rafale	ra_phêu
+Oregon	ô_rê_gon
+Mitchell	mít_chen
+Obamacare	ô_ba_ma_ke
+Hulk	húc
+Karen	ca_ren
+Fernandinho	phếch_nan_đi_nhô
+Nole	nâu
+Pepsico	pép_xi_cô
+Ailen	ai_len
+Hormuz	hoóc_mớt
+Enterprise	en_tơ_pờ_rai
+Rick	rích
+Rasmussen	rát_mút_xen
+Optimus	óp_ti_mớt
+Banbientap	ban_biên_tập
+Stade	x_tết
+Color	co_lờ
+Stefan	x_te_phan
+Sophia	xô_phi_a
+Care	ke
+Brothers	bờ_ra_dờ
+Bastian	bát_ti_an
+Sandro	xăng_đờ_rô
+Litva	lít_va
+Wood	út
+Fitch	phít
+Ellen	ê_len
+Fulbright	phun_bờ_rai
+Satra	xa_tra
+Mitt	mít
+Zhou	dâu
+Suga	xu_ga
+Anelka	a_nen_ca
+Silat	xi_lát
+Marshall	ma_san
+Make-Up	mếch_ắp
+Otto	ốt_tô
+Karl	ca
+Carroll	ca_rôn
+Emery	e_mê_ri
+Virut	vi_rút
+Southgate	xao_ghết
+Annan	an_nan
+Hudson	hút_xơn
+Otofun	ô_tô_phăn
+Vietnamobile	việt_nam_mô_bi
+Modern	mô_đen
+Stan	x_tan
+Eriksson	ê_rích_xơn
+Kumar	cu_ma
+Johansson	giô_han_xơn
+Antonov	ăng_tô_nốp
+Atlantic	át_lan_tích
+Robbie	róp_bi
+Huracan	hu_ra_can
+Marin	ma_rin
+Celine	xê_lin
+Spacex	x_pây_ích
+Muay	muây
+Darren	đa_ren
+Biker	bai_cơ
+Vermaelen	vơ_mê_len
+Eurocham	ê_rô_cham
+Storm	x_tom
+Paparazzi	pa_pa_ra_di
+Crop	cờ_róp
+Eddie	ét_đi
+Dha	đê_hát_a
+Walt	oát
+Tusk	túc
+Maroc	ma_rốc
+Services	xơ_vít
+Triumph	tri_um
+Cub	cúp
+Tina	ti_na
+Snapchat	x_náp_chát
+Totti	tốt_ti
+Jamal	gia_man
+Brasil	bờ_ra_din
+Dominic	đô_mi_ních
+Mayer	mây_ơ
+Ku	cu
+Rumani	ru_ma_ni
+Jabhat	giáp_hát
+Aig	e_ai_gi
+Minnesota	min_ne_xô_ta
+Drone	đờ_rôn
+Foods	phút
+Heather	he_dờ
+Anatoly	a_na_tô_li
+Pacquiao	pác_cao
+Ander	ăng_đơ
+Modem	mô_đem
+Movie	mu_vi
+Summer	xăm_mờ
+Citizens	xi_ti_dừn
+Soon	xun
+Vinci	vanh_xi
+Arm	am
+Bailly	bai_li
+Mathieu	ma_thiêu
+Webcam	oép_cam
+Tyler	tai_lơ
+Aden	a_đen
+Country	cao_tri
+Melissa	mê_lít_xa
+Mindanao	min_đa_nao
+Pereira	pê_rê_ra
+Nikki	ních_ki
+Couture	cao_trờ
+Ramadi	ra_ma_đi
+Joko	giô_cô
+Duke	đúc
+Woodward	út_oát
+Ming	minh
+Sophie	xô_phi
+Huyndai	huyn_đai
+Stevens	x_te_vừn
+Felix	phê_lích
+Rangers	rang_gơ
+Atlas	át_lát
+Xiao	xi_ao
+Hornet	ho_nét
+Running	răn_ninh
+Isil	i_ét_i_lờ
+Brighton	bờ_rai_tơn
+Qna	qui_nờ_a
+Bit	bít
+Malacca	ma_lác_ca
+Ar	a
+Selecao	xê_lê_cao
+Greg	gờ_rếch
+Kathmandu	cát_man_đu
+Roadster	rốt_x_tơ
+Eagle	i_gồ
+Dolce	đôn_chề
+Kathy	ca_thi
+Scolari	x_co_la_ri
+Thein	thên
+Plan	pờ_lan
+Chibi	chi_bi
+Zarif	da_ríp
+Ju	giu
+Lopetegui	lô_pê_tê_gui
+Bishop	bi_sóp
+Samir	xa_mia
+Sayyaf	xay_áp
+Special	x_pếch_sồ
+Paralympic	pa_ra_lim_pích
+Ralph	ráp
+Calvin	can_vin
+Luhansk	lu_han
+Saif	xết
+Moreno	mô_rê_nô
+Katherine	ca_thơ_rin
+Rcep	rờ_xê_e_pê
+Balo	ba_lô
+Just	giớt
+Tags	tác
+Olympiakos	ô_lim_pi_a_cốt
+Richardson	ri_chát_xơn
+Ramadan	ra_ma_đan
+Maserati	ma_xê_ra_ti
+Bonucci	bôn_núc_xi
+Merseyside	mơ_xê_xai
+Ultrabook	un_tra_búc
+Pvcombank	pê_vê_com_banh
+Social	xô_sồ
+Jcpoa	gi_xê_pê_o_a
+Oklahoma	ốc_la_hô_ma
+Ward	oát
+Dae	đê
+Ihs	i_hát_ét
+Gomes	gô_mét
+Tsonga	tờ_xon_ga
+Sharif	sa_ríp
+Consumer	con_xum_mờ
+Noxh	nóc
+Beverly	be_vơ_li
+Volley	vô_lê
+Stem	x_tem
+Ae	a_e
+Gibbs	ghíp
+Steinmeier	x_tanh_mai_ơ
+Julio	giu_li_ô
+Mahathir	ma_ha_thia
+Khamenei	kha_mê_nê
+Christie	cờ_rít_ti
+Bengal	ben_gan
+Guantanamo	goan_ta_na_mô
+Robocon	rô_bô_con
+Wisconsin	uýt_con_xin
+Ball	bôn
+Suri	xu_ri
+Kris	cờ_rít
+Dinamo	đi_na_mô
+Bhumibol	bum_mi_bôn
+Spider	x_pai_đơ
+Nail	nêu
+Mertesacker	mơ_tê_xách_cơ
+Pvfcco	pê_vê_ép_xê_xê_ô
+Hercules	héc_quin
+Msi	mờ_ét_i
+Ayun	a_y_un
+Raheem	ra_him
+Sitcom	xít_com
+Payet	pa_y_ét
+Louisiana	lu_di_a_na
+Osius	ô_xi_út
+Sprint	x_pờ_rin
+Makeup	mếch_ắp
+Kishida	ki_si_đa
+Ja	gia
+Jean-Claude	gin_cờ_lau_đe
+Side	xai
+Nikolai	ni_cô_lai
+Tie-Break	tai_bờ_rếch
+Pencak	pen_xắc
+Smile	x_mai
+Nature	nây_trờ
+Brand	bờ_ran
+Finals	phai_nồ
+Lennon	len_non
+Davies	đa_vít_x
+Msci	mờ_ét_xê_i
+Industries	in_đớt_tri
+Carvalho	các_van_hô
+Retail	ri_têu
+Planet	pờ_lan_nét
+Anandi	a_nan_đi
+Hadi	ha_đi
+Warriors	oa_ri_ơ
+Redknapp	rét_cờ_náp
+Maxim	mắc_xim
+Hyori	hi_ô_ri
+Gunners	găn_nơ
+Mustang	mút_tang
+Jen	gien
+Century	xen_trờ_ri
+Libi	li_bi
+Hmeymim	hờ_mây_mim
+Talkshow	thoóc_sâu
+Gibson	ghíp_xơn
+Monte	mông_te
+Alabama	a_la_ba_ma
+Daraa	đa_ra
+Kirby	cớc_bi
+Ioc	i_o_xê
+Ossetia	ót_xe_ti_a
+Darmian	đác_mi_an
+Rupert	ru_pớt
+Toefl	tóp_phồ
+Pavel	pa_ven
+Vbiz	vê_bít
+Gorilla	gô_ri_la
+Baggio	bác_giô
+Elvis	eo_vít
+Emmy	em_mi
+Sanaa	xa_na
+Murdoch	mu_đốc
+Shock	sốc
+County	cao_ti
+Tucson	túc_xon
+Carvajal	các_va_gian
+Natalia	na_ta_li_a
+Robusta	rô_bút_ta
+Sub	xắp
+Kid	kít
+Driver	đờ_rai_vơ
+Aleksandr	a_lếch_xan_đơ
+Hattrick	hát_trích
+Franco	phờ_răng_cô
+Mangan	man_gan
+Forest	pho_rét
+Technologies	tếch_nô_lô_gi
+Sandal	xăng_đan
+Place	pờ_lây
+Reina	rây_na
+Excel	ếch_xeo
+Jalil	gia_lin
+Yale	y_êu
+Saakashvili	xa_cát_s_vi_li
+Tito	ti_tô
+Oprah	ô_pờ_ra
+Winter	uyn_tơ
+Kidman	kít_man
+Nouvo	nô_vô
+Urban	u_ban
+Drama	đờ_ra_ma
+Vafi	va_phi
+Biogas	bi_ô_ga
+Front	phờ_răn
+Davos	đa_vốt
+Raymond	rây_mon
+Mcgregor	mớc_gờ_re_go
+Crouch	cờ_rao
+Stephanie	x_te_pha_ni
+Rita	ri_ta
+Farm	pham
+Tourist	tua_rít
+Transformers	tran_phom_mờ
+Zhao	dao
+Burke	búc
+Yok	y_óc
+Joan	hoan
+Deep	đíp
+Cacao	ca_cao
+Iris	i_rít
+Mauricio	mau_ri_xi_ô
+Chloe	cờ_lâu
+Sinmun	xin_mun
+Lipid	li_pít
+Iea	i_e_a
+Grabtaxi	gờ_ráp_tắc_xi
+Pokemon	pô_kê_mon
+Forlan	phoóc_lan
+Feng	pheng
+Hatoyama	ha_to_i_a_ma
+Upcom-Index	ắp_com_in_đếch
+Sco	ét_xê_ô
+Chernobyl	chéc_nô_bin
+Guus	gút
+Rich	rích
+Acoustic	a_câu_x_tích
+Otc	o_tê_xê
+Law	lo
+Xyri	xi_ri
+Aspirin	át_pi_rin
+Dion	đi_ông
+Rogozin	rô_gô_din
+Pattinson	pát_tin_xơn
+Boot	bút
+Abraham	a_bờ_ra_ham
+Bakr	bác
+Hwa	hoa
+Eos	e_o_ét
+Defoe	đi_phâu
+Kylian	ki_li_an
+Tasco	tát_cô
+Clooney	cờ_lun_ni
+Elantra	ê_lan_tra
+Connecticut	côn_nếch_ti_cắt
+Rolls	rôn
+Arteta	ác_tê_ta
+Lacazette	la_ca_dét
+Mariupol	ma_riu_pôn
+Arf	áp
+Jumpsuit	giăm_xút
+Markle	ma_cồ
+Basa	ba_xa
+Gepard	giê_pát
+Berry	be_ri
+Racer	rây_xơ
+Carla	ca_la
+Parkinson	pác_kin_xơn
+Anonymous	a_nô_ni_mô_ớt
+Napoleon	na_pô_lê_ông
+Rahman	ra_man
+Nagasaki	na_ga_xa_ki
+Jordi	gioóc_đi
+Cathay	ca_thay
+Hunt	hăn
+Carles	ca_lét
+Summit	xăm_mít
+Khalifa	kha_li_pha
+Sawaco	xa_oa_cô
+Aspire	át_pai
+Kungfu	cung_phu
+Gray	gờ_rây
+Atom	a_tôm
+Alicia	a_li_xi_a
+Gerald	giê_ra
+Elena	ê_lê_na
+Irma	ơ_ma
+Kara	ca_ra
+Phelps	pheo
+Vera	vê_ra
+Nova	nô_va
+Tennessee	ten_nét_xi
+Vncert	vê_nờ_xớt
+Stegen	x_te_ghen
+Mas	mát
+Valery	va_le_ri
+Poseidon	pô_xê_đông
+Sane	xên
+Sein	xên
+Mignolet	mích_nô_lét
+Fars	pha
+Stefano	x_te_pha_nô
+Portsmouth	pót_mau
+Milito	mi_li_tô
+Azpilicueta	át_pi_li_cu_e_ta
+Germain	giéc_manh
+Kalashnikov	ca_lát_ni_cốp
+Attapeu	át_ta_pêu
+Wat	oát
+Vaio	vai_ô
+Borisov	bô_ri_xốp
+Maybach	mây_bách
+Renzi	ren_di
+Leipzig	lếp_dích
+Wannacry	oan_na_cờ_rai
+Gallery	ga_le_ri
+Abrams	a_bờ_ram
+Detox	đê_tốc
+Lilly	li_li
+Grey	gờ_rây
+Match	mát
+Jacques	giác_que
+Nemtsov	nem_tờ_xốp
+Vani	va_ni
+See	xi
+Carnaval	các_na_van
+Over	âu_vờ
+Toasoan	toà_soạn
+Somali	xô_ma_li
+Exchange	ếch_chên
+Violon	vi_ô_lông
+Stop	x_tóp
+Radamel	ra_đa_men
+Save	xếp
+How	hao
+Lite	lít
+Hosni	hốt_ni
+Phonearena	phôn_a_re_na
+Kis	kít
+Poor	pua
+Cax	cắc
+Highlights	hai_lai
+Casemiro	ca_xê_mi_rô
+Vintage	vin_tết
+Spice	x_pai
+Cookie	cúc_ki
+Gabbana	ga_ba_na
+Malik	ma_lích
+Money	măn_ni
+Sense	xen
+Superman	xúp_pơ_man
+Curie	cu_ri
+Shyn	sin
+Partners	pát_nơ
+Billy	bin_li
+Song-Thaek	xong_thếch
+Dax	đác
+Cool	cun
+Residence	re_xi_đừn
+Faso	pha_xô
+Harrison	ha_ri_xơn
+Bike	bai
+Lambert	lam_bớt
+Burkina	bu_ki_na
+Corticoid	coóc_ti_coi
+Cayenne	ca_y_en
+Rebecca	rê_bếch_ca
+Wesley	oét_x_li
+Zabaleta	da_ba_le_ta
+Rubin	ru_bin
+Alam	a_lam
+Wen	oen
+Lollipop	lo_li_póp
+Bellerin	beo_lê_rin
+Stuart	x_tu_át
+Forum	pho_rum
+Lynh	linh
+Gotze	gót_de
+Pano	pa_nô
+Perisic	pe_ri_xích
+Eye	ai
+Harley-Davidson	hác_li_đa_vít_xơn
+Lucky	lắc_ki
+Vepr	vê_e_pê_rờ
+Diff	đíp
+Kansas	can_xát
+Valentino	va_len_ti_nô
+Mirage	mi_rết
+Eriksen	e_rích_xen
+Advanced	át_van
+Vitaly	vi_ta_li
+Class	cờ_lát
+Cinema	xi_nê_ma
+Polymer	pô_li_me
+Public	pắp_bờ_lích
+Sami	xa_mi
+List	lít
+Ubs	u_bê_ét
+Malware	man_oe
+Vaart	vát
+Cdu	xê_đê_u
+Fake	phếch
+Jeon	giơn
+Flagship	phờ_lác_síp
+Wechat	uy_chát
+Upton	ắp_ton
+Dominique	đô_mi_ních
+Hopkins	hóp_kin
+Reid	rết
+Morrison	mo_ri_xơn
+Salmonella	xan_mô_nen_la
+Marouane	ma_rô_an
+Wolves	uốp
+Bazaar	ba_da
+Osin	ô_xin
+Es	e_ét
+Chievo	chi_vô
+Balkan	ban_can
+Fenerbahce	phê_nê_ba_chê
+Carol	ca_rôn
+Sneaker	x_ních_cơ
+Chae	chê
+Development	đê_vê_lốp_mừn
+Redmi	rét_mi
+Anbar	an_ba
+Vallecano	van_le_ca_nô
+Nicki	ních_ki
+Invest	in_vét
+Cruyff	cờ_ruýp
+Jupiter	giu_pi_tơ
+Bloom	bờ_lum
+Ship	síp
+Bina	bi_na
+Luzon	lu_dông
+Studios	x_tu_đi_ô
+Yersin	y_éc_xanh
+Dara	đa_ra
+Lens	len
+Cosplay	cót_pờ_lây
+Usain	u_xên
+Mozilla	mô_di_la
+Spirit	x_pi_rít
+Tyson	thai_xơn
+Victory	vích_to_ri
+Mma	mờ_mờ_a
+Domino	đô_mi_nô
+Pisa	pi_xa
+Morales	mô_ra_lét
+Eas	ít
+Sur	xu
+Ecopark	ê_cô_pác
+Phillips	phi_líp
+Silk	xin
+Jyp	gi_y_pê
+Days	đây
+Philipines	phi_líp_pin
+Benedict	bê_nê_đích
+Think	thinh
+Huddersfield	hút_đơ_phiu
+Mnuchin	mờ_nu_chin
+Ama	a_ma
+Osprey	ót_pờ_rây
+Iskander	ít_can_đơ
+Uric	u_rich
+Cad	cát
+Bulava	bu_la_ca
+Schneiderlin	s_nây_đơ_lin
+Catalunya	ca_ta_lu_ni_a
+Alps	an_pơ
+Yanbi	y_an_bi
+Curcumin	cớc_cu_min
+Kenneth	ken_nét
+Jake	giếch
+Globe	gờ_lốp
+Champion	cham_piền
+Solar	xô_la
+Saab	xa_áp
+Cleverley	cờ_le_vơ_li
+Agency	a_gien_xi
+Want	oan
+Lloyd	loi
+Vnah	vê_nờ_a_hát
+Markets	ma_két
+Jetro	giê_trô
+Lavezzi	la_vê_di
+Jeong	giông
+Kerch	kếch
+Asensio	a_xen_xi_ô
+Debut	đê_bút
+Thinkpad	thinh_pát
+Amidan	a_mi_đan
+Lallana	lan_la_na
+Troll	trôn
+Skinny	x_kin_ni
+Carney	các_ni
+Mohamad	mô_ha_mát
+Azov	a_dốp
+Kitty	kít_ti
+Engineering	en_gi_nia_rinh
+Transerco	tran_xơ_cô
+Bok	bốc
+Gijon	gi_gion
+Hwan	hoan
+Coentrao	xoen_trao
+Titanium	ti_tan_ni_um
+Manager	ma_na_gơ
+Jasmine	giát_min
+Shinee	si_ni
+Orleans	oóc_lin
+Mina	mi_na
+Fatah	pha_ta
+Kolarov	cô_la_rốp
+Ab	áp
+Hannah	han_na
+Globalgap	gờ_lo_bồ_gáp
+Oxlade-Chamberlain	ốc_lết_cham_bơ_lên
+Giorgio	gioóc_giô
+Cavusoglu	ca_vu_xo_gờ_lu
+Thibaut	thi_ba_út
+Spring	x_pờ_rinh
+Europe	ơ_rốp
+Gorbachev	goóc_ba_chép
+Bukit	bu_kít
+Kyaw	ki_ao
+Tuabin	tua_bin
+Yasukuni	ya_xu_ku_ni
+Honor	ho_no
+Generation	gie_nơ_rây_sừn
+Lula	lu_la
+Spyder	x_pai_đơ
+Hampshire	ham_sai
+Scudetto	x_cu_đét_tô
+Tumblr	tum_bờ_lờ
+Centre	xen_trờ
+Dongabank	đông_á_banh
+Kuin	cu_in
+Beautiful	biu_ti_phun
+Schmidt	s_mít
+Vietbank	việt_banh
+Rosneft	rót_nép
+Doosan	đu_xan
+Dai-Ichi	đai_i_chi
+Turner	tun_nờ
+Chan-Ocha	chan_ô_cha
+Photos	phô_tô
+Case	cây
+Raonic	rao_ních
+Economist	ê_cô_nô_mít
+Panther	pan_dơ
+Fico	phi_cô
+Icao	i_cao
+Besiktas	bê_xích_tát
+Stalin	x_ta_lin
+Chamberlain	cham_bơ_lên
+Olympics	ô_lim_pích
+Sec	xéc
+Harley	hác_li
+Right	rai
+Droid	đờ_roi
+Vba	vê_bê_a
+Franc	phờ_răng
+Karate	ca_ra_te
+Tartus	tác_tút
+Gundogan	gun_đô_gan
+Mangkhut	mang_khút
+Kiatisuk	ki_a_ti_xắc
+Madison	mát_đi_xơn
+Rosa	rô_xa
+Winfrey	uyn_phờ_rê
+Prius	pờ_ri_út
+Operation	ô_pe_rây_sừn
+Marquez	ma_quét
+Shield	siu
+Transit	tran_xít
+Vejjajiva	vê_gia_gi_va
+Preah	pờ_rê_a
+Jackie	giách_ki
+Santafe	xan_ta_phê
+Nimitz	ni_mít
+Benteke	ben_tê_kê
+Rosie	rô_di
+Ter	tơ
+Valverde	van_vơ_đe
+Arjen	ác_gien
+Manbij	man_bi
+Panorama	pa_nô_ra_ma
+Rolling	rô_linh
+Ara	a_ra
+Mogherini	mô_ghê_ri_ni
+Ottawa	ốt_ta_oa
+Taro	ta_rô
+Halep	ha_lép
+Mri	mờ_rờ_i
+Rostov	rốt_tốp
+Gallardo	ga_la_đô
+Kiss	kít
+Zuma	du_ma
+Dilma	đin_ma
+Newton	niu_tơn
+Daley	đa_li
+Panamera	pa_na_mê_ra
+Gaulle	gau_lê
+Christmas	cờ_rít_mát
+Danilo	đa_ni_lô
+Bluechips	bờ_lu_chíp
+Prandelli	pờ_ran_đê_li
+Cruze	cờ_ru
+Kido	ki_đô
+Turan	tu_ran
+Kuo	cu_ô
+Puigdemont	púc_đê_mon
+Berkshire	bớc_sai
+Airblade	e_bờ_lết
+Mason	ma_xơn
+Qwerty	quơ_ti
+Akira	a_ki_ra
+Kwang	quang
+Clara	cờ_la_ra
+Otamendi	ô_ta_men_đi
+Fillon	phiu_lon
+Leopard	lê_ô_pác
+Pratyusha	pờ_ra_chiu_sa
+Yanukovich	y_a_nu_cô_vích
+Kienlongbank	kiên_long_banh
+Panel	pa_neo
+Rosicky	rô_xích_ki
+Vndirect	vê_nờ_đi_rếch
+Schmeichel	s_mây_xen
+Clichy	cờ_li_chi
+Timberlake	tim_bơ_lếch
+Things	thinh
+Cat	cát
+Shark	sác
+Herbalife	hơ_bồ_lai
+Kute	kiu
+Franz	phờ_răng
+Goethe	gô_thơ
+Yuan	y_uân
+Evo	e_vô
+Ringgit	rinh_ghít
+Mountain	mao_từn
+Porter	pót_tơ
+Bog	bo_gờ
+Milos	mi_lốt
+Poker	pốc_cơ
+Todd	tót
+Walid	oa_lít
+Cox	cóc
+Kelvin	ken_vin
+Foley	phô_lây
+Figaro	phi_ga_rô
+Wireless	oai_lét
+Ir	i_rờ
+Logan	lô_gan
+Dos	đót
+Moussa	mu_xa
+Franck	phờ_răng
+Kvitova	cơ_vi_tô_va
+Glenn	gờ_len
+Ismail	ít_mêu
+Vidifi	vi_đi_phi
+Konstantin	con_x_tan_tin
+Kurt	cớt
+Benz	ben
+Cilic	xi_lích
+Trade	trết
+Vsa	vê_ét_a
+Kesley	két_li
+Davutoglu	đa_vu_tô_gờ_lu
+Citigroup	xi_ti_gờ_rúp
+Afd	a_ép_đê
+Genesis	gie_ne_xích
+Upu	u_pê_u
+Eve	i_vờ
+Caro	ca_rô
+Kharkov	khác_cốp
+Bernie	bơ_ni
+Irgc	i_rờ_gờ_xê
+Kuril	cu_rin
+Justice	giớt_tích
+Ryabkov	ri_áp_cốp
+Arsen	ác_xen
+Anderlecht	an_đơ_lếch
+Alessandra	a_lét_xăng_đờ_ra
+Beatles	bít_tồ
+Lufthansa	lúp_han_xa
+Zagreb	da_gờ_rếp
+Raphael	ra_pha_en
+Thatcher	thát_chơ
+Spotlight	x_pót_lai
+Westminster	oét_min_x_tơ
+Jazeera	gia_di_ra
+Akihito	a_ki_hi_tô
+Confederations	con_phê_đơ_rây_sừn
+Rainsy	rên_xi
+Mistura	mít_tu_ra
+Ping	pinh
+Licogi	li_cô_gi
+Cross	cờ_rót
+Bendtner	bét_nơ
+Sonadezi	xô_na_đê_di
+Heritage	hê_ri_tết
+Jacket	giắc_két
+Aipa	ai_pa
+Punggye-Ri	pung_ghi_ri
+Hut	hút
+Friends	phờ_ren
+Pentaxim	pen_ta_xim
+Capitol	cáp _pi_tồn
+Pascal	pát_can
+Hemsworth	hem_x_uốt
+Wendy	oen_đi
+Symantec	xi_man_tếch
+Sonata	xô_nát
+Spicer	x_pi_xơ
+Snow	x_nâu
+Taeyeon	tê_y_on
+Access	ác_xét
+Wanda	oan_đa
+Pete	pe_te
+Beck	bếch
+Petra	pê_tra
+Slavyansk	x_la_vi_an_x_cờ
+Melamine	mê_la_min
+Books	búc
+After	áp_tơ
+Nieto	ni_e_tô
+Ortega	oóc_tê_ga
+Asset	át_xét
+Jpmorgan	gi_pê_moóc_gan
+Arturo	ác_tu_rô
+Gate	ghết
+Kentucky	ken_tắc_ki
+Capo	ca_pô
+Toner	tông_nơ
+Shakespeare	sếch_x_pia
+Patrice	pa_trích
+Lei	lê
+Amazing	a_mây_dinh
+Outlander	ao_lan_đơ
+Spider-Man	x_pai_đờ_man
+Tax	tắc
+Shot	sót
+Ozone	ô_dôn
+Said	xết
+Zac	dác
+Cocain	cô_ca_in
+Annie	an_ni
+Korean	cô_rê_an
+Heynckes	hây_nếch_cơ
+Demo	đê_mô
+Duo	đua
+Salisbury	xa_lít_bu_ri
+Mississippi	mít_xi_xi_pi
+Freedom	phờ_ri_đom
+Screen	x_cờ_rin
+Edwards	ét_oát
+Candice	can_đít
+Shan	san
+Dropbox	đờ_róp_bóc
+Arshavin	a_xa_vin
+Xhaka	xa_ca
+Kei	cây
+Alcantara	an_can_ta_ra
+Affleck	áp_lếch
+Norman	no_man
+Alejandro	a_lê_gian_đờ_rô
+Sarri	xa_ri
+Methamphetamine	me_tham_phê_ta_min
+Temer	te_mơ
+Fisher	phít_sơ
+Javad	gia_vát
+Gisele	gi_xeo
+Take	thếch
+Nacho	na_chô
+Shanghaiist	sang_hai_ít
+Joao	do_ao
+Computer	com_piu_tơ
+Sulawesi	xu_la_oe_xi
+Adriana	a_đờ_ri_a_na
+Mariano	ma_ri_a_nô
+Hilary	hi_la_ri
+Bristol	bờ_rít_tôn
+Kbang	ca_bang
+Geforce	gi_phót
+Kimono	ki_mô_nô
+Naoto	nao_tô
+Usgs	u_ét_gờ_ét
+Bambang	bam_bang
+Pmu	pê_mờ_u
+Again	ơ_ghên
+Russel	rút_xen
+Edinson	ê_đin_xơn
+Onodera	ô_nô_đê_ra
+Eurowindow	ơ_rô_uyn_đâu
+Haute	hau_te
+Joy	gioi
+Barbie	ba_bi
+Mccarthy	mắc_các_thi
+Hub	húp
+Logistic	lô_gi_x_tích
+Churkin	chớc_kin
+Alexandra	a_lếch_xan_đờ_ra
+Elsa	en_xa
+Germanwings	giơ_man_uynh
+Gandhi	gan_đi
+Sampaoli	xam_pao_li
+Rupiah	ru_pi_a
+Hutech	hu_tếch
+Dolby	đôn_bi
+Mate	mết
+Mcmaster	mắc_mát_x_tơ
+Performance	pơ_phom_man
+Al-Abadi	an_a_ba_đi
+Idecaf	i_đê_cáp
+Baldwin	ban_đờ_uyn
+Nile	nin
+Lukas	lu_ca_x
+Magazine	ma_ga_din
+Sudico	xu_đi_cô
+Quebec	kê_bếch
+Combo	côm_bô
+Burger	bơ_gơ
+Richards	ri_chác
+Mel	meo
+Kaity	kết_ti
+Sop	xóp
+Ospina	ốt_pi_na
+Huoai	hu_oai
+Candy	can_đi
+Folate	phô_lết
+Dele	đê_lê
+Hans	han
+Claude	cờ_lau_đơ
+Ivs	i_vê_ét
+Caucasus	cau_ca_xút
+Junsu	giun_xu
+Bored	bo_rét
+Momo	mô_mô
+Hanel	ha_nen
+Foreign	pho_rên
+Henri	hen_ri
+Shibuya	si_bu_y_a
+Minaj	mi_na_x
+Olga	ôn_ga
+Quick	quích
+Fob	phóp
+Upi	u_pê_i
+Fury	phu_ri
+Mission	mít_xừn
+Yudhoyono	i_út_ho_i_ô_nô
+Penthouse	pen_hau
+Rahul	ra_hun
+Pajero	pa_giê_rô
+Polo	pô_lô
+Randy	ran_đi
+Oxfam	ốc_pham
+Cuadrado	cua_đờ_ra_đô
+Rajoy	ra_gioi
+Gianluigi	gi_an_lui_gi
+Soon-Sil	xun_xiu
+Tree	tri
+Changi	chan_gi
+Predator	pờ_re_đa_tơ
+Cristina	cờ_rít_ti_na
+Shia	sia
+Arbeloa	a_bê_loa
+Reed	rít
+Vicky	vích_ki
+Rohingya	rô_hin_gia
+Hammond	ham_mon
+Jpa	gi_pê_a
+Ifa	i_ép_a
+Lost	lót
+Et	ét
+Ema	e_ma
+Building	biu_đinh
+Defence	đi_phen
+Mona	mô_na
+Sumitomo	xu_mi_tô_mô
+Piero	pia_rô
+Feed	phít
+Sharon	sa_ron
+Rush	rút
+Aerobic	e_rô_bích
+Thayer	thay_ơ
+Bright	bờ_rai
+Daimler	đa_im_lơ
+Mohd	mốt_đừ
+Lada	la_đa
+Zin	din
+Wolf	uốp
+Icardi	i_các_đi
+Tomboy	tôm_boi
+Exxon	ếch_xơn
+Lou	lâu
+Marion	ma_ri_on
+E-Class	e_cờ_lát
+Fantasy	phan_ta_xi
+Milano	mi_la_nô
+Enzym	en_dim
+Panmunjom	pan_mun_giôm
+Cave	ca_ve
+Sofitel	xô_phi_ten
+Diane	đi_an
+Weinstein	uên_x_tên
+Samco	xam_cô
+Form	phom
+Forever	pho_re_vờ
+Al-Masdar	an_mát_đa
+Bra	bờ_ra
+Attila	át_ti_la
+Fumio	phu_mi_ô
+Fields	phiu
+Lorenzo	lô_ren_dô
+Radwanska	rát_oan_x_ca
+Boldsky	bôn_x_ki
+Sabah	xa_ba
+Rudd	rút
+Vinaca	vi_na_ca
+Dome	đôm
+Spectre	x_pếch_tre
+Dello	đê_lô
+Sars	xa
+Jyj	gi_i_gi
+Nitrat	ni_trát
+Cortisol	coóc_ti_xôn
+Barclays	bác_cờ_lây
+Jpy	gi_pê_i
+Paracetamol	pa_ra_xê_ta_môn
+Norodom	nô_rô_đom
+Francesco	phờ_răng_xét_cô
+Granit	gờ_ra_nít
+Maute	mau_te
+Hashtag	hát_tác
+Mister	mít_tơ
+Hyuna	huyn_a
+Arabica	a_ra_bi_ca
+Kayak	cay_ắc
+Chapman	cháp_man
+Ontario	on_ta_ri_ô
+Policy	pô_li_xi
+Kwakwa	qua_qua
+Cassano	cát_xa_nô
+Patricia	pa_tri_xi_a
+Botox	bô_tốc
+Banks	banh
+Maxwell	mắc_eo
+End	en
+Cites	xai
+Children	chiu_đờ_rừn
+Neon	nê_ông
+Clarke	cờ_lác
+Institute	in_x_ti_tiu
+Newsweek	niu_x_uých
+Password	pát_uốt
+Fly	phờ_lai
+Artist	át_tít
+Fusion	phu_dừn
+Sessions	xét_xừn
+Henrique	hen_rích_kê
+Vietbuild	việt_biu
+Here	hia
+Yo	y_ô
+Uttar	út_ta
+Never	ne_vơ
+Accent	ác_xen
+Transformer	tran_phom_mơ
+Sbic	ét_bê_i_xê
+Yoshihide	yô_si_hi_đê
+Remy	rê_mi
+About	ơ_bao
+Meizu	mê_du
+Mundo	mun_đô
+Thani	tha_ni
+Centimet	xăng_ti_mét
+Paulinho	pau_li_nhô
+Pax	pác
+Picasso	pi_cát_xô
+Underground	ân_đờ_gờ_rao
+Para	pa_ra
+Marcel	mác_xeo
+Phenol	phê_nôn
+Flickr	phờ_lích_cơ
+Thrones	thờ_rôn
+Atkinson	át_kin_xơn
+Vasco	vát_cô
+Frieslandcampina	phờ_ri_ét_x_lan_cam_pi_na
+Juergen	duê_ghen
+Louise	lu_i
+Chromebook	cờ_rôm_búc
+Carrie	ca_ri
+Heung-Min	hâng_min
+Brennan	bờ_ren_nan
+Lynch	linh
+Mustafa	mút_ta_pha
+Dick	đích
+Saxophone	xắc_xô_phôn
+Jelly	gieo_li
+Goodison	gút_đi_xơn
+Suisse	xui_xê
+Bernanke	bơ_nan_kê
+Depot	đê_pót
+Queens	quin
+Zheng	deng
+Medical	mê_đi_cồ
+Earnest	ơn_nét
+Noah	nô_a
+Obi	ô_bi
+Map	máp
+Sat	xát
+Paula	pau_la
+Direction	đi_rếch_sừn
+Bath	bát
+Oxi	ô_xi
+Prayut	pờ_ra_y_út
+Motion	mô_sừn
+Rubio	ru_bi_ô
+Twilight	thoai_lai
+Engine	en_gin
+Montana	môn_ta_na
+Abkhazia	áp_kha_di_a
+Diezel	đi_ê_den
+Bertrand	bơ_tran
+Lubitz	lu_bít
+Bebe	bê_bê
+Zhu	du
+Coleman	cô_le_man
+Bullock	bun_lốc
+Adnan	át_nan
+Rovers	rô_vơ
+Off-Road	óp_rốt
+Essien	ét_xiên
+Adreno	a_đờ_rê_nô
+Kommersant	com_mơ_xan
+Ixraen	ít_xờ_ra_en
+Surabaya	xu_ra_ba_y_a
+Swee	xuy
+Broadway	bờ_rốt_uây
+Tamiflu	ta_mi_phờ_lu
+Coast	cốt_x_tờ
+Banner	ban_nơ
+Noble	no_bồ
+Met	mét
+Fish	phít
+Ting	tinh
+Geleximco	giê_lê_xim_cô
+Vilanova	vi_la_nô_va
+Bolivar	bô_li_va
+Natasha	na_ta_sa
+Carnegie	các_ne_ghi
+Branson	bờ_ran_xơn
+Keita	kê_ta
+Vaccin	vác_xin
+Pharaoh	pha_ra_ô
+Eia	e_i_a
+Navara	na_va_ra
+Roll	rôn
+Suez	xu_ét
+Plutonium	pờ_lu_tô_ni_um
+Reynolds	rây_nôn
+Siem	xiêm
+Keylor	cây_lơ
+Dutch	đắt
+Ricky	rích_ki
+Boyle	boi
+Add	át
+Haider	hai_đơ
+Floyd	phờ_loi
+Monreal	mon_rê_an
+Penny	pen_ni
+Sonar	xô_na
+Rowing	râu_inh
+Lindelof	lin_đê_lốp
+Action	ác_sừn
+Carry	ca_ri
+Kasim	ca_xim
+Doctor	đốc_tơ
+Truman	tru_man
+Gartner	gát_nơ
+Skrtel	x_cơ_ten
+Sullivan	xu_li_van
+Date	đết
+Morris	mo_rít
+Dimitrov	đi_mi_trốp
+Bsa	bê_ét_a
+Davao	đa_vao
+Field	phiu
+Knock	cờ_nốc
+Andrews	an_đờ_riu
+Riyad	ri_y_át
+Llorente	lo_ren_tê
+Carnival	các_ni_van
+Edinburgh	ê_đin_bớc
+Azzurri	a_du_ri
+Glee	gờ_li
+Leandro	lê_an_đờ_rô
+Odyssey	ô_đi_xê
+Nistelrooy	nít_tơ_roi
+Elton	en_tơn
+Lithium-Ion	li_thi_um_i_ông
+Blood	bờ_lót
+Saga	xa_ga
+Rossoneri	rốt_xô_nê_ri
+Vga	vê_ga
+Raytheon	rây_thê_ông
+Viking	vi_kinh
+Metropole	mê_trô_pôn
+Ambrosio	am_bờ_rô_xi_ô
+Lovren	lo_vờ_ren
+Filler	phin_lơ
+Hat	hát
+Sultan	xun_tan
+Ernesto	e_nét_x_tô
+Halle	han_lơ
+Sicily	xi_xi_li
+Rey	rây
+Missosology	mít_xô_xo_lô_gi
+Tank	tanh
+Economics	e_cô_nô_mích
+Idico	i_đi_cô
+Travis	tra_vít
+Sticker	xít_tích_cơ
+Fallujah	phan_lu_gia
+Renato	rê_na_tô
+Vitinfo	vi_tin_phô
+When	oen
+Danielle	đan_ni_en
+Jackman	giắc_man
+Maicon	mai_cơn
+Boo	bu
+Matuidi	ma_tui_đi
+Sorento	xô_ren_tô
+Claudia	cờ_lau_đi_a
+Rand	ran
+Darwin	đác_uyn
+Vujicic	vu_di_xích
+Thunder	thăn_đờ
+Imac	ai_mác
+Dynamic	đi_na_mích
+Townsend	thao_xen
+Verge	vơ_de
+Werder	uơ_đơ
+Kung	cung
+Domesco	đô_mét_cô
+Abbey	áp_bây
+Dead	đét
+Gustavo	gút_ta_vô
+Human	hu_man
+Rami	ra_mi
+Crazy	cờ_rây_di
+Hotspur	hót_x_pu
+Yoochun	y_u_chun
+Pvoil	pê_vê_oi
+Leroy	lê_roi
+Chul	chun
+Kobani	cô_ba_ni
+Community	com_mu_ni_ti
+Simone	xi_mô_nê
+Motta	mốt_ta
+Godin	gô_đin
+Cincinnati	xin_xin_na_ti
+Kerber	cơ_bơ
+Enzo	en_dô
+Brembo	bờ_rem_bô
+Walk	oác
+Ballack	ban_lách
+Have	háp
+Edin	ê_đin
+Mats	mát
+Cerato	xê_ra_tô
+Philippin	phi_líp_pin
+Topcare	tóp_ke
+Gadhafi	ga_đa_phi
+Downing	đao_ninh
+Montpellier	mông_pe_li_ê
+Stella	x_teo_la
+Sarin	xa_rin
+Dohc	đê_ô_hát_xê
+Sheffield	sép_phiêu
+Bleus	bờ_lu
+Stock	x_tốc
+Nigel	ni_gheo
+Normandy	noóc_man_đi
+Guiness	ghi_nét
+Gregory	gờ_rê_go_ri
+Hoo	hu
+Breivik	bờ_rây_vích
+Sound	xao
+Keys	ki
+Taw	tao
+Mbke	mờ_bê_ca_e
+Serotonin	xê_rô_tô_nin
+Grad	gờ_rát
+Cortana	cô_ta_na
+Wild	oai_đờ
+Gpbank	gờ_pê_banh
+Churchill	chớc_xin
+Anten	ăng_ten
+Shaqiri	sa_ki_ri
+Myung	mi_ung
+Wings	uynh
+Monsanto	môn_xan_tô
+Yukio	y_u_ki_ô
+Dig	đi_gờ
+Cacbon	các_bon
+Correa	cô_rê_a
+Ramon	ra_mon
+Jaysh	giây
+Guo	gu_ô
+Apps	áp
+Umtiti	um_ti_ti
+Army	am_mi
+Draxler	đờ_rác_lơ
+Liang	li_ang
+Flycam	phờ_lai_cam
+Tanaka	ta_na_ca
+Avenue	a_vê_nu_ê
+Manor	ma_nơ
+Britain	bờ_rít_từn
+Cna	xê_nờ_a
+Verratti	vê_rát_ti
+Ling	linh
+Vanga	van_ga
+Lycopene	li_cô_pen
+Connect	con_nếch
+Touchpad	thắt_pát
+Loki	lô_ki
+Evening	i_vơ_ninh
+Final	phai_nồ
+Kip	kíp
+Bennett	ben_nét
+Liz	lít
+Image	i_mết
+Adulyadej	a_đu_li_a_đây
+Tacloban	tác_lô_ban
+Ecoboost	ê_cô_bút
+Change	chên
+Velvet	veo_vét
+Gael	ga_en
+Midi	mi_đi
+Amp	am
+Mcqueen	mấc_quin
+Juliet	giu_li_ét
+Nagoya	na_gô_y_a
+Ethereum	e_thê_rê_um
+Sodium	xô_đi_um
+Klein	cờ_lên
+Jacobs	gia_cốp
+Macao	ma_cao
+Tip	típ
+Private	pờ_rai_vết
+Lord	lót
+Metal	mê_tan
+Holland	hô_lan
+Dock	đốc
+Triton	tri_ton
+Tinna	tin_na
+Melinda	mê_lin_đa
+Notebook	nốt_búc
+Machine	ma_sin
+Pol	pôn
+Mad	mát
+Heywood	hây_út
+Pinto	pin_tô
+Palmas	pan_mát
+Hepza	hép_da
+Pjico	pi_cô
+Negredo	nê_gờ_rê_đô
+Unai	u_nai
+Pagani	pa_ga_ni
+Coleen	cô_lin
+Suite	xui
+Pyi	pi
+Andersen	an_đéc_xen
+Tuk	túc
+Rayo	ra_y_ô
+Acbs	a_xê_bê_ét
+Rada	ra_đa
+Janice	gia_nít
+Twin	tờ_uyn
+Takashi	ta_ca_si
+Fabius	pha_bi_ớt
+Mickey	mích_ki
+Ivanov	i_va_nốp
+Hyung	hung
+Aziz	a_dít
+Meryl	me_rin
+Condotel	con_đô_teo
+Spam	x_pam
+Nara	na_ra
+Remote	ri_mốt
+Dodge	đốt
+Bear	be
+Youth	y_út
+Vinashinlines	vi_na_sin_lai
+Braxin	bờ_ra_xin
+Antony	an_tô_ni
+Highlight	hai_lai
+Troy	troi
+Hertha	hơ_tha
+Pew	piu
+Ash	át
+Luca	lu_ca
+Winston	uyn_x_tơn
+Zoe	dâu
+Dijk	đích
+Hailey	hai_lây
+Yazidi	i_a_di_đi
+Belgrade	beo_gờ_rết
+Johns	giôn
+Klaus	cờ_lao
+Mccartney	mấc_cát_nây
+Yoshihiko	i_ô_si_hi_cô
+Raiola	rai_ô_la
+Nottingham	nót_tinh_ham
+Valls	vôn
+Buckingham	bấc_kinh_ham
+Airline	e_lai
+Sopcast	xóp_cát
+Work	uốc
+Eindhoven	ên_hô_ven
+Samdech	xam_đếch
+Ernst	en
+Cell	xeo
+Curtis	cơ_tít
+Fonseca	phon_xê_ca
+Scrambler	x_cờ_ram_bờ_lơ
+Browser	bờ_rao_dơ
+Cnooc	xê_noóc
+Kofi	cô_phi
+Hard	hát
+Alaba	a_la_ba
+Theodore	thê_ô_đo
+Hiroshi	hi_rô_shi
+Khaled	kha_lét
+Al-Bab	an_báp
+Monitor	mô_ni_tơ
+Perfect	pơ_phếch
+Step	x_tép
+Dreamliner	đờ_rim_lai_nơ
+Koke	cô_kê
+Vazquez	vát_két
+Maidan	mai_đan
+Palu	pa_lu
+Quad	quát
+Pressing	pờ_rét_xinh
+Flashmob	phờ_lát_mốp
+Manning	man_ninh
+Izumo	i_du_mô
+Vote	vốt
+Streep	x_tríp
+Jovetic	giô_ve_tích
+Dangda	đang_đa
+Irene	i_rên
+Mercedes-Amg	méc_xe_đéc_a_mờ_gờ
+Alexandria	a_lếch_xăng_đờ_ri_a
+Economic	ê_cô_nô_mích
+Geisha	gây_sa
+Taiwan	tai_oan
+Olimpico	ô_lim_pi_cô
+Nauy	na_uy
+Symbian	xim_bi_an
+Federica	phê_đê_ri_ca
+Eastern	ít_tơn
+Ring	rinh
+Cris	cờ_rít
+Hunger	hăng_gơ
+Piston	pít_tông
+Audrey	au_đờ_rây
+Duncan	đun_can
+Vihear	vi_hia
+Signal	xi_nhan
+Davidson	đa_vít_xơn
+Thunderbolt	thăn_đơ_bót
+Yomiuri	i_ô_miu_ri
+Mevlut	me_vờ_lút
+Nicola	ni_cô_la
+Learning	lơn_ninh
+Mara	ma_ra
+Natuna	na_tu_na
+Wal-Mart	oan_mát
+Bannon	ban_non
+Lovato	lô_va_tô
+Deadpool	đét_pun
+Tembin	tem_bin
+Corinthians	co_rin_thi_an
+Portman	pót_man
+Ahmet	a_mét
+Viva	vi_va
+Fitness	phít_nét
+Petrobras	pê_trô_bờ_rát
+Spartak	x_pa_tác
+Donna	đôn_na
+Siam	xi_am
+Vichai	vi_chai
+Nusra	nu_x_ra
+Sasha	xa_sa
+Shinji	sin_gi
+Intelligence	in_teo_li_giừn
+Vinasa	vi_na_xa
+Facetime	phây_tham
+Scud	x_cút
+Wear	oe
+Alvarez	an_va_rét
+Brooks	bờ_rúc
+Glazer	gờ_la_dơ
+Siena	xi_en_na
+Born	bon
+Theron	the_ron
+Vega	vê_ga
+Emoji	ê_mô_gi
+Fitzgerald	phít_gơ_rát
+Robson	róp_xơn
+Sequin	xê_kin
+Kona	cô_na
+Cut-Out	cắt_ao
+Scooter	x_cút_tơ
+Vlogger	vờ_lóc_gơ
+Nam-Campuchia	nam_cam_pu_chia
+Cop	cóp
+Demichelis	đê_mi_che_lít
+Tornado	tô_na_đô
+Varyag	va_i_ác
+Aguilera	a_gui_lê_ra
+Goetze	gót_dê
+Retro	rê_trô
+Nakhon	na_khon
+Raider	rai_đơ
+Jonny	giôn_ni
+Drew	đờ_riu
+Support	xúp_pót
+Dier	đi_ơ
+Cep	xép
+Plastic	pờ_lát_tích
+Years	ia
+Saigonbank	sài_gòn_banh
+Disneyland	đít_ni_len
+Idg	i_đê_gờ
+Arkansas	a_can_xát
+Roja	rô_gia
+Admin	át_min
+Outlook	ao_lúc
+Carmen	các_men
+Schneider	s_nây_đơ
+Shrek	s_rếch
+Hair	he
+Herman	héc_man
+Cabaye	ca_ba_y_ê
+Kissinger	kít_xinh_gơ
+Maddox	mát_đốc
+Mossad	mốt_xát
+Dioxide	đi_ô_xít
+Leonid	lê_ô_nít
+Demba	đem_ba
+Echo	ê_chô
+Koi	coi
+Reddit	rét_đít
+Bigbang	bích_beng
+Zumwalt	dum_oát
+Soyuz	xô_i_út
+Alessandro	a_lét_xăng_đờ_rô
+Assistant	a_xít_từn
+Come	căm
+Klum	cờ_lum
+Hiddleston	hít_đồ_tơn
+Caffein	ca_phê_in
+Powerpoint	pao_ơ_poi
+Mauro	mau_rô
+Challenger	cha_lừn_giơ
+Audition	au_đi_sừn
+Clinker	cờ_linh_cơ
+Flying	phờ_lai_inh
+Zaha	da_ha
+Marchisio	mác_chi_xi_ô
+Gibraltar	ghi_bờ_ran_ta
+Oseni	o_xe_ni
+Ebd	e_bê_đê
+Shannon	san_non
+Soc	xóc
+Nolan	nô_lan
+Legging	léc_ghinh
+Lancer	lan_xơ
+Dic	đích
+Vlog	vờ_lóc
+Shorts	sót
+Yeonpyeong	y_ơn_pờ_y_ơng
+Infographic	in_phô_gờ_ráp_phích
+Jiang	gieng
+Blouse	bờ_lu
+Wing	uynh
+Flavonoid	phờ_la_vô_noi
+Pot	pót
+Station	x_tây_sừn
+Wolverhampton	úp_vơ_ham_tơn
+Inquirer	in_qui_rơ
+Faa	pha
+Habubank	ha_bu_banh
+Begovic	bê_gô_vích
+Schurrle	sơ_lơ
+Princeton	pờ_rin_tơn
+Vre	vê_rờ_e
+Sas	xát
+Producer	pờ_rô_đu_xơ
+Ghani	ga_ni
+Iuu	iu
+Sands	xan
+Ransomware	ran_xom_oe
+Arts	át
+Vibe	vai
+Lip	líp
+Werner	uôn_nơ
+Javi	ha_vi
+Malouda	ma_lâu_đa
+Bollywood	bô_li_út
+Barnes	ban
+Caspian	cát_pi_an
+Sacomreal	xa_côm_riu
+Doraemon	đô_rê_mon
+Huntelaar	hun_te_la
+Asean-Trung	a_xê_an_trung
+Honey	ho_ni
+Politico	pô_li_ti_cô
+Gianni	gian_ni
+Profile	pờ_rô_phai
+Per	pơ
+Linkedin	linh_kê_đin
+Wolfgang	úp_gang
+Zombie	dom_bi
+Isner	i_nơ
+Sunshine	xăn_sai
+Collection	cô_lếch_sừn
+Psi	pờ_xi
+Crawford	cờ_ro_phót
+Pomina	pô_mi_na
+Pratt	pờ_rát
+Denilson	đe_niu_xơn
+Kuyt	quýt
+Nauert	nau_ớt
+Thaugsuban	thau_xu_ban
+Infantino	in_phan_ti_nô
+Arafat	a_ra_phát
+Sulli	xu_li
+Cio	xi_ô
+Prenn	pờ_ren
+Suboi	xu_boi
+Bci	bê_xê_i
+Paddock	pát_đốc
+Dragons	đờ_ra_gôn
+Burton	bút_tôn
+Military	mi_li_ta_ri
+Maggie	mác_ghi
+Boom	bum
+Heard	hớt
+Capitaland	cáp_pi_tồ_lan
+Michele	mi_seo
+Vieira	via_ra
+Playbook	pờ_lây_búc
+Kansai	can_xai
+Marino	ma_ri_nô
+Derek	đe_rếch
+Xavier	ha_vi_ơ
+Intimex	in_ti_mếch
+Pavilion	pa_vi_li_ừn
+Helio	hê_li_ô
+Carling	ca_linh
+Lara	la_ra
+Kyushu	kiu_su
+Vinataba	vi_na_ta_ba
+Easy	i_di
+Heavy	hép_vi
+Cebu	xê_bu
+Alexa	a_lê_xa
+Amata	a_ma_ta
+Baines	bai_nét
+Butler	bút_lơ
+Industry	in_đút_tri
+Charlize	chác_li
+Palmer	pam_mơ
+Sharma	sa_ma
+Barkley	bác_li
+Abdeslam	áp_đét_lam
+Flamini	phờ_la_mi_ni
+Hkphone	hát_ca_phôn
+Pamela	pa_mê_la
+Pa-Ri	pa_ri
+Pound	pao
+Tow	tao
+Eez	e_e_dét
+Thanos	tha_nốt
+Ventures	ven_trờ
+Formaldehyde	pho_man_đê_hít
+Unhcr	u_nờ_hát_xê_rờ
+Spielberg	x_piêu_beng
+Paper	pây_pờ
+Industrial	in_đút_tri_ồ
+Figo	phi_gô
+Pgbank	pê_gờ_banh
+Vanity	va_ni_ti
+Anadolu	a_na_đô_lu
+Barak	ba_rác
+Georgina	gio_gi_na
+Pulitzer	pu_lít_dơ
+Jailbreak	giai_bờ_rếch
+Joyce	gioi
+Cannavaro	can_na_va_rô
+Gigabyte	ghi_ga_bai
+Fraser	phờ_ra_dơ
+Upload	ắp_loát
+Level	le_vờ
+Aurora	au_rô_ra
+Flower	phờ_lao_ơ
+Baek	bếch
+Dmitri	đờ_mi_tri
+Cardigan	các_đi_gan
+Hara	ha_ra
+Granite	gờ_ran_nít
+Shane	sên
+Dynamics	đi_na_mích
+Sally	xa_li
+Chanathip	cha_na_thíp
+Levy	le_vi
+Death	đét
+Edgar	ét_ga
+Soros	xo_rốt
+Gillard	ghin_lát
+Bermuda	béc_mu_đa
+Meazza	mê_da
+Nafiqad	na_phi_cát
+Maguire	ma_gui
+Andriy	an_đờ_ri
+Kovacic	cô_va_xích
+Novichok	no_vi_chốc
+Selen	xê_len
+Braga	bờ_ra_ga
+Jill	giu
+Sik	xích
+Pena	pê_na
+Lieberman	li_béc_man
+Yakuza	y_a_cu_da
+Difc	đê_i_ép_xê
+Gran	gờ_ran
+Fahasa	pha_ha_sa
+Hamad	ha_mát
+Adventure	ất_ven_trờ
+Dawson	đo_xơn
+Mei	mây
+Fecon	phe_con
+Petraeus	pê_tra_ớt
+Account	ơ_cao
+Dengue	đen_guê
+Glong	gờ_long
+Peace	pít
+Towers	thao_ơ
+Yury	y_u_ri
+Bailey	bai_li
+Mori	mo_ri
+History	hít_to_ri
+Camaro	ca_ma_rô
+Abass	a_bát
+Ruben	ru_ben
+Guillermo	gui_lê_mô
+Icd	i_xê_đê
+Haye	ha_y_e
+Dunford	đun_phót
+Escape	ếch_x_kếp
+Brahimi	bờ_ra_hi_mi
+Gamuda	ga_mu_đa
+Frank-Walter	phờ_ranh_oan_tơ
+Clutch	cờ_lút
+Sakura	xa_cu_ra
+Rivera	ri_vê_ra
+Mount	mao
+Joaquin	hoa_kin
+Aqua	a_qua
+Solomon	xô_lô_mông
+Anastasia	a_nát_ta_xi_a
+Maine	mên
+Vertonghen	véc_tông_ghen
+Apoel	a_pô_en
+Dancer	đan_xơ
+Izvestia	i_vét_tia
+Manmohan	man_mô_han
+Windsor	uyn_xo
+Pure	pua
+Touliver	tua_li_vơ
+Kaki	ca_ki
+Reap	ríp
+Inverter	in_véc_tơ
+Fernandes	phếch_nan_đét
+Draghi	đờ_ra_ghi
+Rafinha	ra_phi_nha
+Civil	xi_viu
+Kandahar	can_đa_ha
+Trojan	trô_gian
+Dagestan	đa_ghét_tan
+Mercantile	mê_can_tin
+Ballmer	ban_mê
+Frozen	phờ_rô_dừn
+Kamal	ca_man
+Gem	ghem
+Yeltsin	y_en_xanh
+Northrop	nót_róp
+Lithium	li_thi_um
+Angry	ang_gờ_ri
+Sipri	xi_pờ_ri
+Wigo	uy_gô
+Double	đắp_bồ
+Quota	cô_ta
+Print	pờ_rin
+Papi	pa_pi
+Follow	pho_lâu
+Sonic	xô_ních
+Hood	hút
+Vis	vít
+Race	rây
+Doug	đấc
+Season	xi_dừn
+Gloria	gờ_lo_ri_a
+Strong	x_troong
+Kingdom	kinh_đừm
+Hossein	hô_xê_in
+Teddy	tét_đi
+Rimpac	rim_pác
+Rene	rin
+Wind	uyn
+Lippi	líp_pi
+Corvette	co_vét
+Lukashenko	lu_ca_sen_cô
+Carragher	ca_ra_gơ
+Supe	xu_pe
+Heathrow	hét_râu
+Safe	xếp
+Isp	i_ét_pê
+Tsarnaev	cha_nép
+Nuland	nu_lan
+Aviation	a_vi_ây_sừn
+Caballero	ca_ba_lê_rô
+Asosai	a_xô_xai
+Musudan	mu_xu_đan
+Saul	xau
+Mead	mít
+Pac	pác
+Gervinho	ghe_vi_nhô
+Mino	mi_nô
+Gateway	ghết_uây
+Pose	pâu
+Khatoco	kha_tô_cô
+Allardyce	an_la_đai
+Graffiti	gờ_ra_phi_ti
+Psaki	pờ_xa_ki
+Warmbier	uôm_bi_ơ
+Oas	oát
+Bazan	ba_dan
+Subic	xu_bích
+Worldwide	uốt_oai
+Nasser	nát_xơ
+Giovanni	giô_van_ni
+Schwarzenegger	sờ_oa_den_ne_gơ
+Penang	pê_nang
+French	phờ_ren
+Valentina	va_len_ti_na
+Fair-Play	phe_pờ_lây
+Hip-Hop	híp_hốp
+Rowling	râu_linh
+Nis	nít
+Gwyneth	guy_nít
+Angie	an_gi
+Didi	đi_đi
+Ahrar	a_ra
+She	si
+Walton	oan_tơn
+Techmart	tếch_mát
+Sakho	sa_khô
+Adsl	a_đê_ét_lờ
+Adolf	a_đốp
+Crom	cờ_rôm
+Plei	pờ_lây
+Ousmane	ao_x_mên
+Arseniy	ác_xê_ni
+Macd	mờ_a_xê_đê
+Palawan	pa_la_oan
+Acura	a_cu_ra
+Tedi	te_đi
+Koeman	câu_man
+Roddick	rót_đích
+Schengen	sen_ghen
+Malibu	ma_li_bu
+Glasgow	gờ_lát_gâu
+Solutions	xô_lu_sừn
+Holly	hô_li
+Carotene	ca_rô_tên
+Johor	gio_ho
+Amcham	am_cham
+Navarro	na_va_rô
+Sanches	xan_chét
+Ciputra	xi_pu_tra
+Klinsmann	cờ_lin_man
+Cut	cắt
+Mae	mê
+Kristina	cờ_rít_ti_na
+Afp/Getty	a_ép_pê/ghét_ti
+Chapo	cha_pô
+Oxytocin	ô_xi_tô_xin
+Stephan	x_te_phan
+Kingston	kinh_x_tơn
+Handico	han_đi_cô
+Carrera	ca_rê_ra
+Clijsters	cờ_lít_tơ
+Valy	va_li
+Guerrero	guê_rê_rô
+Kilomet	ki_lô_mét
+Ddos	đi_đi_âu_x
+Inside	in_xai
+Eugene	iu_gin
+Reunion	ri_u_ni_on
+Labs	láp
+Amir	a_mi
+Ellison	ê_li_xơn
+Salt	xát
+Ryu	riu
+Nav	náp
+Mining	mi_ninh
+Gogh	gốc
+Karik	ca_rích
+Manga	man_ga
+Under	ăn_đờ
+Payne	pên
+Colt	côn
+Bernardo	bê_nát_đô
+Gru	gờ_ru
+Monchengladbach	môn_cheng_lát_bách
+Sumo	xu_mô
+Seok	xấc
+Vietnampost	việt_nam_pốt
+Yongbyon	y_ông_bi_y_ông
+Henrikh	hen_rích
+Chonburi	chon_bu_ri
+Pride	pờ_rai
+Hydrogen	hi_đờ_rô_gien
+Incirlik	in_xi_lích
+Sergi	xéc_ghi
+Santi	xan_ti
+Mogadishu	mô_ga_đi_su
+Brightside	bờ_rai_xai
+Kay	cây
+Nicotex	ni_cô_tếch
+Ccdi	xê_xê_đê_i
+Mcafee	mờ_cà_phê
+Panigale	pa_ni_ghêu
+Blu-Ray	bờ_lu_rây
+Yes	y_ét
+Battle	bát_tồ
+Horizon	hô_ri_don
+Reader	rít_đơ
+Drian	đờ_ri_an
+Sotheby	xô_the_bai
+Grumman	gờ_rum_man
+Eid	ết
+Naples	na_pồ
+Nations	nây_sừn
+Bida	bi_da
+Clapper	cờ_láp_pơ
+Esop	ê_xóp
+Hyon	hi_y_on
+Vni	vê_nờ_i
+Udic	u_đê_i_xê
+Escobar	ét_cô_ba
+Sadio	xa_đi_ô
+Lescott	lét_cót
+Lynn	lin
+Cantona	can_ton_na
+Jacqueline	giác_kê_lin
+Kirkuk	cơ_cúc
+Society	xô_xai_e_ti
+Mnangagwa	măng_ga_goa
+Guide	gui
+Cadie	ca_đi
+Sector	xéc_tơ
+Mustafi	mút_ta_phi
+Melanie	mê_la_ni
+Leica	lây_ca
+Font	phông
+Cascadeur	cát_ca_đơ
+Boca	bô_ca
+Malia	ma_li_a
+Acecook	a_xê_cúc
+Into	in_tu
+Irna	ai_a_en_ây
+Concacaf	con_ca_cáp
+Punjab	pun_giáp
+Reports	ri_pót
+Secc	ét_e_xê_xê
+Ifan	i_phan
+Ocop	ô_cốp
+Circle	xơ_cồ
+Jankovic	gian_cô_vích
+Har	ha
+Winslet	uyn_lét
+Goto	gô_tô
+Mice	mai
+Pandora	pan_đô_ra
+Greenland	gờ_rin_lan
+Gmo	gờ_mo
+Baba	ba_ba
+Bamboo	bam_bu
+Medicine	mê_đi_xin
+Zen	den
+Rennes	ren_nét
+Dwayne	đuên
+Beats	bít
+Shadow	sa_đâu
+Hasan	ha_xan
+Pistorius	pít_to_ri_ớt
+Itf	i_tê_ép
+Birds	bớt
+Part	pát
+Stephane	x_tê_phan
+Shim	sim
+Robertson	rô_béc_xơn
+Impossible	im_pót_xi_bồ
+Kavkaz	cáp_ca
+Vettel	vét_ten
+Chambers	cham_bơ
+Stereo	x_te_ri_ô
+Tac	tác
+Electronic	ê_lếch_trô_ních
+Tripadvisor	tri_pát_vi_xơ
+Analytica	a_na_li_ti_ca
+Gsmarena	gờ_ét_ma_re_na
+Platform	pờ_lát_phom
+Ampli	am_li
+Dabaco	đa_ba_cô
+Thomson	thôm_xơn
+Alderweireld	an_đơ_uê_reo
+Vargas	va_rờ_gát
+Alc	a_lờ_xê
+Our	ao
+Luna	lu_na
+Levine	lê_vin
+Chinese	chai_ni
+Amc	a_mờ_xê
+Fabian	pha_bi_an
+Reporter	ri_pót_tơ
+Havard	ha_vớt
+Meyer	mây_ơ
+Language	leng_guých
+Damon	đa_mon
+Baghdadi	bác_đa_đi
+Lars	la_rờ
+Ite	i_tê_e
+Federico	phê_đê_ri_cô
+Daisy	đai_xi
+Jefferson	gie_phe_xơn
+Yamamoto	y_a_ma_mô_tô
+Usns	u_ét_nờ_ét
+Flex	phờ_lếch
+Info	in_phô
+Saad	xát
+Hoffman	hóp_man
+Illustrated	i_lút_trết_tựt
+Toeic	tô_ích
+Eyes	ai
+Carplay	ca_pờ_lây
+Saud	xau_đờ
+Patin	pa_tanh
+Fujifilm	phu_gi_phim
+Cny	xê_nờ_i
+Leonard	lê_ô_nác
+Cas	cát_x
+Convertible	con_vơ_ti_bồ
+Musharraf	mu_sa_ráp
+Kruger	cờ_ru_gơ
+Abidal	a_bi_đan
+Shevchenko	sép_chen_cô
+Has	hát_x
+Engadget	en_gát_ghét
+Bowling	bô_linh
+Era	e_ra
+Multimedia	mun_ti_mê_đi_a
+Decal	đề_can
+God	gót
+Berjaya	bê_gia_y_a
+Vims	vim
+Joint	gioi
+Swanepoel	x_oan_nơ_pô
+Adelaide	a_đơ_lai_đơ
+Edison	ê_đi_xơn
+Knox	cờ_nốc
+Jia	gia
+Edwin	ét_uyn
+Krasnodar	cờ_rát_nô_đa
+Investments	in_vét_tờ_mừn
+Vnpost	vê_nờ_pốt
+Pah	pa
+Mie	mi_e
+Masia	ma_xi_a
+Koran	cô_ran
+Backup	bách_cắp
+Evoque	ê_vốc
+Harpoon	ha_pun
+Miyagi	mi_y_a_ghi
+Singer	xinh_gờ
+Crop-Top	cờ_róp-tóp
+Lines	lai_x
+Lance	lan_x
+Atr	a_tê_rờ
+Burj	bu_ri
+Chiron	chi_ron
+Paltrow	pan_trô
+Mango	mang_gô
+Paramount	pa_ra_mao
+Sihanouk	xi_ha_núc
+Herbert	he_bét
+Mannschaft	man_x_cháp
+Microphone	míc_cờ_rô_phôn
+Fattah	phát_ta
+Layer	lay_ơ
+Takata	ta_ca_ta
+Shipper	síp_pơ
+Batista	ba_tít_ta
+Gazzetta	ga_dét_ta
+Mangala	măng_ga_la
+Fagan	pha_gan
+Unfpa	u_nờ_ép_pê_a
+Tite	tai
+Batshuayi	bát_xoay_i
+Adc	a_đê_xê
+Vit	vít
+Gardens	ga_đừn
+Cayman	cay_man
+Alo	a_lô
+Yildirim	in_đi_rim
+Schumacher	su_ma_khơ
+Georges	gioóc
+Gaston	gát_tôn
+Arroyo	a_rô_y_ô
+Benelli	ben_nê_li
+Amoniac	a_mô_ni_ắc
+Rainbow	rên_bâu
+Goh	gô
+Glen	gờ_len
+Lindsey	lin_xê
+Casey	cây_xê
+Cobra	cô_bờ_ra
+Deluxe	đê_lúc
+Dwight	đờ_oai
+Chro	chờ_rô
+Kahn	can
+Triple	tríp_pồ
+Main	mên
+Laze	la_de
+Barroso	ba_rô_xô
+Minishow	mi_ni_sâu
+Itsunori	ít_xu_nô_ri
+Buffaloes	búp_phơ_lâu
+Otp	o_tê_pê
+Gamma	gam_ma
+Nord	nót
+Cod	cót
+Nymex	ni_mếch
+Yves	y_vơ
+Anwar	an_oa
+Canyon	can_y_on
+Coquelin	cô_cơ_lin
+Preview	pờ_ri_viu
+Imessage	i_mét_xít
+Gina	ghi_na
+Roh	rô
+Jade	dết
+Text	tếch
+Rise	rai
+Ezzur	ê_du
+Larson	lác_xơn
+Nyt	en_nờ_i_tê
+Wii	uy_i
+Martha	ma_tha
+Know	nâu
+Sherlock	sê_lốc
+Mashup	mát_sắp
+Mossack	mô_xắc
+Kalou	ca_lô_u
+Reese	ri_xx
+Africa	a_phờ_ri_ca
+Erawan	e_ra_oan
+Grabcar	gờ_ráp_ca
+Pte	pê_tê_e
+Diezen	đi_ê_den
+Sistar	xít_x_ta
+Arleigh	a_lây
+Wipo	uy_pô
+Stephens	x_te_phen
+Toy	toi
+Supranational	xúp_pờ_ra_na_sừn_nồ
+Zakharchenko	da_kha_chen_cô
+Window	uyn_đâu
+Ramirez	ra_mi_rết
+Ex	ếch
+Mayonnaise	mai_ô_ne
+Tikrit	tích_rít
+Qe	qui_e
+Communications	com_mu_ni_cây_sừn
+Links	linh
+Holiday	hô_li_đây
+Zenbook	den_búc
+Chester	chét_tơ
+Hamlet	ham_lét
+Staffan	x_táp_phan
+Yo-Jong	y_ô-giông
+Bis	bít
+Inzaghi	in_da_ghi
+Trans	tran
+Yeo	y_eo
+Cube	kiu_bờ
+Beverage	be_vơ_rết
+Sync	xinh
+Xyanua	xi_a_nua
+Qi	qui_i
+Tegra	tê_gờ_ra
+Al-Maliki	an-ma_li_ki
+Trek	trếch
+Berkeley	bơ_cơ_lây
+Sasco	xát_cô
+Dalglish	đan_gờ_lích
+Hey	hây
+Insight	in_xai
+Thiem	thi_êm
+Nerazzurri	ne_ra_du_ri
+Cornell	co_neo
+Ebook	i_búc
+Basic	bây_dích
+Gelatin	ghe_la_tin
+Steroid	x_te_roi
+Betty	bét_ti
+Tribune	tri_bun
+Tyra	ti_ra
+Pastore	pát_x_to
+Salehi	xêu_hi
+Jagdish	giác_đích
+Snack	x_nách
+Pinterest	pin_te_rét
+Evnnpt	e_vê_nờ_nờ_pê_tê
+Teresa	tê_rê_xa
+Slide	x_lai
+Shen	sen
+Murcielago	mu_xi_la_gô
+Gede	ghe_đê
+Safety	xếp_ti
+Mar-A-Lago	ma_a_la_gô
+Svetlana	x_vét_la_na
+Bony	bô_ni
+Olsen	ôn_xen
+Naked	nếch_kịt
+Plug-In	pờ_lắt_in
+Pixar	pi_xa
+Vinacas	vi_na_cát
+Boas	bô_át
+Muangthong	mu_ang_thông
+Vietabank	việt_á_banh
+Crescent	cờ_rét_xen
+Brigitte	bờ_ri_ghít
+Louboutin	lu_bu_tin
+Atlantis	át_lan_tít
+Hoc	hóc
+Nicky	ních_ki
+Madut	ma_dút
+Daddy	đát_đi
+Zeman	dê_man
+Cote	cốt
+Prado	pờ_ra_đô
+Preston	pờ_rét_ton
+Brook	bờ_rúc
+Bogota	bô_gô_ta
+Seedorf	xi_đóp
+Violympic	vi_ô_lim_pích
+Pat	pát
+Verona	vê_rô_na
+Acc	a_xê_xê
+Everything	e_vơ_ri_thinh
+Cbiz	xê_bít
+Buzzfeed	bu_dờ_phít
+Bani	ba_ni
+Selangor	xê_lan_go
+Tupolev	tu_pô_lép
+Skin	x_kin
+Flamingo	phờ_la_min_gô
+Ad	át
+Apg	a_pê_gờ
+Kok	cóc
+Lassen	lát_xen
+Alberta	an_bét_ta
+Anti	an_ti
+Train	trên
+Richie	rích_chi
+Silicone	xi_li_côn
+Squad	x_quát
+Fogh	phô_gờ
+Melatonin	mê_la_tô_nin
+Halogen	ha_lô_gien
+Croptop	cờ_róp_tóp
+Hicks	hích
+Charlton	chan_tơn
+Kospi	cốt_pi
+Bundchen	bun_chen
+Marshmallow	mát_man_lâu
+Suleiman	xu_lây_man
+Rae	rê
+Ruiz	rui
+Pitch	pít
+Ethan	ê_than
+Mahal	ma_han
+Rashid	ra_sít
+Cic	xê_i_xê
+Catfish	cát_phít
+Dad	đát
+Melo	mê_lô
+Lilo	li_lô
+Allan	a_lan
+Valerie	va_le_ri
+Countdown	cau_đao
+Mother	ma_dờ
+Louvre	lu_vờ_rơ
+Darpa	đa_pa
+Guardians	gua_đi_an
+Das	đát
+Sato	xa_tô
+Rsi	rờ_ét_i
+Aeroflot	e_rô_phờ_lót
+Finviz	phin_vít
+Need	nít
+Salim	xa_lim
+Premiership	pờ_re_mi_ơ_síp
+Yars	y_a
+Erin	ê_rin
+Rod	rót
+Leningrad	lê_nin_gờ_rát
+Feyenoord	phê_y_e_nót
+Yorkshire	y_oóc_sai
+Networks	nét_uốc
+Leader	lít_đơ
+Sharm	sam
+Jupp	giúp
+Sandals	xăng_đan
+Airpods	e_pót
+Hanks	han_cờ
+Cate	kết
+Production	pờ_rô_đắc_sừn
+Icom	i_com
+Its	ít
+Curiosity	cu_ri_ô_xi_ti
+Sigma	xích_ma
+Gutierrez	gu_ti_e_rét_x
+Yong-Ho	y_ông_hô
+Buffalo	búp_pha_lô
+Stylus	x_ti_lút
+Where	oe
+Gerd	gớt
+Ridge	rít
+Hariri	ha_ri_ri
+Bac	bác
+Puea	pê_u_e_a
+Vnnic	vê_nờ_ních
+Revo	re_vô
+Caesar	xê_da
+Elysee	ê_li_dê
+Dog	đoóc
+Cello	xen_lô
+Raglai	rác_lai
+Nawaz	na_oát
+Fargo	pha_gô
+Susilo	xu_xi_lô
+Gerasimov	giê_ra_xi_mốp
+Sarmat	xa_mát
+Optima	óp_ti_ma
+Ernest	en_nét
+Nutrition	nu_tri_sừn
+Vogt-Roberts	vốt_rô_bớt
+Devon	đê_von
+Dehp	đê_e_hát_pê
+Ams	am
+Stark	x_tác
+Etc	e_tê_xê
+Fallon	pha_lon
+Cano	ca_nô
+Widget	uýt_dét
+Sandberg	xan_bớc
+Allah	a_la
+Banerjee	ba_nơ_gi
+Nantes	năng
+Mar	ma
+Charge	chác_x
+Klitschko	cờ_lít_chờ_cô
+Leaf	líp
+Baonghean	báo_nghệ_an
+Sportback	x_pót_bách
+Polyphenol	pô_li_phê_nôn
+Bach	bách
+Fethullah	phê_thu_la
+Domenech	đo_me_nếch
+Motogp	mô_tô_gờ_pê
+Shiv	síp
+Gilles	gi_lét
+Siti	xi_ti
+Roaming	roa_minh
+Musa	mu_xa
+Ella	eo_la
+Masha	ma_sa
+Toby	tô_bi
+Fabianski	pha_bi_an_x_ki
+Moratti	mo_rát_ti
+Sbu	ét_bê_u
+Button	bất_tần
+Friend	phờ_ren
+Presley	pờ_rét_lây
+Willis	uyn_li_x
+Fomc	ép_o_mờ_xê
+Massimo	mát_xi_mô
+Zelaya	dê_lay_a
+Cache	kết_chờ
+Jaish	giai_s
+Sentinel	xen_ti_nen
+Ida	i_đê_a
+Hooligan	hu_li_gân
+Thornton	thon_tơn
+Alliance	a_lai_ừn
+Michal	mi_chan
+Kenji	ken_di
+Bate	ba_tê
+Reset	ri_xét
+Vitas	vi_tát
+Rebel	re_bồ
+Painting	pên_tinh
+Yvonne	i_von
+Tisco	tít_cô
+Ultimate	un_ti_mết
+Nsi	nờ_ét_i
+Arda	a_đa
+Ding	đinh
+Lahore	la_ho
+Islam	ít_x_lam
+Sonia	xô_ni_a
+Shinoda	si_nô_đa
+Trinidad	tri_ni_đát
+Alone	ơ_lôn
+Koenigsegg	cô_e_ních_xếch_gơ
+Luzhniki	lu_dờ_ni_ki
+Seungri	xê_ung_ri
+Wagner	oác_nơ
+Touring	tua_rinh
+Aerospace	a_e_rô_x_pết
+Aiden	ai_đen
+Amiang	a_mi_ang
+Thames	thêm
+Direct	đi_rếch
+Stent	x_ten
+Atiso	a_ti_xô
+Lounge	lo_un_di
+Hayden	hây_đen
+Marty	mác_ti
+Ning	ninh
+Jenkins	gien_kin
+Blaugrana	bờ_lau_gờ_ra_na
+Anti-Fan	an_ti_phan
+Dolphin	đôn_phin
+Nabil	na_bin
+Dimitri	đi_mi_tờ_ri
+Lana	la_na
+Association	a_xô_xi_ây_sừn
+Hefner	hép_nơ
+Vitm	vê_i_tê_mờ
+Quattro	quát_trô
+Viktoria	vích_to_ri_a
+Melanin	mê_la_nin
+Her	hơ
+Thalassemia	tha_la_xe_mi_a
+Round	rao
+Herzegovina	héc_dê_gô_vi_na
+Macos	ma_cốt
+Zverev	dơ_vơ_rép
+Mann	man
+Kiko	ki_cô
+Away	ơ_uây
+Ayatollah	a_y_a_tôn_la
+Freeman	phờ_ri_man
+Kono	cô_nô
+Sokha	xô_kha
+Worth	uốt
+Connor	con_nơ
+Marko	mác_cô
+Pichai	pi_chai
+Seine	xên
+Kobane	cô_ba_nê
+Gaming	ghêm_minh
+Alfa	an_pha
+Sinclair	xinh_cờ_le
+Shine	sin
+Becker	bếch_cơ
+Bora	bô_ra
+Phillippines	phi_líp_pin
+Jurassic	du_ra_xích
+Kings	kinh
+Ashraf	át_x_ráp
+Damacus	đa_ma_cớt
+Inada	i_na_đa
+Monfils	mon_phiu
+Downey	đao_ni
+Asha	át_sa
+Terra	te_ra
+Tamil	ta_min
+Base	bây
+Brandon	bờ_ran_đôn
+Cage	kết
+Barton	bác_tơn
+Marian	ma_ri_an
+Nebraska	ne_bờ_rát_ca
+Harold	ha_rôn
+Small	x_mo
+Exid	e_xít
+Boehner	bô_e_nơ
+Sigurdsson	xi_gút_xơn
+Karlov	các_lốp
+Raj	rai
+Flight	phờ_lai
+Bondarev	bôn_đa_rép
+Analytics	a_na_li_tích
+Mlee	mờ_li
+Lian	li_an
+Pickford	pích_phót
+Strike	x_trai
+Adel	a_đen
+Conrad	con_rát
+Cristian	cờ_rít_ti_an
+Ayman	ây_man
+Herpes	hơ_pét
+Debbie	đép_bi
+Kill	kiu
+Shiloh	si_lo
+Levi	le_vi
+Ironman	ai_ron_men
+Brady	bờ_ra_đi
+Sales	xêu
+Futenma	phu_ten_ma
+Filipe	phi_líp_pê
+Mursi	mu_xi
+Hanwha	han_oa
+Lebron	le_bờ_ron
+Sorry	xo_ri
+Lade	lết
+Fergie	phơ_gi
+Volgograd	vôn_gô_gờ_rát
+Columbus	cô_lum_bút
+Abdulaziz	áp_đu_la_dít
+Firmware	phơm_oe
+Swing	x_uynh
+Cisse	xít_xê
+Delevingne	đe_le_vinh
+Rodman	rốt_man
+Mitsui	mít_xui
+Monkey	mon_ki
+Eisenhower	ây_xen_hao_ơ
+Nhtsa	nờ_hát_tê_ét_a
+Ural	u_ran
+Donovan	đo_no_van
+Vasily	va_xi_li
+Yao	y_ao
+Volga	vôn_ga
+Bowl	bâu
+Bataclan	ba_tác_lần
+Koch	cốc
+Keyboard	cây_boát
+Peshawar	pét_sa_oa
+Hardy	hát_đi
+Nougat	nô_gát
+Roadshow	rốt_sâu
+Seong	xê_ong
+Strategy	xờ_tra_te_gi
+Moonlight	mun_lai
+Garner	gác_nơ
+Daniela	đa_ni_e_la
+Caravan	ca_ra_van
+Ure	u_re
+Ruslan	rút_lan
+Mendoza	men_đô_da
+Bugi	bu_gi
+Wallace	oa_lết
+Beetle	bít_tồ
+Child	chai
+Mat	mát
+Mercury	me_cu_ri
+Revolution	re_vô_lu_sừn
+Ness	nét
+Kanagawa	ca_na_ga_oa
+Sheeran	si_ran
+Kieran	ki_e_ran
+Aceh	a_chê
+Options	óp_sừn
+Golfer	gôn_phơ
+Slashgear	x_lát_ghia
+Simona	xi_mô_na
+Together	tu_ghe_dờ
+Bab	báp
+Wilbur	iu_bu
+Gilbert	gin_be_rờ
+Mcu	mờ_xê_u
+Aedes	a_e_đét
+Almeida	an_mê_đa
+Was	uốt
+Ederson	e_đơ_xơn
+Pjanic	pi_an_ních
+Beta-Carotene	bê_ta_ca_rô_ten
+Penn	pen
+Julien	giu_li_en
+Why	oai
+Mila	mi_la
+Al-Shabaab	an_sa_ba_áp
+Karius	ca_ri_út
+Ulsan	un_xan
+Ruth	rút
+Annabelle	an_na_beo
+Sok	xốc
+Lira	li_ra
+Plate	pờ_lết
+Onedrive	oăn_đờ_rai
+Muang	mu_ang
+Journey	giuốc_ni
+Rockstorm	rốc_x_tom
+Krystal	cờ_ri_x_tồ
+Wow	oao
+Selina	xe_li_na
+Kamchatka	cam_chát_ca
+Forte	pho_tê
+Airbnb	a_i_rờ_bê_nờ_bê
+Rosell	rô_xeo
+Koica	coi_ca
+Vnsteel	vê_nờ_x_tiu
+Brie	bờ_ri
+Microusb	mi_cờ_rô_u_ét_bê
+Emre	em_re
+Gif	ghíp
+Atlat	át_lát
+Metropolitan	mê_trô_pô_li_tan
+Peterson	pi_tơ_xơn
+Mnet	mờ_nét
+Hishammuddin	hi_sam_mút_đin
+Saeed	xa_ít
+Beyond	bi_y_on
+Navalny	na_van_ni
+Aps	áp
+Angelo	an_giê_lô
+Ton-Sur-Ton	tôn_xu_ơ_tôn
+Ozawa	ô_da_oa
+Cowell	cô_eo
+Sissoko	xít_xô_cô
+Jing	dinh
+Pool	pun
+Ottoman	ốt_tô_man
+Fall	phô
+Bakayoko	ba_ca_y_ô_cô
+Courtney	cuốc_ni
+Gallup	gan_lúp
+Salvatore	xan_va_to
+Amaq	a_mác
+Rajevac	ra_gie_vác
+Models	mo_đồ
+Remake	ri_mếch
+Ipp	i_pê_pê
+Aveo	a_veo
+Borneo	bo_neo
+Petrovic	pê_trô_vích
+Masterchef	mát_tơ_chép
+Pullman	pun_man
+Clattenburg	cờ_lát_ten_bớc
+Alisson	a_li_xơn
+Misrata	mít_ra_ta
+Topic	tô_pích
+Barron	ba_ron
+Chef	chép
+Information	in_pho_mây_sừn
+Stosur	x_tô_xơ
+Silic	xi_lích
+Console	con_xơn
+Captiva	cáp_ti_va
+Tracy	trây_xi
+Violet	vi_ô_lét
+Wada	oa_đa
+Huayra	hoay_ra
+Strauss	x_trau
+Gionee	gi_on_ni
+Offroad	ớp_phờ_roát
+Bixby	bích_bi
+Bolkiah	bôn_ki_a
+Tbilisi	tờ_bi_li_xi
+Nadella	na_đen_la
+Bento	ben_tô
+Vermont	vơ_mon
+Bhutto	bút_tô
+Geneve	giơ_ne_vơ
+Vinaxuki	vi_na_xu_ki
+Newyork	niu_y_oóc
+Iom	i_o_mờ
+Chevron	che_vờ_ron
+Eaeu	e_a_e_u
+Deborah	đe_bo_ra
+Moura	mo_u_ra
+Gal	gan
+Helena	hê_lê_na
+Lynk	lin_khờ
+Oblak	óp_lác
+Bouchard	bô_chát
+Lonely	lôn_li
+Maliki	ma_li_ki
+Unit	u_nít
+Robotics	rô_bô_tích
+Paribas	pa_ri_bát
+Polyp	pô_líp
+Essex	ét_xếch
+Pari	pa_ri
+Polyester	pô_li_y_ét_tơ
+Mandalay	man_đa_lây
+Gasquet	gát_quét
+Tak	tắc
+Track	trách
+Givenchy	gi_ven_chi
+Mercedes-Maybach	méc_xe_đét_mây_bách
+Neowin	neo_uyn
+Reaper	ríp_pơ
+Brett	bờ_rét
+Elise	ê_li_xê
+Sue	xu
+Weiss	vai
+Ultron	un_tron
+Miroslav	mi_rô_x_láp
+Wolverine	uôn_vơ_rin
+Vinamotor	vi_na_mô_tô
+Tee	ti
+Turchynov	tu_rờ_chi_nốp
+Luc	lúc
+Board	boát
+Vyacheslav	vi_i_a_chéc_láp
+Hobbit	hóp_bít
+Diarra	đi_a_ra
+Antifan	an_ti_phan
+Macan	ma_can
+Giza	ghi_da
+Santo	xan_tô
+Helmand	hen_man
+Movies	mu_vi
+Hussain	hút_xa_in
+Vesak	vê_xắc
+Anzhi	an_di
+Clint	cờ_lin
+Ellis	en_lít
+Kensington	ken_xinh_tơn
+Salzburg	xan_buốc
+Loch	lo_hờ
+Bartomeu	bác_tô_mêu
+Gbagbo	gờ_ba_gờ_bô
+Pixels	pích_xeo
+Pierce	pi_e_xi
+Raf	ráp
+Papa	pa_pa
+Alexey	a_lếch_xây
+Resources	ri_xuộc_xờ
+Court	cuốt
+Woody	uốt_đi
+Vie	vi_i
+Calorie	ca_lo_ri
+Frontier	phờ_ron_tia
+Zanetti	da_nét_ti
+Veam	vim
+Tell	teo
+Help	hép
+Tourism	tua_rít
+Melia	me_li_a
+Mariana	ma_ri_a_na
+Pap	páp
+Strange	x_trên
+Terminator	tơ_mi_nây_tơ
+Marx	mác
+Blanco	bờ_lan_cô
+Vix	vích
+Nuri	nu_ri
+Muguruza	mu_gu_ru_da
+Camilla	ca_mi_la
+Gwen	goen
+Avakov	a_va_cốp
+Koji	cô_di
+Inn	in
+Choo	chu
+Ruud	rút
+Datuk	đa_túc
+Mod	mốt
+Prabang	pờ_ra_bang
+Romance	rô_man
+Hockey	hốc_cây
+Cis	xít
+Honeywell	hô_ni_eo
+Alfredo	an_phờ_rê_đô
+Josep	giô_xép
+Vivian	vi_vi_an
+Orban	ô_rờ_ban
+Comeback	căm_bách
+Flowers	phờ_lao_ơ
+Signature	xích_nây_trờ
+Tie	tai
+Brugge	bờ_ru_gơ
+Vitara	vi_ta_ra
+Soccer	xoóc_cơ
+Pretty	pờ_rét_ti
+Associates	a_xô_xi_át
+Ibaraki	i_ba_ra_ki
+Charoen	cha_rô_en
+Legacy	lê_ga_xi
+Bounnhang	bo_un_hang
+Hellfire	heo_phai
+Taeyang	tê_y_ang
+Gardner	gát_nơ
+Martins	mác_tin
+Dirk	đi_rờ_cờ
+Zouma	du_ma
+Hansen	han_xen
+Breaking	bờ_rếch_kinh
+Eminem	e_mi_nem
+European	ơ_rô_pin
+Vadim	va_đim
+Deco	đê_cô
+Devils	đe_vin
+Al-Sisi	an_xi_xi
+Ethernet	e_thơ_nét
+Tara	ta_ra
+Rocky	rốc_ki
+Karlie	các_li
+Coppa	cốp_pa
+Haiyang	hai_y_ang
+Backstreet	bách_x_trít
+Wes	vê_kép_e_ét
+Cosmopolitan	cót_mô_pô_li_tan
+Urumqi	u_rim_ki
+Fung	phung
+Goldmark	gôn_mác
+Sudoku	xu_đô_cu
+Fun	phăn
+Amri	am_ri
+Dokdo	đốc_đô
+Ferreira	phê_rây_ra
+Bachelet	ba_che_lét
+Esa	e_ét_a
+Gosling	gót_linh
+Islands	ai_len
+Ideapad	ai_đia_pát
+Sino	xi_nô
+Kyrgios	ki_gi_ốt
+Yong-Chol	y_ong_chun
+Ying	y_inh
+Trailblazer	trêu_bờ_la_dơ
+Wasp	oáp
+Allison	a_li_xơn
+Timo	ti_mô
+Viola	vi_ô_la
+Shake	sếch
+Mooc	mờ_o_o_xê
+User	iu_dơ
+Albion	an_bi_on
+Kurz	cu_dờ
+Thaibev	thai_bép
+Lavie	la_vi
+Benchmark	ben_chờ_mác
+Pass	pát
+Katrina	ca_tri_na
+Satin	xa_tanh
+Bio	bi_ô
+Professional	pờ_rô_phét_sừn_nồ
+Evnnpc	e_vê_nờ_nờ_pê_xê
+Airport	e_pót
+Cry	cờ_rai
+Jonghyun	giông_hi_un
+Ent	e_nờ_tê
+Schulz	x_chun_dờ
+Ronan	rô_nan
+Atiga	a_ti_ga
+Nsna	nờ_ét_nờ_a
+Republic	ri_pắp_lích
+Kathryn	ca_thơ_rin
+Shape	sếp
+Soldado	xôn_đa_đô
+Sherman	sơ_man
+Skyfall	x_cai_phô
+Mobility	mô_bi_li_ti
+Nana	na_na
+Ezequiel	e_dê_ki_en
+Cabriolet	ca_bờ_ri_ô_lét
+Furama	phu_ra_ma
+Alison	a_li_xơn
+Hsu	hát_ét_u
+Rogue	rớc
+Sportbike	x_pót_bai
+Yin	y_in
+Sihamoni	xi_ha_mô_ni
+Citroen	xi_troen
+Deal	điu
+Chopin	sô_panh
+Egyptair	ê_gíp_te
+Build	biu
+Shaarawy	sa_ra_uy
+Lucio	lu_xi_ô
+Sedona	xê_đô_na
+Ibiza	i_bi_da
+Yamaguchi	y_a_ma_gu_chi
+Vpa	vê_pê_a
+Cmos	xê_mốt
+Zippo	díp_pô
+Eq	e_qui
+Sheen	sin
+Williamson	iu_li_am_xơn
+Blanchett	bờ_lan_chét
+Dancing	đan_xinh
+Willy	iu_li
+Gothic	gô_thích
+Rompuy	rom_puy
+Chow	châu
+Etienne	e_tiên
+Maison	mai_xơn
+Bafta	báp_ta
+Products	pờ_rô_đắc
+Innovation	in_nô_vây_sừn
+Sisoulith	xi_xâu_lít
+Hubert	hu_bớt
+Wedding	oét_đinh
+Pravda	pờ_ráp_đa
+Joker	giốc_cơ
+Shearer	sia_rơ
+Meeting	mít_tinh
+Medina	mê_đi_na
+Order	o_đờ
+Larsson	la_xơn
+Debuchy	đê_bu_chi
+Sil	xiu
+Cars	ca
+Borei	bo_rây
+Wurtzbach	út_bách
+Musical	miu_dích_cồ
+Aqap	a_qui_a_pê
+Amano	a_ma_nô
+Shift	síp
+Vinasat	vi_na_xát
+Halo	ha_lô
+Alma	an_ma
+Reyes	rây_y_ớt
+Oca	o_xê_a
+Mateo	ma_teo
+Vinapco	vi_náp_cô
+Tonight	tu_nai
+Rutte	rút_te
+Pulga	pun_ga
+Maurizio	mau_ri_di_ô
+Pitbull	pít_bun
+Device	đi_vai
+Yuen	y_uên
+Tours	tua
+Passion	pát_sừn
+Boongke	boong_ke
+Osborne	ót_x_bon
+Billiards	bi_lát
+Digiworld	đi_gi_uốt
+Cafein	ca_phê_in
+Efron	ép_phờ_ron
+Keep	kíp
+Tian	ti_an
+Soderling	xo_đơ_linh
+Gripen	gờ_ri_pen
+Fam	pham
+Evergrande	e_vơ_gờ_ran_đê
+German	giéc_man
+Gattuso	gát_tu_xô
+Nomura	nô_mu_ra
+Beckenbauer	bếch_ken_bau_ơ
+Thongloun	thông_lôn
+Vnisa	vê_ni_xa
+Concerto	công_xéc_tô
+Ext	ếch
+Sev	ét_e_vê
+Dpa	đê_pê_a
+Kato	ca_tô
+Huntsman	hăn_man
+Tiago	ti_a_gô
+Springs	x_pờ_rinh
+Champasak	cham_pa_xác
+Murad	mu_rát
+Dassault	đát_xót
+Mitch	mít
+Gennady	ghen_na_đi
+Cassette	cát_xét
+Novgorod	nốp_gô_rốt
+Ekaterina	e_ca_te_ri_na
+Damien	đa_mi_en
+Far	pha
+Wa	oa
+Bkis	bờ_bít_x
+Sohc	ét_o_hát_xê
+Kimmich	kim_mích
+Lamela	la_mê_la
+Oxit	ô_xít
+Bellamy	beo_la_mi
+Aero	e_rô
+Jese	giét
+Urenco	u_ren_cô
+Hour	ao_ờ
+Wagon	oa_gon
+Tiki-Taka	ti_ki_ta_ca
+Bourdain	bô_đên
+Rosatom	rô_xa_tôm
+Ascend	át_xen
+Picnic	pích_ních
+Mills	miu
+Joey	giô_i
+Sendai	xen_đai
+Stadium	x_tây_đi_um
+Contest	con_tét
+Vus	vút
+Misa	mi_xa
+Savannakhet	xa_van_na_khét
+Seth	xét
+Dante	đan_tê
+Amelia	a_mê_li_a
+Hallyu	ha_li_y_u
+Gavin	ga_vin
+Parc	pác
+Yasay	y_a_xay
+Massimiliano	mát_xi_mi_li_a_nô
+Swan	x_oan
+Cecilia	xe_xi_li_a
+Anc	a_nờ_xê
+Syngenta	xin_gien_ta
+Wonsan	uôn_xan
+Aptech	áp_tếch
+Bla	bờ_la
+Malmo	man_mô
+Lutein	lu_tê_in
+Gross	gờ_rót
+Russian	rát_sừn
+Sakai	xa_cai
+Delph	đeo
+Puka	pu_ca
+Cdma	xê_đê_mờ_a
+Lehman	le_man
+Lighthizer	lai_hi_dơ
+Friedman	phờ_rít_man
+Brit	bờ_rít
+Verdasco	vơ_đát_cô
+Bert	bớt
+Blu	bờ_lu
+Dea	đê_e_a
+Clyne	cờ_lin
+Agger	ác_gơ
+Rotten	rót_ten
+Gato	ga_tô
+Valbuena	van_boen_na
+Nozza	nô_da
+Leslie	lét_li
+Jeb	giép
+Vusta	vút_ta
+Andes	an_đét
+Bastion	bát_sừn
+Wilfried	uy_phờ_rai
+Eder	e_đơ
+Ois	oi
+Crush	cờ_rớt
+Ica	i_xê_a
+Pearson	pia_xơn
+His	hít
+Sugar	xu_gờ
+Raffles	ráp_phồ
+Kalanick	ca_la_ních
+Vivienne	vi_vi_en
+Lively	lai_li
+Sienna	xiên_na
+Ghita	ghi_ta
+Gagarin	ga_ga_rin
+Lil	liu
+Bartra	ba_tra
+Petrov	pê_trốp
+Asphalt	át_phát
+Gis	ghít
+Memory	me_mô_ri
+Vonfram	vôn_phờ_ram
+Kerala	kê_ra_la
+Jelena	giê_lê_na
+Generali	gien_nơ_ra_li
+Winehouse	oai_hao
+Version	vơ_giừn
+Silent	xai_lừn
+Nainggolan	nang_gô_lan
+Inches	inh
+Kool	cun
+Schultz	sút
+Miyako	mi_y_a_cô
+Shades	sết
+Marwijk	ma_uých
+Alto	an_tô
+Command	com_man
+Merrill	me_riu
+Mestalla	mét_ta_la
+Teu	tê_e_u
+Radeon	ra_đê_ông
+Norfolk	no_phóoc
+Watts	oát
+Komodo	cô_mô_đô
+Khodorkovsky	kho_đo_cốp_x_ki
+Zhong	dong
+Masdar	mát_đa
+Lena	lê_na
+Daniele	đan_ni_en
+Kiloton	ki_lô_tôn
+Hamsik	ham_xích
+Cdu/Csu	xê_đê_u/xê_ét_u
+Tatum	ta_tum
+Pit	pê_i_tê
+Javelin	gia_vê_lin
+Does	đớt
+Amos	a_mốt
+Christophe	cờ_rít_tốp_phơ
+Jihad	gi_hát
+Ochoa	ô_choa
+Eurofighter	ơ_rô_phai_tơ
+Dopamine	đô_pa_min
+Jenna	gien_na
+Shinhan	sin_han
+Elie	e_li
+Sentosa	xen_tô_xa
+Booth	bút
+Inca	in_ca
+Monti	mon_ti
+Shaun	son
+Oddity	ót_đi_ti
+Monstar	mon_x_ta
+Indoor	in_đo
+Rajamangala	ra_gia_man_ga_la
+Iduna	i_đu_na
+Gravity	gờ_ra_vi_ti
+Noh	nô
+Ole	ô_le
+Palin	pa_lin
+Oculus	o_cu_lớt
+Stennis	x_ten_nít
+Nilong	ni_lông
+Riley	ri_lây
+Rudy	ru_đi
+Quinn	quin
+Workshop	uốc_sóp
+Laferrari	la_phe_ra_ri
+Lactose	lắc_tô_dơ
+Hapulico	ha_pu_li_cô
+Maracana	ma_ra_ca_na
+Rolldock	rôn_đốc
+Origi	o_ri_ghi
+Most	mốt
+Return	ri_tơn
+Borey	bo_rây
+Seasons	xi_dừn
+Hepburn	hép_bơn
+Sinaloa	xi_na_loa
+Bonnie	bon_ni
+Enter	en_tơ
+Tuchel	tu_chen
+Kimura	ki_mu_ra
+Neill	nêu
+Nat	nát
+Rakhine	rác_khin
+Justatee	giớt_tơ_ti
+Vikramaditya	vi_cờ_ra_ma_đi_ti_y_a
+Chapecoense	cha_pê_co_ên_xê
+Launcher	lon_chơ
+Niken	ni_ken
+Pakixtan	pa_ki_x_tan
+Buriram	bu_ri_ram
+Ji-Sung	gi_xung
+Reeves	ríp
+Menswear	men_oe
+Feel	phiu
+Cali	ca_li
+Damrey	đam_rây
+Abenomics	a_bê_nô_mích
+Birkin	bơ_kin
+Fest	phét
+Aqi	a_qui_i
+Carson	ca_xơn
+Bartender	ba_ten_đơ
+Clean	cờ_lin
+Drift	đờ_ríp
+Molniya	môn_ni_y_a
+Awd	a_vê_kép_đê
+Ushakov	u_sa_cốp
+Vnindex	vê_nờ_in_đếch
+Neul	ni_un
+Mckinsey	mấc_kin_di
+Jude	giút
+Degeneres	đe_gie_nơ_rớt
+Ventura	ven_tu_ra
+Jie	gi
+Watt	oát
+Conor	con_nờ
+Nicholson	ni_côn_xơn
+Imp	i_mờ_pê
+Gemadept	gie_ma_đép
+Mick	mích
+Stratfor	x_trát_pho
+Tomatoes	to_ma_tâu
+Calcium	can_xi_um
+Sven	x_ven
+Midnight	mít_nai
+Gallas	ga_lát
+Sparta	x_pa_ta
+Loic	lờ_o_i_xê
+Barzagli	ba_da_gờ_li
+Pilar	pi_la
+Berezovsky	be_re_dốp_x_ki
+Kat	cát
+Axel	a_xeo
+Iucn	i_u_xê_nờ
+Wijnaldum	uy_nan_đum
+Evil	i_vồ
+Julius	giu_li_ớt
+Luta	lu_ta
+Streaming	x_trim_minh
+Caramel	ca_ra_men
+Rockefeller	rốc_kê_pheo_lơ
+Mcconnell	mấc_con_neo
+El-Sisi	eo_xi_xi
+Natural	ne_trồ
+Sheryl	se_rồ
+Pack	pách
+Denise	đê_nít
+Marta	ma_ta
+Admiralty	át_mi_rao_ti
+Moutinho	mô_ti_nhô
+Lysenko	li_xen_cô
+Acmecs	ác_mếch
+Radcliffe	rát_cờ_líp
+Gupta	gúp_ta
+Strasbourg	x_trát_buốc
+Consulting	con_xút_tinh
+Hani	ha_ni
+Blackpink	bờ_lách_pinh
+Macri	mác_ri
+Diaby	đi_a_bi
+Apartment	ơ_pát_mừn
+Battery	bát_tơ_ri
+Lorenzana	lô_ren_da_na
+Abbottabad	áp_bốt_ta_bát
+Krul	cờ_run
+Europol	e_rô_pôn
+Ifeng	i_pheng
+Ever	e_vơ
+Castle	cát_tồ
+Patricio	pa_tri_xi_o
+Bacolod	ba_co_lót
+Nikolay	ni_cô_lay
+Margot	ma_gót
+Zvezda	dờ_ve_dờ_đa
+Peshmerga	péc_sờ_me_ga
+Fresh	phờ_rét
+Living	li_vinh
+Flanagan	phờ_la_na_gan
+Cfo	xi_ép_âu
+Olympiacos	o_lim_pi_a_cốt
+Sabella	xa_be_la
+Prawit	pờ_ra_ít
+Sussex	xu_xếch
+Bsi	bê_ét_i
+Bruna	bờ_ru_na
+Interview	in_tơ_viu
+Agrico	a_gờ_ri_cô
+Bernardino	béc_na_đi_nô
+Maurice	mau_ri_xe
+Patel	pa_ten
+Raw	ro
+Amur	a_mớc
+Quaresma	qua_re_x_ma
+Mercy	méc_xi
+Syriza	xi_ri_da
+Beasts	bít_x
+Geithner	gây_nơ
+Syed	xi_ét
+Uche	u_chê
+Carrington	ca_rinh_ton
+Switch	xuýt
+Visual	vi_xua
+Keira	cây_ra
+Creed	cờ_rít
+Nak	nác
+Mateen	ma_tin
+Ttip	ti_ti_ai_pi
+Inbox	in_bóc_x
+Sheng	seng
+Gtel	gờ_ten
+Berger	bơ_gơ
+Trail	trai
+Consadole	con_xa_đô_le
+Caexpo	ca_ếch_po
+Gone	gon
+Yoshida	i_o_si_đa
+Sata	xa_ta
+Antonella	an_tô_nen_la
+Picture	pích_trờ
+Yellow	i_e_lâu
+Coli	cô_li
+Nadia	na_đi_a
+Eiu	e_i_u
+Fighter	phai_tơ
+Oliveira	o_li_vê_ra
+Lupus	lu_pút
+Temple	tem_pồ
+Bruni	bờ_ru_ni
+Yokosuka	y_ô_cô_xu_ca
+Mashable	mát_ây_bồ
+Milla	miu_la
+Viwaco	vi_oa_cô
+Sohu	xô_hu
+Adapter	a_đáp_tơ
+Walters	oan_tơ
+Clarkson	cờ_lác_xơn
+Bojan	bô_gian
+Root	rút
+Dracula	đờ_ra_cu_la
+Godzilla	gô_di_la
+Nesta	nét_ta
+Alcatel	an_ca_teo
+Marquinhos	ma_quin_nhô
+Freddie	phờ_rét_đi
+Other	a_dờ
+Coin	coi
+Witherspoon	uýt_thơ_x_pun
+Southernbank	xao_thờn_banh
+Penelope	pe_ne_lốp
+Doyle	đoi
+Files	phai
+Properties	pờ_ro_pơ_ti
+Mask	mác
+Burns	bơn
+Major	mây_giờ
+Jessie	giét_xi
+Cyber	xai_bơ
+Hmeimim	hờ_mây_mim
+Hudgens	hút_gien
+Amm	am
+Iwobi	i_uô_bi
+Esteban	ét_tê_ban
+Manny	man_ni
+Statham	x_tát_ham
+Itpc	i_tê_pê_xê
+Jaime	giêm
+Ksa	ca_ét_a
+Cen	xê_e_nờ
+Sleep	x_líp
+Cannon	can_nông
+Dispatch	đít_pát
+Donnarumma	đon_na_rum_ma
+Balon	ba_lon
+Satoshi	xa_tô_si
+Lactic	lác_tích
+Taobao	tao_bao
+Rama	ra_ma
+Close	cờ_lâu
+Wraith	gờ_ruết
+Sanest	xa_nét
+Yarmouk	y_a_mốc
+Griffin	gờ_ríp_phin
+Glonass	gờ_lô_nát
+Coke	cốc
+Local	lô_cồ
+Corriere	co_ri_ê
+Cyanua	xi_an_nua
+Lew	liu
+Pectin	péc_tanh
+Lucia	lu_xi_a
+Organ	oóc_gan
+Emilia	e_mi_li_a
+Sol-Ju	xon_giu
+Squat	x_quát
+Bihar	bi_ha
+Pie	pai
+Amoni	a_mô_ni
+Kutcher	cút_chơ
+Younghusband	i_ăng_hát_xờ_bừn
+Conan	cô_nan
+Apatit	a_pa_tít
+Traore	trao
+Bana	ba_na
+Before	bi_pho
+Stinger	xờ_tin_gơ
+Bromwich	bờ_rôm_uých
+Tronie	trô_ni_e
+Matcha	mát_cha
+Xuan	xuân
+Gill	gin
+Jimenez	di_me_nét
+Della	đen_la
+Grow	gờ_râu
+Beatbox	bít_bốc_x
+Probiotic	pờ_rô_bi_ô_tíc
+Dale	đên
+Eyed	ai
+Lorient	lo_ri_en
+Ucraine	u_cờ_rai_ne
+Bentayga	ben_tay_ga
+Tic	tê_i_xê
+Better	bét_tơ
+Dreams	đờ_rim
+Bombardier	bom_ba_đi_ơ
+Kaczynski	ca_din_x_ki
+Construction	con_x_trắc_xừn
+Webos	oe_bót_x
+Heung	he_ung
+Nolito	no_li_to
+Fructose	phờ_rúc_tu_x
+Cute	cu_te
+Miles	mi_le_x
+Oplus	ốp_lu_x
+Quneitra	quy_nây_tra
+Emc	e_mờ_xê
+Cavaliers	ca_va_li_ơ
+Hindustan	hin_đu_x_tan
+Wade	uết
+Faisal	phai_xan
+Malaixia	ma_lai_xi_a
+Malala	ma_la_la
+Cambiasso	cam_bi_a_xo
+Cloramin	cờ_lo_ra_min
+Listeria	li_x_te_ri_a
+Walsh	oát_s
+Rahim	ra_him
+Saenuri	xa_e_nu_ri
+Stern	x_tơn
+Maha	ma_ha
+Sinjar	xin_da
+Sooc	soóc
+Rajasthan	ra_dát_than
+Toro	tô_rô
+Chirac	chi_rác
+Residences	re_xi_đừn_x
+Lenta	len_ta
+Gwangju	quang_giu
+Johnathan	giô_na_than
+Pvgas	pê_vê_gát
+Veronica	ve_ro_ni_ca
+Nakamura	na_ca_mu_ra
+Fulro	phun_rô
+Yasuy	i_a_xuy
+Lombok	lôm_bốc
+Versailles	vơ_xai_le_x
+Stallone	x_tan_lôn
+Roscosmos	rô_x_cô_x_mô_x
+Isarel	ít_xa_ren
+Bungari	bun_ga_ri
+Gift	ghíp
+Vietstar	việt_x_ta
+Friedrich	phờ_rét_rích
+Teixeira	tây_xây_ra
+Pull	pun
+Nix	ních
+Leighton	lây_tôn
+Sylvester	xin_ve_x_tơ
+Plzen	pờ_lờ_den
+Dimitar	đi_mi_ta
+Salma	xan_ma
+Gujarat	gu_gia_rát
+Sejong	xe_di_ông
+Binali	bi_na_li
+Presstv	pờ_rét_x_ti_vi
+Basque	bát_x_cờ
+Viac	vê_i_a_xê
+Mandy	man_di
+Cantho	cần_thơ
+Joongang	dun_găng
+Hubble	hắp_bồ
+Webgame	oép_gêm
+Juniors	giu_ni_ót
+Commercial	com_me_xi_an
+Maleficent	ma_le_phi_xen
+Baku	ba_cu
+Cinderella	xin_đe_re_la
+Hanbok	han_bốc
+Luo	lu_o
+Julianne	du_li_an
+Xie	xi_e
+Hkbike	hát_ca_bai
+Hewitt	he_uýt
+Ripple	ríp_pờ_le
+Meireles	mây_re_le_x
+Fuso	phu_xô
+Grudia	gờ_ru_di-a
+Inspiron	in_x_pi_ron
+Harmony	hắc_mo_ni
+Lancaster	lan_ca_x_tơ
+Quentin	quen_tin
+Kolo	cô_lô
+Championships	cham_pi_on_síp
+Kepler	kép_lơ
+Crew	cờ_riu
+Besra	be_x_ra
+Bomber	bom_bơ
+Disk	đít_x
+Severodvinsk	xê_vê_rốt_vin_xờ_cờ
+Vucinic	vu_xi_níc
+Boer	bô_ơ
+Timeline	tham_lai
+Asm	a_ét_mờ
+Petrosetco	pê_trô_xét_cô
+Tienphong	tiền_phong
+Berg	béc
+Yahya	i_a_hia
+Kadhafi	cát_ha_phi
+Alfonso	an_phôn_xô
+Disco	đi_x_cô
+Jean-Yves	gin_i_vét
+Yasen	i_a_xen
+Heaven	he_ven
+Mukherjee	mu_khe_ri
+Assist	ác_xít
+Rouge	rốt
+Kirchner	kích_nơ
+Christensen	chờ_rít_x_ten_xen
+Gulf	gun
+Pelle	pen_lê
+El-Sheikh	en_sây
+Mena	me_na
+Unodc	iu_en_âu_đi_xi
+Kimmese	kim_mi
+Savico	xa_vi_cô
+Sahin	xa_hin
+Naftogaz	náp_tô_gát
+Hook	húc_cờ
+Duff	đúp
+Kloss	cờ_lót
+Hmas	hát_mát
+Nitrit	ni_trít
+Aol	a_o_lờ
+Pegasus	pe_ga_xút
+Koryo	cô_ri_ô
+Caramen	ca_ra_men
+Westlife	oét_x_líp
+Albiceleste	an_bi_xe_lét_x_te
+Hotels	hô_ten
+Still	x_tin
+Gazmin	ga_min
+Ava	a_va
+Tobago	to_ba_go
+Cher	che
+Butterfly	bút_tơ_phờ_li
+Isa	i_xa
+Abba	áp_ba
+Experience	ếch_x_pe_riên
+Ketamine	ke_ta_min
+Excellence	ếch_xe_lừn
+Songs	xoong
+Pou	pu
+Faroe	pha_ro_e
+Sweet	xuýt
+Sweida	x_uây_đa
+Angelique	an_giê_lích
+Variety	va_ri_e_ti
+Techcrunch	tếch_cờ_run
+Spot	x_pót
+Humvee	hum_vi
+Fiditour	phi_đi_tua
+Tizen	ti_den
+Muslera	mu_le_ra
+Lukkade	lắc_ca_đe
+Ut	út
+Trip	tríp
+Hemingway	hê_minh_oay
+Clancy	cờ_lan_xi
+Weeknd	uých_cừn
+Infinite	in_phi_nít
+Keisuke	cây_xu_ke
+Yue	iu
+Fine	phai
+Udon	u_đon
+Runner	răn_nơ
+Spy	x_pi
+Forward	pho_oát
+Pretoria	pờ_re_tô_ri_a
+Navigos	na_vi_gót
+Hand	han
+Zardari	da_đa_ri
+Imei	i_mây
+Asanzo	a_xan_dô
+Dinner	đin_nờ
+Cessna	xét_x_na
+Al-Jazeera	an_da_de_ra
+Kuroda	cu_ro_đa
+Luala	lu_a_la
+Julen	du_len
+Bryant	bờ_ry_an
+Coop	cóp
+Lakers	lác_cơ
+Sankei	xan_cây
+Spike	xờ_pích
+Meg	méc
+Dresden	đờ_rét_x_đen
+Brangelina	bờ_ran_ghe_li_na
+Botnet	bốt_nét
+Gemma	ghem_ma
+Jiangsu	gi_ang_xu
+Adisak	a_đi_xắc
+Gadot	ga_đót
+Zeitung	dây_tung
+Sigmar	xích_ma
+Lizzie	li_di
+Saadi	xa_đi
+Dzhokhar	giô_kha
+Benny	ben_ni
+Rubik	ru_bích
+Quantum	quan_tum
+Mullah	mun_lát
+Roche	rốt_trờ
+Agnieszka	a_gờ_nít_x_ca
+Balenciaga	ba_len_xi-a_ga
+Rumba	rum_ba
+Joanna	doan_na
+Jayden	dây_đen
+Iberia	i_be_ri_a
+Cerezo	xe_re_dô
+Pate	pa_tê
+Gazeta	ga_de_ta
+Bradford	bờ_rát_phót
+Pssi	pê_ét_ét_i
+Brookings	bờ_rốc_kinh
+Och	o_xê_hát
+Wyoming	uy_o_minh
+Zip	díp
+Akinfeev	a_kin_phíp
+Extreme	e_xờ_trem
+Hummer	hum_me
+Record	re_cót
+Moo	mu
+Slave	xờ_la_ve
+Aflatoxin	áp_la_tô_xin
+Paraquat	pa_ra_quát
+Dairy	đai_ri
+Fanning	phan_ninh
+Songkrasin	xong_cờ_ra_xin
+Priscilla	pờ_ri_xin_la
+Nest	nét
+Kritenbrink	k_ri_ten_bờ_rinh
+Haqqani	hác_qua_ni
+Myspace	my_x_pây
+Lak	lác
+Folder	phôn_đơ
+Voip	voi_pờ
+Jungle	dung_le
+Turkish	tút_kích
+Kramatorsk	cờ_ra_ma_tốc
+Al-Thani	an_tha_ni
+Fischer	phích_trơ
+Martina	mác_ti_na
+Chea	xi_ết_i_ây
+Aisyah	ai_xi_a
+Ilkay	i_cai
+Ming-Chi	minh_chi
+Shayrat	xờ_hay_rát
+Kirk	ki_rờ_cờ
+Lobby	lóp_pi
+Alexandr	a_lếch_xan
+Stein	xờ_tê_in
+Criss	cờ_rít
+Kwong	cờ_oong
+Savchenko	xa_chen_cô
+Hayat	hay_át
+Gabi	ga_bi
+Luigi	lui_di
+Calories	ca_lo_ri
+Molina	mo_li_na
+Iia	i_i_a
+Bautista	bau_tít_x_ta
+Chamakh	cha_mác
+Arc	a_rờ_xê
+Haniff	ha_níp
+Geely	ghe_li
+Samrin	xam_rin
+Manafort	ma_na_phót
+Richmond	rích_mon
+Zona	dô_na
+Hamza	ham_da
+Haccp	hát_a_xê_xê_pê
+Isabelle	i_da_ben
+Brittany	bờ_rít_ta_ni
+Fanclub	phan_cờ_lúp
+Sparrow	x_pa_râu
+Canoeing	ca_nô_inh
+Mertens	me_ten
+Vietnamese	việt_nam_mi
+Albiol	a_bi_ôn
+Monsoon	mon_xun
+Triumf	tri_um
+Zircon	di_con
+Bodykit	bo_đi_kít
+Zeiss	dây_x
+Matxcova	mát_x_cơ_va
+Fabiano	pha_bi_a_nô
+Ketamin	ke_ta_min
+Urus	u_rút
+Xpander	xờ_pan_đơ
+Priv	pờ_ríp
+Palembang	pa_lem_bang
+Automotive	au_tô_mô_típ
+Bagan	ba_gan
+Move	mu_vờ
+Kelantan	ke_lan_tan
+Thammavong	tham_ma_vông
+Delaware	đe_la_oe
+Nizhny	ních_ny
+Kadyrov	ka_đi_rốp
+Kinzhal	kin_dờ_ha
+Lina	li_na
+Fowler	phao_lơ
+Dress	đờ_rét_x
+Queiroz	que_i_rốt
+Motorrad	mo_to_rát
+Peres	pe_rét
+Serge	se_rờ_ge
+Cable	cáp_le
+Butt	bút
+Breedlove	bờ_ri_đờ_lốp
+Vector	véc_tơ
+Kontum	con_tum
+Henin	he_nin
+Defender	đe_phen_đờ
+Wer	oe
+Genius	ghe_niu_x
+Venom	ve_nom
+Glory	gờ_lo_ri
+Markus	ma_cu_x
+Factory	phách_to_ri
+Culture	cun_trờ
+Genco	ghen_co
+Progesterone	p_ro_gét_x_te_ron
+Geum	gie_um
+Natalegawa	na_ta_le_ga_oa
+Ilyushin	i_li_u_sin
+Records	ri_cót
+Resorts	rì_xọt
+Ant-Man	an_man
+Tamara	ta_ma_ra
+Apt	áp_tờ
+Juanfran	oan_phờ_ran
+Brin	bờ_rin
+Takeshi	ta_ke_si
+Tfsi	tê_ép_ét_i
+Conjuring	con_du_rinh
+Isla	i_x_la
+Mullen	mu_len
+Afar	a_pha
+Helix	he_lích
+Cazeneuve	ca_de_nêu_ve
+Judy	du_đi
+Go-Jek	go_dếch
+Styles	xờ_tai
+Nakatani	na_ca_ta_ni
+Abadi	a_ba_đi
+Usd/Euro	u_ét_đê/ơ_rô
+Idaho	i_đa_hô
+Tap	táp
+Cargill	ca_gin
+Rikvip	rích_víp
+Tutankhamun	tu_tan_kha_mun
+Kanwa	can_oa
+Amal	a_man
+Surin	xu_rin
+Estate	ét_x_tát
+Digitimes	đi_gi_tham
+Wai	oai
+Aleksandar	a_lếch_xan_đa
+Wakefield	oát_phiu
+Sanofi	xa_nô_phi
+Abel	a_ben
+Drilling	đờ_ri_linh
+Halico	ha_li_cô
+Oakland	oác_lan
+Luciano	lu_xi_a_nô
+Shawn	sau
+Laguna	la_gu_na
+Kumamoto	cu_ma_mô_tô
+Eclipse	e_cờ_líp
+Imogen	i_mo_gen
+Bent	ben
+Mainichi	mai_ni_chi
+Yumi	u_mi
+Swiss	xuýt
+Ora	o_ra
+Matthias	ma_thi_át
+Rota	rô_ta
+Icrc	ai_xi_a_xi
+Htin	tin
+Tasmania	tát_x_ma_ni_a
+Par	pa_rờ
+Dusseldorf	đu_xe_đốp
+Champa	chăm_pa
+Cif	xíp
+Fang	phang
+Rapid	ra_pít
+Beauties	biu_tít_x
+Reza	re_da
+Ratings	rát_tinh
+Eintracht	e_in_trát
+Bold	bôn
+Prize	pờ_ri_de
+Andaman	an_đa_man
+Goran	go_ran
+Tiqui-Taca	ti_quy-ta_ca
+Vicofa	vi_cô_pha
+Cathy	ca_thi
+Hal	ha
+Vuvuzela	vu_vu_de_la
+Fortuna	pho_tu_na
+Trax	trát
+Kuznetsova	cu_dờ_nét_xô_va
+Steaua	x_te_ua
+Ellie	e_li
+Trophy	tro_phi
+Pilot	pi_lót
+Symphony	xim_phô_ni
+Waziristan	oa_di_ri_x_tan
+Traffic	tra_phích
+Hadico	ha_đi_cô
+Veston	vét_x_tông
+Mva	mờ _vê_a
+Spur	x_pua
+Lindegaard	lin_đơ_gát
+Narita	na_ri_ta
+Swat	xoát
+Welcome	oeo_căm
+Lea	li
+Josephine	dô_dép_phin
+Jrai	giờ_rai
+Takahashi	ta_ca_ha_si
+Rossiya	rốt_xi_a
+Triclosan	trích_lô_xan
+Pureview	pu_re_viu
+Chou	chu
+Bacca	bác_ca
+Jo-Wilfried	giô-uy_phờ_rít
+Reply	rép_li
+Southwest	xao_thơ_oét
+Stay	x_tay
+Suicide	xui_xi_de
+Tattoo	ta_tu
+Background	bách_gờ_rao
+Kurdistan	cơ_dít_x_tan
+Flora	phờ_lo_ra
+Hassanal	ha_xa_nan
+Brain	bờ_rên
+Banega	ba_ne_ga
+Woori	u_ri
+Christoph	chờ_rít_tóp
+Beacon	bi_con
+Frederick	phờ_rê_đê_rích
+Schumer	su_mơ
+Instant	in_x_tan
+Peta	pê_ta
+Waltz	van
+Murakami	mu_ra-ca_mi
+Shu	su
+Stefani	xờ_tê_pha_ni
+Seul	xê_un
+Rostec	rô_tếch
+Destiny	đét_ti_ni
+Abac	a_bác
+Khmeimim	khờ_mây_mim
+Heath	hít
+Faith	phai
+Riav	ri_áp
+Schwab	x_choáp
+Bogor	bo_go
+Hennessey	hen_nét_xi
+Dash	đát
+Huong	hương
+Kunduz	cun_du
+Gle	gờ_le
+Kasper	cát_x_pơ
+Curry	cu_ri
+Sciences	xai_en_xi
+Flip	phờ_lip
+Sears	xi
+Oleksandr	ô_lếch_xan_đờ
+Evaldo	ê_van_đô
+Beth	bét
+Debaltseve	đe_bát_xe_ve
+Cory	co_ri
+Luhan	lu_han
+Weber	oe_bờ
+Reuter	roi_tơ
+Coma	cô_ma
+Pardew	pa_điu
+Nra	en_nơ_rầy
+Glamour	gờ_la_mau
+Warrior	oa_ri_ơ
+Emil	e_min
+Kelbin	ken_bin
+Amip	a_míp
+Sala	xa_la
+Bloc	bờ_lốc
+Vof	vê_o_ép
+Items	ai_tầm
+Property	pờ_rô_pét_ti
+Bandung	ban_đung
+Romario	rô_ma_ri_ô
+Geoffrey	gheo_phờ_rây
+Ayrault	ay_rau
+Ehud	e_hút
+Maseco	ma_xe_cô
+Primavera	pờ_ri_ma_ve_ra
+Mind	min
+Envy	en_vi
+Kayla	cay_la
+Almagro	an_ma_gờ_rô
+Jagielka	da_den_ca
+Issac	i_dắc
+Myanma	mi_an_ma
+Medley	mét_lây
+Pazzini	pa_di_ni
+Kimeng	ki_meng
+Buzz	bút
+Braun	bờ_rao
+Sanogo	xa_nô_gô
+Citric	xi_trích
+Usher	u_sở
+Wadi	oa_đi
+Stda	ét_tê_đê_a
+Imdb	ai_em_đi_bi
+Suwon	xu_uôn
+Leong	lê_ông
+Protection	pờ_rô_téc_sừn
+Birthday	bớt_đây
+Devil	đê_vin
+Pushkov	pút_s_kốp
+Matrix	ma_trích
+Fiona	phi_o_na
+Pulse	pau
+Zaw	dao
+Okada	ô_ca_đa
+Token	tốc_cừn
+Luther	lu_thơ
+Push	pút
+Xing	xinh
+Works	uốc
+Cotillard	co_ti_lát
+Graphics	gờ_ra_phít
+Mayo	may_ô
+Canal	ca_nan
+Kunis	cu_ni
+Pohang	pô_hang
+Phununews	phụ_nữ_niu
+Nur	nu
+Bulls	bun
+Rockets	rốc_két
+Maccabi	mác_ca_bi
+Jabal	da_ban
+Charm	cham
+Baikal	bai_can
+Soryu	xo_riu
+Ehome	e_hôm
+Suh	su
+Sharia	sa_ri_a
+Wiko	uy_kô
+Nikita	ni_ki_ta
+Donal	đô_nan
+Duda	du_da
+Maker	ma_cơ
+Haji	ha_gi
+Cricket	cờ_rích_két
+Xiang	xi_ang
+Atv	a_tê_vê
+Macheda	ma_che_đa
+Oswald	ốt_oan
+Vulcan	vu_can
+Rpmu	rờ_pê_mơ_u
+Kashin	ca_sin
+Storage	x_to_rết
+Mianma	mi_an_ma
+Cheong	che_ông
+Harman	ha_man
+Daniels	đa_niên
+Longoria	lon_go_ri_a
+Sasaki	xa_xa_ki
+Theme	them
+Maung	ma_ung
+Elliott	e_li_ớt
+Rhode	rốt
+Gla	gờ_la
+Father	pha_dờ
+Tor	to
+Bakar	ba_các
+Gopro	góp_ro
+Jean-Marc	gin_mác
+Iheanacho	i_he_na_cho
+Calais	ca_lai
+Mandarin	man_đa_rin
+Holcim	hôn_xim
+Mulsanne	mun_san_ne
+Gaz	ga
+Seameo	xi_meo
+Klimkin	cờ_lim_kin
+Ohlins	ô_lin
+Etfs	e_tê_ép_sờ
+Liveleak	li_vờ_lích
+Maharashtra	ma_ha_rát_tra
+Kampong	cam_pông
+Jian	gi_an
+Eli	e_li
+Valeria	va_le_ri_a
+Facelift	phây_x_líp
+Value	va_lơ
+Zayn	da_in
+Pirates	pi_ra_tét
+Sportage	xờ_pót_tết
+Madame	ma_đam
+Popular	po_pu_la
+Elliot	en_li_ót
+Brooke	bờ_rốc_ke
+Eduard	e_đu_át
+Knowles	cờ_nao_lét
+Blaise	bờ_lai_xe
+Basico	ba_xi_co
+Priebus	pờ_ri_e_bút
+Bancassurance	ban_xa_xu_ran_xe
+Carotenoid	ca_ro_te_noi
+Chaplin	cháp_lin
+Peak	pích
+Pvpower	pê_vê_pau_ơ
+Carb	cáp
+Channing	chan_ninh
+Wiki	uy_ki
+Russo	rút_xô
+Borini	bo_ri_ni
+Amino	a_mi_no
+Chee	chi
+Imperia	im_pe_ri_a
+Stories	xờ_to_ri_et
+Watanabe	oa_ta_na_bê
+Fonterra	phon_tê_ra
+Csu	xê_et_u
+Cor	co
+Arseny	ác_xe_ni
+Gluten	gờ_lu_ten
+Bobbi	bóp_bi
+Gore	go_re
+Azure	a_dua
+Dejan	đê_an
+Afta	áp_ta
+Mimi	mi_mi
+Simmons	xim_mon
+Guido	gui_đo
+Maldini	man_đi_ni
+Conway	con_oay
+Alvin	an_vin
+Lien	liên
+Conference	con_fe_ren_xe
+Scanner	xờ_can_nơ
+Avenger	a_ven_gơ
+They	dây
+Aichi	ai_chi
+Menezes	me_ne_dét
+Boost	bốt_x
+Kuang	quang
+Gladbach	gờ_lát_bách
+Munoz	mu_nót
+There	de
+Duty	đu_ti
+Xenon	xe_non
+Photpho	phốt_pho
+Liege	li_ge
+Novosibirsk	no_vo_xi_bích
+Rammasun	ram_ma_xun
+Jae-Yong	gi_oong
+Fabinho	pha_bin_nhô
+Tamerlan	ta_mơ_lan
+Talking	thoóc_kinh

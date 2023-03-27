@@ -1,0 +1,186 @@
+HTX	hợp tác xã
+BS	bác sĩ
+GDVN	giáo dục việt nam
+KM/H	ki-lô-mét trên giờ
+GB	ghi-ga-bai
+NN-PTNT	nông nghiệp phát triển nông thôn
+VHTTDL	văn hoá thể thao du lịch
+TTHC	thủ tục hành chính
+BXH	bảng xếp hạng
+VH-TT	văn hoá thể thao
+TN-MT	tài nguyên môi trường
+PGS-TS	phó giáo sư tiến sĩ
+DNNVV	doanh nghiệp nhỏ và vừa
+VH-TT-DL	văn hoá thể thao du lịch
+KT-XH	kinh tế xã hội
+BHTN	bảo hiểm thất nghiệp
+NHM	người hâm mộ
+GHZ	ghi-ga-héc
+DTTS	dân tộc thiểu số
+CHQS	chỉ huy quân sự
+NTNN	nhà thầu nước ngoài
+PCLB	phòng chống lụt bão
+TPCP	trái phiếu chính phủ
+KH-CN	khoa học công nghệ
+TT-TT	thông tin truyền thông
+GDCK	giao dịch chứng khoán
+TBN	Tây Ban Nha
+CSB	cảnh sát biển
+XS	xổ số
+PLVN	pháp luật Việt Nam
+SXKD	sản xuất kinh doanh
+BCTC	báo cáo tài chính
+TTTT	thông tin truyền thông
+BVMT	bảo vệ môi trường
+GS-TS	giáo sư tiến sĩ
+LTS	lời toà soạn
+CHXHCN	cộng hoà xã hội chủ nghĩa
+CNTT-TT	công nghệ thông tin truyền thông
+GT-VT	giao thông vận tải
+CSND	cảnh sát nhân dân
+HSMT	hồ sơ mời thầu
+BLV	bình luận viên
+TTKS	tuần tra kiểm soát
+NDVN	nông dân Việt Nam
+CNCH	cứu nạn cứu hộ
+CNHT	công nghiệp hỗ trợ
+CMCN	cách mạng công nghiệp
+MXH	mạng xã hội
+SBT	sách bài tập
+QBV	quả bóng vàng
+STT	số thứ tự
+PCTP	phòng chống tội phạm
+TNTT	thu nhập tính thuế
+QCVN	quy chuẩn Việt Nam
+BQT	ban quản trị
+TDDC	thể dục dụng cụ
+KCX-KCN	khu chế xuất khu công nghiệp
+CNXH	chủ nghĩa xã hội
+PBGDPL	phổ biến giáo dục pháp luật
+BLDS	bộ luật dân sự
+XDLL	xây dựng lực lượng
+BLTTHS	bộ luật tố tụng hình sự
+NNT	người nộp thuế
+VBQPPL	văn bản quy phạm pháp luật
+NSX	nhà sản xuất
+XHTT	xã hội thông tin
+KHLCNT	kê hoạch lựa chọn nhà thầu
+LMLM	lở mồm long móng
+DNBH	doanh nghiệp bảo hiểm
+LLVTND	lực lượng vũ trang nhân dân
+CSTT	cảnh sát trật tự
+PNVN	phụ nữ Việt Nam
+TTXD	trật tự xây dựng
+TS-BS	tiến sĩ bác sĩ
+KTXH	kinh tê xã hội
+HKVN	hàng không Việt Nam
+BCTN	báo cáo thường niên
+QT	quốc tế
+HHHV	hoa hậu hoàn vũ
+LLTP	lí lịch tư pháp
+HKQT	hàng không quốc tế
+PGD	phòng giáo dục
+TBNN	trung bình nhiều năm
+GDKHQ	giao dịch không hưởng quyền
+HSDT	hồ sơ dự thầu
+BHTG	bảo hiểm tiền gửi
+CBCCVC	cán bộ, công chức, viên chức
+BPCK	biên phòng cửa khẩu
+GDPT	gia đình phật tử
+KTSTQ	kiểm tra sau thông quan
+CSMT	cảnh sát môi trường
+QLHC	quản lí hành chính
+NMLD	nhà máy lọc dầu
+CBNV	cán bộ nhân viên
+QNCN	quân nhân chuyên nghiệp
+TCCT	tổng cục chính trị
+PK-KQ	phòng không không quân
+QS	quân sự
+BHNN	bảo hiểm nông nghiệp
+BQP	bộ quốc phòng
+MTQG	mục tiêu quốc gia
+VPHC	vi phạm hành chính
+KD	kinh doanh
+GDMN	giáo dục mầm non
+XNC	xuất nhập cảnh
+DTNN	dự trữ nhà nước
+BCC	Bộ chính trị
+PTNN	phát triển nông nhiệp
+QPPL	quy phạm pháp luật
+VPCC	văn phòng công chứng
+CCCD	căn cước công dân
+VNCH	Việt Nam Cộng hoà
+LNST	lợi nhuận sau thuế
+BNHV	bước nhảy hoàn vũ
+NNCNC	nông nghiệp công nghệ cao
+TMDV	thương mại dịch vụ
+TTTV	thể thao ti vi
+VSMT	vệ sinh môi trường
+MTTH	ma tuý tổng hợp
+KCN-KCX	khu công nghiệp khu chế xuất
+QP	quốc phòng
+STK	số tài khoản
+KTNT	kinh tế nông thôn
+VTHKCC	vận tải hành khách công cộng
+GS-TSKH	giáo sư tiến sĩ khoa học
+BHNT	bảo hiểm nhân thọ
+NTTS	nuôi trồng thuỷ sản
+DQTV	dân quân tự vệ
+NVQS	nghĩa vụ quân sự
+TTKTTV	trung tâm khí tượng thuỷ văn
+XDNTM	xây dựng nông thôn mới
+BLTTDS	bộ luật tố tụng dân sự
+PCCN	phòng chống cháy nổ
+PCTPMT	phòng chống tội phạm ma tuý
+MG/KG	miligram trên kilogram
+GSHT	giám sát hành trình
+NDTV	nhân dân tự vệ
+CBPG	chống bán phá giá
+CMT	chứng minh thư
+TTDH	thách thức danh hài
+QH-KT	quy hoạch kiến trúc
+PCCCR	phòng cháy chữa cháy rừng
+KTTT	kinh tế thị trường
+PTDTNT	phổ thông dân tộc nội trú
+HSD	hạn sử dụng
+GTGD	giá trị giao dịch
+BCS	bao cao su
+NGND	nhà giáo nhân dân
+KQKD	kết quả kinh doanh
+M/S	mét trên giây
+VPQH	văn phòng quốc hội
+BL	bình luận
+CKQT	cửa khẩu quốc tế
+PCMT	phòng chống ma tuý
+NX	nhận xét
+PMH	phiếu mua hàng
+KCNC	khu công nghệ cao
+HTXNN	hợp tác xã nông nghiệp
+CBTT	công bố thông tin
+TPDN	trái phiếu doanh nghiệp
+TCTN	trợ cấp thất nghiệp
+NDCM	nhân dân cách mạng
+HMTN	hiến máu tình nguyện
+PCTHTL	phòng chống tác hại thuốc lá
+CHKQT	cảng hàng không quốc tế
+GDCD	giáo dục công dân
+LHPNVN	liên hiệp phụ nữ Việt Nam
+LNTT	lợi nhuận trước thuế
+QTDND	quỹ tín dụng nhân dân
+DVMTR	dịch vụ môi trường rừng
+CTRL	control
+PKL	phân khối lớn
+QSMT	quay số mở thưởng
+THADS	thi hành án dân sự
+SGGPO	Sài Gòn giải phóng
+VSATTP	vệ sinh an toàn thực phẩm
+ANTV	an ninh ti vi
+ANND	an ninh nhân dân
+NSUT	nghệ sĩ ưu tú
+ANTG	an ninh thế giới
+UTGT	ùn tắc giao thông
+VAC	vườn ao chuồng
+QPAN	quốc phòng an ninh
+CATW	công an trung ương
+UBDT	Uỷ ban Dân tộc
+ANQG	an ninh quốc gia

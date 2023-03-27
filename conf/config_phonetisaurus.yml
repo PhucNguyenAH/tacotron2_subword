@@ -1,0 +1,38 @@
+########################################
+#         G2P MODEL PARAMETERS         #
+########################################
+g2p:
+    nbest: 1
+    beam: 10000
+    thresh: 99.0
+    write_fsts: False
+    accumulate: False
+    pmass: 0.0
+    punctuation: "!\\'(),.:;?"
+    
+########################################
+#         RESOURCES                    #
+########################################
+resources:
+    vi_lexicon_file: "all-vietnamese-syllables_17k9.XSAMPA.Mien-BAC_KA.txt"
+    foreign_lexicon_file: "03_all_foreign_words.10600woreds.30102020.lex"
+    en_lexicon_file: "cmudict-0.7b.vi.mergeEng-xsampa.forE2E.KA.txt"
+    load_default: False #Load default resources which distributed with packages, it should be False if you config lexicon_file manually.
+
+########################################
+#      TEXT TO SEQUENCE PARAMTERS      #
+########################################
+t2s: 
+    special: '-'
+    pad: '_'
+    EOS: '~'
+    BOS: '+'
+    white_space: " " # white space phoneme representation
+    letters: 'jJfFwWzZaáàăắằẵẳặâấầẫẩậãảạbcdđeéèêếềễểệẽẻẹghiíìĩỉịklmnoóòôốồỗổộõỏọơớờỡởợpqrstuúùũủụưứừữửựvxyýỳỹỷỵAÁÀĂẮẰẴẲẶÂẤẦẪẨẬÃẢẠBCDĐEÉÈÊẾỀỄỂỆẼẺẸGHIÍÌĨỈỊKLMNOÓÒÔỐỒỖỔỘÕỎỌƠỚỜỠỞỢPQRSTUÚÙŨỦỤƯỨỪỮỬỰVXYÝỲỸỶỴ'
+kaldi_format:
+    kaldi_format: False
+    begin: '_B'
+    end: '_E'
+    inner: '_I'
+    single: '_S' #one phoneme per syllable
+    g2p_punctuation: {"!": "lpau", "'": null, "(": null, ")": null, ",": "mpau", ".": "lpau", ":": "lpau", ";":"lpau", "?": "lpau", " ": null}

@@ -1,0 +1,123 @@
+resources:
+    ;abbre_path: resources/abbre_correct.txt
+    abbre_path: resources/abbr.txt
+    foreign_path: resources/foreign.txt
+    # foreign_path: resources/foreign_anhLuong_news.txt
+    tts_list: resources/vn.dict
+    all_vnmese_words: resources/all-vietnamese-syllables.txt.normalized
+    oov_path: resources/oov.txt
+    vi_lexicon_file: all-vietnamese-syllables_17k9.XSAMPA.Mien-BAC_KA.txt
+    en_lexicon_file: cmudict-0.7b.vi.mergeEng-xsampa.forE2E.KA.txt
+    foreign_lexicon_file: foreignWords_02_10_2019.txt
+    #Load default resources which distributed with packages, it should be False if you config lexicon_file manually.
+    load_default: True
+
+g2p:
+    model_path: resources/g2p_model_no_space/model_epoch_84_best_all.pt
+    use_gpu: False
+    punctuation: '!\'(),.:;? '
+
+t2s: # text to sequence
+    special: '-'
+    pad: '_'
+    EOS: '~'
+    BOS: '+'
+    letters: 'jJfFwWzZaáàăắằẵẳặâấầẫẩậãảạbcdđeéèêếềễểệẽẻẹghiíìĩỉịklmnoóòôốồỗổộõỏọơớờỡởợpqrstuúùũủụưứừữửựvxyýỳỹỷỵAÁÀĂẮẰẴẲẶÂẤẦẪẨẬÃẢẠBCDĐEÉÈÊẾỀỄỂỆẼẺẸGHIÍÌĨỈỊKLMNOÓÒÔỐỒỖỔỘÕỎỌƠỚỜỠỞỢPQRSTUÚÙŨỦỤƯỨỪỮỬỰVXYÝỲỸỶỴ'
+
+NER:
+    sentence_len: 100
+    gpu_id: -1
+    rand_embedding: True
+    batch_size: 32
+    unk: unk
+    char_hidden: 100
+    word_hidden: 100
+    dropout: 0.5
+    epochs: 100
+    start_epoch: 0
+    caseless: False
+    char_dim: 30
+    word_dim: 100
+    char_layers: 1
+    word_layers: 1
+    lr: 0.001
+    lr_decay: 0.05
+    lambda0: 1.0
+    fine_tune: True
+    momentum: 0.9
+    clip_grad: 5.0
+    large_crf: True
+    mini_count: 5
+    co_train: True
+    patience: 15
+    if_highway: True
+    highway_layers: 1
+    eva_matrix: fa
+    least_iters: 50
+    shrink_embedding: False
+    use_attention: False
+    gpu: -1
+    ;save_model_to: ner.model
+    ;load_model_from: ner.model
+    train_file: train.conll
+    dev_file: dev.conll
+    test_file: test.conll
+
+    train_file_1: ./data/viettreebank_train.seg.conll
+    dev_file_1: ./data/viettreebank_valid.seg.conll
+    test_file_1: ./data/viettreebank_test.seg.conll
+
+    train_file_2: ./data/data_end_mini/train_v2.conll
+    test_file_2: ./data/data_end_mini/test_v2.conll
+    dev_file_2: ./data/data_end_mini/dev_v2.conll
+
+    train_norm: ./data/tts_norm_ner/train.conll
+    val_norm: ./data/tts_norm_ner/val.conll
+    test_norm: ./data/tts_norm_ner/test.conll
+
+    checkpoint_ner: ner/checkpoint/norm_ner_v2.model
+
+
+norm-pattern:
+    km_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*km\s
+    m_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*m\s
+    cm_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*cm\s
+    mm_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*mm\s
+    ms_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*ms\s
+    nm_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*nm\s
+    ha_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*ha\s
+    ;L_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*L\s
+    m_odd_pattern: \s[0-9]+m[0-9]+\s
+    h_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*h\s
+    s_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*s\s
+
+    kg_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*kg\s
+    g_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*g\s
+
+    # Unit update
+    gr_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*gr\s
+    gram_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*gram\s
+    mmhg_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*mmhg\s
+    mmol_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*mmol\s
+    MP_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*MP\s
+
+
+    mg_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*mg\s
+    km2_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*km2\s
+    dm2_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*dm2\s
+    cm2_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*cm2\s
+    mm2_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*mm2\s
+    m2_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*m2\s
+    usd_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*usd\s
+    vnd_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*đ\s
+    ml_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*ml\s
+    l_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*[lL]\s
+    nm3_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*nm3\s
+    um3_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*µm3\s
+    mm3_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*mm3\s
+    cm3_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*cm3\s
+    #dm3_pattern: \s[0-9]*\.*\,*\-*[0-9]+dm3\s đề xi mét khối
+    #dam3_pattern: \s[0-9]*\.*\,*\-*[0-9]+dam3\s đề ca mét khối
+    #hm3_pattern: \s[0-9]*\.*\,*\-*[0-9]+hm3\s héc tô mét khối
+    km3_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*km3\s
+    m3_pattern: \s[0-9]*[,.]*[0-9]*\.*\,*\-*[0-9]*[,.]*[0-9]+\s*m3\s
